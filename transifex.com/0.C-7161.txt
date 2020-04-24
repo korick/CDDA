@@ -1,0 +1,1953 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+сыворотка набор чемодан очки браслет серьга часы шапка наушники каска костюм шлем капюшон жилет ремень мешок маска ожерелье 
+
+
+
+
+
+
+
+
+atomic nightlight
+atomic nightlight (covered)
+atomic lamp
+atomic lamp (covered)
+
+bowfin амия
+A Bowfin.  These fish are related to gar but without the huge teeth, skin rending scales, and aggression.
+Ильная рыба. Близкий родственник панцирной щуки, но без её крупных зубов, шелушащейся чешуи и агрессивных повадок.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+small batch of curdling milk бурдюк кислого молока небольшой
+Похоже, что молоко скисло и готово к дальнейшей переработке. Проверка смеси привела к контакту её с воздухом.
+batch of curdling milk бурдюк кислого молока
+large batch of curdling milk бурдюк кислого молока большой
+diamond matrix алмазная матрица
+spiral stone винтовой винтообразный
+vortex stone вихревой
+diamond fragment алмазные фрагменты
+diamond matrix матрице алмазной коронки
+biosilicified биосилицированных
+
+однозарядная винтовка
+полуавтоматическая винтовка
+автоматическая винтовка
+базовый дробовик
+помповый дробовик
+базовый пистолет-пулемёт
+
+
+
+
+
+
+diamond lance алмазное копьё
+A weapon that is as deadly as it is dazzling. The diamond matrix in this weapon's center acts as a catalyst; rapidly changing carbon-heavy materials into a crystalline substance that is nearly equal to diamond in hardness. The substance rapidly decays when separated from the catalyst; thus a pre-shaped lump of carbon is brought into contact with the matrix, immediately crystallized and launched just as quickly. The launcher requires a specialized chassis in order to be brought to bear on its unfortunate targets.
+Оружие, которое смертоносно настолько, насколько и великолепно. В центре этого оружия расположена алмазная матрица, которая выполняет роль катализатора; превращая быстро движущийся высокоуглеродистый материал в кристаллическую структуру, которая сравнится с твёрдостью алмаза. Кристаллизированный материал быстро разрушается, когда находится вне зоны катализатора; поэтому кусок углерода требуемой формы при контакте с матрицей, сразу же кристаллизируется и выстреливается. Пусковая установка требует специальное шасси для монтирования и применения по целям, которым сильно не повезёт.
+
+diamond nova алмазная нова
+A weapon that is as deadly as it is dazzling.  The diamond matrix in this weapon's center acts as a catalyst; rapidly changing carbon-heavy materials into a crystalline substance that is nearly equal to diamond in hardness.  The substance rapidly decays when separated from the catalyst, and at  sizes as large as the projectile used, also rapidly decays when in contact with other matter. Thus the projectile is held and launched by the use of pressurized air from a vortex stone.  Upon striking its target, the projectile undergoes explosive decomposition; shattering into a brilliant burst of diamond fragments.
+Оружие, которое смертоносно настолько, насколько и великолепно. В центре этого оружия расположена алмазная матрица, которая выполняет роль катализатора; превращая быстро движущийся высокоуглеродистый материал в кристаллическую структуру, которая сравнится с твёрдостью алмаза. Кристаллизированный материал быстро разрушается, когда находится вне зоны катализатора; также быстро разрушается при контакте с другой материей. Поэтому снаряды хранятся и выстреливаются используя герметичную зону высокого давления, создаваемую вихревым камнем. При поражении атакуемой цели, снаряд раскалывается на осколки; дробясь в великолепный взрыв алмазных фрагментов. Пусковая установка требует платформу для монтирования.
+
+vortex accelerator вихревой ускоритель
+This weapon uses powerful bursts of air to launch sharp fragments at its target at high speed.  You'll need some form of platform to mount it on.
+Это оружие использует мощные удары воздуха для выстрела острыми алмазными фрагментами с высокой скоростью по атакуемой цели. Вам понадобится платформа для его монтирования.
+
+vortex bolter вихревой болтомёт
+This weapon uses powerful bursts of air to launch bolts at its target at high speed.  You'll need some form of platform to mount it on.
+Это оружие использует мощные удары воздуха для выстрела болтами с высокой скоростью по атакуемой цели. Вам понадобится платформа для его монтирования.
+
+vortex cannon вихревая пушка
+Essentially a large pneumatic gun made to hurl sharpened metal rails.  Instead of a mechanical system, you've managed to harness the vortex to power this gun.  While powerful for its size, you'll need some form of platform to mount it on.
+По сути, большая пневматическая пушка собранная для стрельбы заострёнными ферромагнитными снарядами. Вместо механической системы управления, установка использует вихревую энергию. Пусковая установка такой мощи требует платформу для монтирования.
+
+vortex rifle вихревая винтовка
+This weapon uses powerful bursts of air to launch small projectiles at its target at high speed.  You'll need some form of platform to mount it on.
+Это оружие использует мощные удары воздуха для выстрела небольшими снарядами типа галька с высокой скоростью по атакуемой цели. Вам понадобится платформа для его монтирования.
+
+storm bolter шторм болтомёт
+This pneumatic bolt thrower has been greatly enhanced, allowing multiple bolts to be launched accurately and in quick succession.  It requires a support of some sort in order to be operated.
+Этот пневматический болтомёт основательно улучшен, позволяя стрелять очередью точно и в быстром темпе. Вам понадобится суппорт для его монтирования и управления отдельными частями.
+
+slingshot cannon рогатка пушка
+Essentially several long drawstrings held by two long, reinforced sides and a mechanism attached to a crank to draw and fire it.  It's deceptively powerful and surprisingly accurate, but far too large to be used without some sort of stable platform.
+По сути, несколько длинных тетив, натянутых между двумя усиленными брусьями, и механизм с коленчатым рычагом, который натягивает тетиву и стреляет. Это обманчиво мощный и удивительно точный агрегат, но слишком большой, чтобы использовать его без какой-либо устойчивой платформы.
+
+lacerator
+This weapon launches serrated metal disks at nearby enemies.  It draws its power from a vehicle's engines, and thus must be mounted on such in order to be operated.
+Это оружие использует зубчатые металлические диски в качестве боеприпасов против врагов поблизости. Запитывается от энергии двигателя транспортного средства. Требует платформу для монтирования.
+
+rotary cannon ротационная пушка
+This fearsome weapon sports 3 barrels in a cyclic configuration. A specialized mechanism loads the otherwise troublesome rounds; allowing it to be fired in quick succession. However, this renders it incredibly unwieldy, and it must be mounted on a support structure in order to be fired.
+Это грозное оружие имеет 3 ствола, расположенных по кругу. Специальный механизм загрузки подаёт патроны необычным образом; обеспечивая высокий темп стрельбы. Однако это делает его невероятно громоздким и его необходимо смонтировать на опорную конструкцию для управления.
+
+laser cannon лазерная пушка
+This enhanced laser cannon sacrifices efficiency for destructive power.  The increased power requirements require a significant power source and the size of the firing mechanism also requires support.
+Это улучшенная лазерная пушка, жертвует эффективностью ради разрушительной силы. Для увеличения мощности потребовался значительный источник энергии; размер механизма стрельбы также требует монтирования на опорную конструкцию.
+
+pulse laser импульсный лазер
+Augmented damage capability and rapid bursts make this a powerful weapon.  The increased power requirements require a significant power source and the firing mechanism also requires a specialized chassis.
+Увеличенная способность к нанесению урона и скорострельность делают этот лазер мощным оружием. Повышенные требования к мощности требуют значительного источника энергии; размер механизма стрельбы также требует монтирования на специальное шасси.
+
+turbolaser cannon турболазерная пушка
+With an augmented emitter and capacitor, this mounted laser is capable of superheating most materials to the point of exploding. The firing mechanism also requires the services of a specialized chassis, and one must be wary of the prodigious power needs of such a weapon.
+Благодаря увеличенному генератору излучения и конденсатору, этот смонтированный лазер способен перегревать большинство материалов до критической точки взрыва. Размер механизма стрельбы также требует монтирования на специальное шасси. Осторожно — колоссальные энергетические потребности такого типа вооружения.
+
+perforator перфоратор
+A coilgun with improved electromagnetic circuits to be able to propel a metallic projectile at high speed and with great accuracy. Capable of piercing armor with little issue, though the projectile itself lacks damage due to its small size. It must be mounted on a specialized chassis in order to be fired.
+Гаусс-пушка с улучшенными электромагнитными цепями, позволяющая двигать металлический снаряд с высокой скоростью и с поразительной точностью. Способный пробить броню без проблем, несмотря на это, сам снаряд не получит существенных повреждений из-за его небольшого размера. Должна быть смонтирована на специальном шасси для управления.
+
+needler иглострел
+This improved nailgun features a special firing mechanism that is set to fire a spread of up to 5 nails at once; sure to drop the hammer on its unfortunate targets. However, these features render it incredibly unwieldy, and it must be mounted on a supporting frame in order to be fired.
+Улучшенный гвоздомёт оснащен специальным механизмом стрельбы, выпускающим очередь до 5 гвоздей сразу; буквально сбросит молот на свои несчастные цели. Однако эти особенности делают его невероятно громоздким и его необходимо смонтировать на опорную раму для стрельбы.
+
+ferromagnetic rail rifle ферромагнитная винтовка
+A single-shot, electrically propelled, steel rail launcher handcrafted from scrap. The hypervelocity metal stake that it fires is accelerated to the point of spontaneous combustion by a Lorentz force generated by electromagnetic induction, powered by a standard UPS.
+Однозарядный рельсомёт с электрическим приводом, собранный вручную из металлолома. Ферромагнитный снаряд разгоняется до гиперскорости, приводящей к самовозгоранию за счёт силы Лоренца, порождаемой электромагнитной индукцией. Работает от обычного УБП.
+
+rail launcher рельсомёт
+
+hypervelocity driver сверхзвуковой рельсомёт
+A single-shot, electrically propelled, steel rail launcher. The powerful, and frankly dangerous, improvements made to the power systems of this weapon is capable imbuing a massive charge into a single-rail; so much that it often shatters into deadly fragments on impact. It's capabilities are limited by its prodigious power requirements however, and its large size necessitates an appropriately-equipped vehicle.
+Однозарядный рельсомёт с электрическим приводом. Мощные и откровенно опасные усовершенствования, внесённые в энергосистемы этого оружия, позволяют накапливать огромный заряд внутри рельсы - ферромагнитного снаряда; настолько большой, что снаряд при ударе часто разбивается вдребезги на смертоносные осколки. Однако его возможности ограничены колоссальным энергопотреблением, а большой размер требует наличия соответствующим образом снаряжённого транспортного средства.
+
+ripper риппер потрошитель
+This menacing weapon rapidly launches bladed disks that rips through enemies with devastating effect. It draws its power from a vehicle's engines, and thus must be mounted on such in order to be operated.
+Это угрожающее оружие быстро запускает диски с лезвиями, которые разрывают врагов с разрушительным эффектом. Запитывается от энергии двигателя транспортного средства. Требует монтирования на платформу для управления.
+
+pneumatic speargun гарпунное пневморужьё
+rotary speargun вращающееся гарпунное ружьё
+This pneumatic speargun features a revolving barrel behind its launcher, allowing projectiles to be rapidly loaded and fired. However, the weight requires an external support measure.
+Гарпунное пневморужьё имеет вращающийся ствол позади его пусковой установки; позволяющий быстро заряжать снаряды и стрелять. Однако из-за его веса, требуется монтирование на опору.
+
+scorpion ballista скорпион баллиста
+A massive tension-operated crossbow. The hand-crank allows one to draw it without the need for heavy labor. It's far too massive to be used on foot, and thus needs to be mounted on a vehicle in order to be operated.
+Тяжёлый натяжной арбалет. Коленчатый рычаг позволяет без труда натягивать тетиву. Слишком тяжёл, чтобы использовать на весу, требует монтирования на платформу для управления.
+
+splintergun осколочное ружьё раскалыватель
+A heavily modified coilgun that fires tiny fragments of metal at high speeds extremely quickly. The resulting barrage is highly inaccurate, but can turn unarmored targets into pulp. It must be mounted on a specialized chassis in order to be fired.
+Тяжело модифицированная гаусс-пушка, которая стреляет маленькими фрагментами металла с очень высокой скоростью. В результате обстрел весьма неточен, но может превратить небронированные цели в кашу. Требует монтирования на специальное шасси для стрельбы.
+
+harpoon gun гарпунное ружьё
+A tension-operated speargun. A hand-crank lets one draw the strings quickly, but it's too unwieldly to handle without a support of some sort.
+Натяжное гарпунное ружьё. Коленчатый рычаг позволяет без труда натягивать тетиву, но слишком громоздкий, чтобы использовать на весу, требует монтирования на опору.
+
+avalanche rifle лавинная винтовка
+This pneumatic assault rifle has been greatly enhanced, firing projectiles faster and with higher velocity. However, these features render it incredibly unwieldy, and it must be mounted on a supporting platform in order to be fired.
+Пневматическая штурмовая винтовка значительно улучшенная, стрельба снарядами происходит быстрее и с большей скоростью. Однако эти особенности делают её невероятно громоздкой и её необходимо смонтировать на опорную раму для стрельбы.
+
+M6 Aircrew Survival Weapon M6 выживальщика ВВС
+A lightweight combination rifle, combining a .22 rimfire barrel with .410 shotgun barrel, and designed to fold for compact storage. Produced for military aircraft pilots who might be stranded after a crash, later produced commercially by various companies.
+Легковесная комбинированная винтовка, объединившая ствол .22 калибра под патрон бокового воспламенения со стволом .410 калибра под дробовик и предназначена для сложенного компактного хранения. Производится для пилотов военных самолетов, которых могло выбросить после крушения. Позже выпущены коммерческие варианты различными компаниями.
+
+Colt Lightning .45 Кольт Молния .45
+A modern reproduction of a Colt pump-action rifle. Originally chambered in .44-40, modern versions most commonly use .45 Long Colt, complimenting the Single Action Army as a Cowboy Action Shooting firearm.
+Современное представление помповой винтовки Кольт. Первоначально рассчитанную на калибр .44-40, современные версии чаще всего используют калибр .45 Long Colt; дополняет револьвер Single Action Army, как боевая стрельба из стрелкового оружия.
+
+.410 youth shotgun легковесный дробовик
+An old break-action shotgun, chambered in .410 bore. Designed as a lower-recoil alternative to 12 guage, it is light and simple in manufacture.
+Дробовик старого образца с переломным затвором, рассчитанный на патрон .410 дробь. Он разработан для меньшей отдачи, как альтернатива 12 калибру, легкий и прост в производстве.
+
+.410 pipe shotgun самопал: .410
+A home-made shotgun, in .410 bore. It is simply a pipe attached to a stock, with a hammer to strike the single round it holds.
+Самодельный дробовик под патрон .410 дробь. Сделан из куска трубы, прикрученной к рукояти, заряжается одним патроном.
+
+M1991A1 .38 Super
+A modern M1911, chambered for the .38 Super cartridge. It can achieve good accuracy.
+Современный пистолет M1911, рассчитанный под патрон .38 Super. Можно добиться хорошей точности.
+
+M6 ASW shotgun дробовик M6 ASW
+The integrated .410 shotgun of the M6 Aircrew Survival Weapon. It's irremovable.
+
+"whys it called a heater shield anyway? only heats if i light it on fire."
+«почему же его назвали нагревательный щит или тарч? он только нагревается, если я бросаю его в огонь.»
+
+
+
+Доски были положены, чтобы пройти по этой яме заполненной стеклом. Доски можно убрать, чтобы её нельзя было безопасно пересечь.
+
+Похоже масса разбитого стекла была сброшена в эту яму, возможно не травматично если упасть, но было бы неплохо попытаться оттуда вылезти.
+
+Яма с угрожающими острыми кольями на дне и досками, положенными поперёк, позволяющие безопасно по ней перейти. Доски можно вернуть обратно в ловушку.
+
+Глубокая яма с досками, положенными поперёк, выглядит достаточно прочной, чтобы безопасно по ней перейти или вернуть доски обратно в ловушку.
+
+Красивая когда растрёпаная, участок стойких лугов Кентукки. Быстрого срезания травы достаточно, чтобы повредить корневую систему, в результате чего этот участок превратится в землю.
+
+High-quality and tough checkered flooring to reduce risk of slips and falls, with a matching roof.
+Высококачественный прочный рифлёный пол для снижения риска скольжения и падения с сопоставимой крыши.
+
+A segment of asphalt, slowly degrading from cracks, frost heaves and lack of maintenance.
+Участок асфальта, медленно разрушающийся от трещин, морозов и отсутствия обслуживания.
+
+Streaks of carefully aligned yellow paint mark the road to inform drivers not to cross. No one is enforcing these rules anymore.
+Линии дорожной разметки аккуратно нанесены жёлтой краской на асфальт, служат для сообщения информации участникам дорожного движения. Никто больше эти правила не соблюдает.
+
+An area of common poured concrete, damaged by frost heaves and large cracks due to lack of maintenance.
+Край проезжей части дороги залитый бетоном, повреждён морозом и большими трещинами из-за отсутствия обслуживания.
+
+A newer segment of poured concrete with surface finishes for aesthetics and resistance to freeze-thaw cycles.
+Более новый участок дороги залитый бетоном с поверхностной финишной операцией отделки для эстетики и устойчивости к изменяемым погодным условиям замораживания-таяния.
+
+Interlocking wooden tiles that are more than likely treated against fire, with wooden posts and beams supporting a roof.
+Уложенный деревянный паркетный пол, обработанный против огня, с деревянными столбами и балками, поддерживающий сопоставимую крышу.
+
+A crudely welded together floor of metal with steel trusses and supporting girders.
+Грубо сваренный участок металлического пола со стальными фермами и опорными балками.
+
+Hardwood flooring that has been treated with chemicals to improve slip resistance and sliding, commonly for recreational sports.
+Участок пола из твёрдых пород древесины, обработанный химикатами, улучшает сопротивление скольжению и качению, используется обычно в рекреационных видах спорта.
+
+Floor consisting of finely mixed earth that has been tamped down.
+Участок пола, состоящий из хорошо перемешанной земли, которая была утоптана.
+
+A type of walkway that can be used as protective covering over drains or even used as a filter.
+Металлоконструкция которую можно использовать как защитное ограждение над дренажом или даже применять в качестве фильтра.
+
+A disgusting and slippery mess that could be used to stash things because who'd want to touch it?
+Отвратительная и скользкая беспорядочная масса, которую можно использовать, чтобы спрятать вещи, кто же захочет прикоснуться к ней?
+
+A metallic bridge commonly used in industrial settings to meet specified safety standards.
+Металлическое пролётное строение моста, обычно используется в промышленных условиях, соответствует требованиям техники безопасности и охраны труда.
+
+An industrial flood light set up to illuminate the surroundings.  Smashing it doesn't seem like it'd produce any worthwhile salvage.
+Для освещения окружающего пространства установлен промышленный фонарь. Похоже что разбив его, это не принесёт никакой выгоды.
+
+
+
+A half-constructed wall of notched logs that interlock to provide stability. Needs a few more logs to hold up a roof. Looks flammable.
+Полупостроенная стена из обтёсанных брёвен, которые улаживаются совместно для обеспечения стабильности. Нужно ещё несколько брёвен, чтобы держать крышу. Выглядит легковоспламеняющейся.
+
+
+
+A tall wall of timber suitable for housing and insulating from the weather. Quite flammable.
+Высокая стена из дерева, подходит для жилья и укрытия от непогоды. Довольно легковоспламеняющаяся конструкция.
+chipped log wall
+A moderately damaged wall, could probably be patched up with some planks and nails.
+Средне повреждённая деревянная стена, может быть заделана несколькими досками и гвоздями.
+
+A destroyed wood wall, with only a supporting log left, ready to collapse. Looks repairable if the damage was replaced and patched together with nails and planks.
+Разрушенная деревянная стена, только опорное бревно осталось, готово обвалиться. Можно отремонтировать, если 
+избегать получения повреждений и заделать несколькими досками и гвоздями.
+
+An age-old type of fortification consisting of hefty lumber staked into the ground and cabled together.
+Старый тип ограждения, состоящий из большого колличества разнообразного пиломатериала, установленного в землю и связанного вместе.
+
+A large doorway consisting of long logs cabled together, that could be expanded upon. Can act as a door if some type of pulley system were rigged on an adjacent palisade wall.
+Большой дверной проём, состоящий из длинных брёвен, соединённых вместе, которые можно расширить. Может действовать как дверь, если поворотная система шкивов была оборудованна на соседнем участке частокола.
+
+A hanging palisade gate, hoisted by a nearby pulley system. Probably shouldn't be underneath when it comes down.
+Подвешенные ворота частокола, подняты системой шкивов. Наверное, не надо находиться снизу, когда ворота опустятся.
+
+An incomplete wall of refined wood, dotted with carefully placed nails to provide proper support. It requires some more two by fours and nails before it'd be considered a suitable wall.
+Полупостроенная стена из обработанной древесины, усеянная тщательно забитыми гвоздями, обеспечивает надёжную основу. Нужно ещё несколько досок и гвоздей, прежде чем её можно будет назвать настоящей стеной.
+
+A finished wall of planks and support beams, capable of supporting an upper level or roof. Still highly flammable.
+Готовая стена из досок и опорных брусов, способная поддерживать верхний этаж или крышу. Всё ещё легко воспламеняется.
+
+
+A wall of aligned two by fours that's starting to crack and break open. Some cut wood and a number of nails could patch this up quick.
+Стена выравненная досками, которая начинает трескаться и ломаться. Несколько кусков древесины и гвоздей помогут быстро исправить дело.
+
+A number of planks are missing and the structure is beginning to sag and fall apart. It's going to need quite a bit of work to repair this wall.
+Разрушенная стена, отсутствует ряд досок и строение начинает проседать и разваливаться. Для ремонта этой стены потребуется немалая работа.
+
+The stereotypical wall with wooden support structure filled with insulation and drywalled. Paint job is the all too common and neutral off-white or cream color, it could use more vibrant paint. Appears as though the material is still flammable.
+Обычная стена с деревянной опорной конструкцией, заполнена гипсокартоном и изоляционным материалом. Окрашена в обычный нейтральный белый оттенок или кремовый цвет, также может использоваться и более яркая окраска. Похоже что материал всё ещё легковоспламеняющийся.
+
+An aesthetically pleasing design with simple lines, this type of concrete was used with a weaker chemical mixture in order to have faster setting times. Not ideal for multi-story buildings, but still capable of supporting a roof.
+Эстетически приятный дизайн стены с прямыми линиями, в этом типе бетона использовались обеднённые связующие компоненты смеси, для болеё быстрого времени застывания бетона. Не совсем подходит для многоэтажных зданий, но всё же способен поддерживать крышу.
+
+An industrially fabricated thick sheet carefully positioned and joined seamlessly with perimeter sealant, this wall is capable of resisting extreme elements as well as hostile forces. Blast load rated and extremely fire-retardant, breaching will require specialized tools or industrial vehicles.
+Толстый металлический лист изготовленный промышленным способом, тщательно размещённый и соединённый бесшовным методом по периметру герметизирующим материалом, эта стена способна противостоять экстремальным внешним силам воздействия, также хорошо, как и враждебным силам. Высокая стойкость к взрыву, чрезвычайная огнестойкость, сопротивление пробитию, потребует от вас специальные инструменты или промышленные виды транспорта для работы.
+герметик
+
+
+
+A barrier made of glass, it's nothing complicated, and looks extremely fragile. Some contain glass break sensors or window sensors that trigger if the glass is tampered.
+Барьер из стекла, ничего сложного, выглядит очень хрупким. Некоторые стены имеют датчики разбития стекла или оконную сигнализацию, которая срабатывают, если стекло разбито.
+
+A thicker pane of glass with thin metal wires embedded throughout, strengthening the structural properties. Still weaker than other types of walls, and not made to support a roof either.
+Более толстая стеклянная панель с тонкой металлической сеткой, усиливающая структуру стекла. Всё ещё слабее других типов стен, а также нельзя использовать для поддержки крыши.
+
+reinforced glass with closed shutters бронированное стекло с закрытыми ставнями
+A secondary layer of protection over reinforced glass, these metal shutters are typically used to ward off criminals or protect against damage from extreme weather. Looks like it can only be opened from the inside. Even with the installed shutters, it isn't feasible in supporting a roof.
+Второй слой защиты армированного стекла, эти металлические ставни обычно используются как антивандальная мера или защита от экстремальных погодных условий. Похоже, их можно поднять только изнутри. Даже с установленными ставнями, стекло неспособно поддерживать крышу.
+
+Hanging metal shutters that haven't been deployed, exposing the reinforced glass. It appears as though the metal shutters can only be activated from the inside.
+Поднятые не развёрнутые металлические ставни, делают видимым армированное стекло. Похоже, что металлические ставни можно активировать только изнутри.
+
+закрытая укреплённая стеклянная дверь
+A closed glass door reinforced with woven steel wires in a stylish, but practical pattern.
+Закрытая стеклянная дверь, укреплённая плетёной стальной сеткой в стильном, но практичном виде.
+
+open reinforced glass door открытая укреплённая стеклянная дверь
+A glass door reinforced with woven steel wires in a stylish, but practical pattern.  Yep, it's open.
+Стеклянная дверь, укреплённая плетёной стальной сеткой в стильном, но практичном виде. Да, она открыта.
+
+metal bars металлические прутья
+Thick, heavy bars from the floor to the ceiling, interlaced wall to wall.  Not made to support roofs, but great for blocking paths.
+Толстые тяжёлые прутья от пола до потолка, переплетены от стены к стене. Не могут поддерживать крышу, больше подходят для блокирования пути.
+
+закрытая деревянная дверь
+A standard wooden door that doesn't look very resilient.  It'd probably burn easily, too.
+Стандартная деревянная дверь, не выглядит довольно прочной. Выглядит легковоспламеняющейся.
+
+closed wood door with peephole закрытая деревянная дверь с глазком
+A regular door made of ordinary wood, except this one has a peephole.  If you examined it more closely, you'd be able to peek through the hole.
+Обычная дверь, сделанная из обычной древесины, но кроме этого имеет глазок. При близком осмотре, вы можете посмотреть через глазок.
+
+повреждённая
+A trashed wooden door, that is more of an obstacle than a door.  Also, you can see right through it.  It could be boarded up with a few two by fours.
+Поломанная деревянная дверь, которая является больше препятствием, чем дверью. Вы можете видеть прямо через неё. Может быть укреплена несколькими досками.
+
+Bad news is the peephole is broken and you can't look outside the door.  Good news is the door is nearly broken down, so there's nothing blocking the view.  A few planks, nails and the right tools could patch up all the damage.
+Плохие новости, глазок сломан и вы не можете посмотреть наружу. Хорошие новости, дверь ещё не сломана, так что ничего не загораживает путь. Несколько досок, гвоздей и правильные инструменты помогут исправить весь ущерб.
+
+A standard wooden door that doesn't look very resilient.  It'd probably burn easily, too.  This one is wide open.
+Стандартная деревянная дверь, не выглядит довольно прочной. Выглядит легковоспламеняющейся. Дверь широко открыта.
+
+A regular door made of ordinary wood, except this one has a peephole.  If you examined it more closely, you'd be able to peek through the hole.  Although, you don't need to peek through it since the door is open anyway.
+Обычная дверь, сделанная из обычной древесины, но кроме этого имеет глазок. При близком осмотре, вы можете посмотреть через глазок. И тем не менее, вам нет нужды смотреть через него, так как дверь всё равно открыта.
+
+закрытая укреплённая деревянная дверь
+Just like other wooden doors, except this one has layers of nailed in two by fours for reinforcement.  It might be barricaded, but still susceptible to fire.
+Обычная деревянная дверь, кроме слоя прибитых досок для её укрепления. Она может быть забаррикадирована, но всё так же является легковоспламеняющейся.
+
+повреждённая укреплённая деревянная дверь
+There are splintering planks and visible holes in the wood, it looks like it could be smashed apart if not repaired.
+
+There are splintering planks and visible holes in the wood, it looks like it could be smashed apart if not repaired.
+
+Поломанные доски и явные дыры видны в древесине этой двери, похоже, её можно только разбить окончательно, не поддаётся восстановлению.
+
+open reinforced wood door открытая укреплённая деревянная дверь
+Just like other wooden doors, except this one has layers of nailed in two by fours for reinforcement.  It might be fortified, but still susceptible to fire.  It's open so it's not stopping anything right now.
+Обычная деревянная дверь, кроме слоя прибитых досок для её укрепления. Она может быть забаррикадирована, но всё так же является легковоспламеняющейся. Дверь открыта и никого не остановит прямо сейчас.
+
+A standard wooden door that doesn't look very resilient.  It'd probably burn easily, too.  This one has an extra keyhole, so it's likely locked.  You could pry it open or pick the lock.
+Стандартная деревянная дверь, не выглядит довольно прочной. Выглядит легковоспламеняющейся. Дверь оснащена дополнительной замочной скважиной и вероятно закрыта. Вы можете попытаться открыть её или использовать отмычку.
+
+A standard wooden door that doesn't look very resilient.  It'd probably burn easily, too.  This one has a deadbolt keyhole, so it's likely locked.  You could pry it open or pick the lock, or unlock the deadbolt from the inside.
+Стандартная деревянная дверь, не выглядит довольно прочной. Выглядит легковоспламеняющейся. Дверь оснащена замочной скважиной с запорным штифтом и вероятно закрыта. Вы можете попытаться открыть её или использовать отмычку, или открыть дверь изнутри.
+
+A regular door made of ordinary wood, except this one has a peephole.  If you examined it more closely, you'd be able to peek through the hole.  This one has a deadbolt keyhole, so it's likely locked.  You could pry it open or pick the lock, or unlock the deadbolt from the inside.
+Стандартная дверь, сделанная из обычной древесины, но кроме этого имеет глазок. При близком осмотре, вы можете посмотреть через глазок. Дверь оснащена замочной скважиной с запорным штифтом и вероятно закрыта. Вы можете попытаться открыть её или использовать отмычку, или открыть дверь изнутри.
+
+!
+closed door curtain закрытая дверь-штора
+Build Door Curtain Строить дверь-штору
+vehicle curtain автомобильная штора
+но кроме этого, - но кроме этого
+
+closed door curtain закрытая дверь-штора
+Repurposed curtains from a window acting as a door.  Could be easily taken down for supplies or placing somewhere else.
+Обычные шторы с окна, используемые как дверь. Можно легко разобрать на компоненты или установить в другом месте.
+
+! closed makeshift door закрытая самодельная дверь
+A makeshift screen consisting of two by fours bound together with vertical rope hanging from the top of the doorway.  Could be easily taken down and re-purposed.
+Самодельный щит, состоящий из досок связанных вместе вертикальной верёвкой, свисающей с дверного проёма. Можно легко разобрать на компоненты или установить в другом месте.
+
+! open door curtain открытая дверь-штора
+Repurposed curtains from a window acting as a door.  Could be easily taken down for supplies or placing somewhere else.  These curtains are open, bundled and tied next to the doorway.
+Обычные шторы с окна, используемые как дверь. Можно легко разобрать на компоненты или установить в другом месте. Дверной проём открыт, штора связана в узел и прикреплена к проёму.
+
+! open makeshift door открытая самодельная дверь
+A makeshift screen consisting of two by fours bound together with rope hanging from the top of the doorway.  Could be easily taken down and re-purposed.  The planks have been rolled up and attached to the top of the doorway, allowing free movement through.
+Самодельный щит, состоящий из досок связанных вместе вертикальной верёвкой, свисающей с дверного проёма. Можно легко разобрать на компоненты или установить в другом месте. Доски собраны и прикреплены к верху дверного проёма, позволяя свободное перемещение.
+
+An empty door frame made from two by fours and nails.  A variety of doors could be constructed here.
+Пустой дверной проём, сделанный из досок и гвоздей. В этом проёме можно установить различные двери.
+
+An empty door frame made of steel and assorted metal.  A variety of doors could be constructed here.
+Пустой дверной проём, сделанный из профилированного металла и сортовового проката. В этом проёме можно установить различные двери.
+
+An empty window frame constructed from assembled metal and carefully braced with various hardware.
+Пустой оконный проём, сделанный из комбинированного профилированного металла с дополнительными металлическими креплениями.
+
+запертые проволочные ворота
+A gate for a chain link fence.  This one has a locked padlock on the latch system.  With the right tools, you could cut the metal fence or pick the lock.  You could also examine the fence to see if it looks climbable.
+Ворота для ограды из сетки рабица. Ворота закрыты замок. С правильными инструментами вы можете разрезать сетку или использовать отмычку. Вы можете также осмотреть ворота и попробовать их перелезть.
+
+A commercial quality gate made of wood with a latch system.
+Ворота массового производства, сделанные из различных пиломатериалов с замком для ворот.
+
+A commercial quality gate made of wood with a latch system.  The gate is wide open, allowing anything to travel through.
+Ворота массового производства, сделанные из различных пиломатериалов с замком для ворот. Ворота широко открыты, позволяя свободное перемещение.
+
+A gate for a chain link fence with a latch system to stay closed.
+Ворота для ограды из сетки рабица с замком. Ворота закрыты.
+
+A gate for a chain link fence with a latch system to stay closed.  The latch is undone, so the gate has swung open.
+Ворота для ограды из сетки рабица с замком. Замок не заперт, ворота свободно поворачиваются.
+
+A standard wooden door that has several planks across it, nailed down to board it up and increase its durability.  Still flammable though.
+Стандартная деревянная дверь, с несколькими прибитыми накрест досками, увеличивающие её прочность. Выглядит легковоспламеняющейся.
+
+A boarded up wooden door, except some of the planks are fractured or coming loose.  Without repairs, it could be broken down easily.
+Заколоченная деревянная дверь, без нескольких поломанных и отвалившихся досок. Без ремонта, её можно легко сломать.
+
+A boarded up door made of ordinary wood, except this one has a peephole.  Although it's been covered up in planks, you could still examine the peephole.
+Заколоченная деревянная дверь, сделанная из обычной древесины, но кроме этого имеет глазок. Несмотря на то что она заколоченна досками, вы всё ещё можете смотреть через глазок.
+
+An additionally reinforced door of layered two by fours that has been boarded up with more wood to prevent it from opening.  Still susceptible to fire.
+Укреплённая дверь, дополнительно усилена несколькими заколоченными досками, чтобы препятствовать тому, чтобы её можно было открыть. Выглядит легковоспламеняющейся.
+
+boarded up damaged reinforced door заколоченная повреждённая укреплённая дверь
+A battered and torn reinforced door with planks bursting from the joints.  The boarded up two by fours are fragmented and in pieces, this doesn't look like an easy repair.
+Разбитая и поломанная укреплённая дверь с досками, разламывающимися в соединениях. Заколоченные доски разломаны на куски, это не похоже на лёгкий ремонт.
+
+A wrecked door made of ordinary wood, except this one has a peephole.  Although it's been covered up in planks, the peephole was damaged and can't be used to see through.
+Поломанная деревянная дверь, сделанная из обычной древесины, но кроме этого имеет глазок. Несмотря на то что она заколоченна досками, глазок был повреждён, вы не можете смотреть через него.
+
+An extremely resilient door made of assorted steel, carved and pounded into shape.
+Чрезвычайно прочная дверь, сделана из профилированного сортового металла, была раскроена и ей придали требуемую форму. Дверь закрыта.
+
+An extremely resilient door made of assorted steel, carved and pounded into shape.  It's open, so no tools are needed to break in.
+Чрезвычайно прочная дверь, сделана из профилированного сортового металла, была раскроена и ей придали требуемую форму. Дверь открыта, никакие инструменты не требуются для её вламывания.
+
+An extremely resilient door made of assorted steel, carved and pounded into shape.  If you examined it more closely, you'd be able to peek through the hole.
+Чрезвычайно прочная дверь с глазком, сделана из профилированного сортового металла, была раскроена и ей придали требуемую форму. При близком осмотре, вы можете посмотреть через глазок. Дверь закрыта.
+
+open metal door with peephole открытая металлическая дверь с глазком
+An extremely resilient door made of assorted steel, carved and pounded into shape.  If you examined it more closely, you'd be able to peek through the hole.  Although, you don't need to peek through it since the door is open anyway.
+Чрезвычайно прочная дверь с глазком, сделана из профилированного сортового металла, была раскроена и ей придали требуемую форму. При близком осмотре, вы можете посмотреть через глазок. Хотя и смотреть через него нет смысла, так как дверь открыта всё равно.
+
+закр
+A galvanized steel door, forged to withstand punishment and impede anyone or anything.  Typically used in conjunction with automated electronic locking mechanisms that require an external source to unlock.
+Дверь из оцинкованной стали, изготовлена чтобы выдерживать высокие ударные нагрузки и служить барьером кому-либо или чему-либо. Как правило используется в сочетании с автоматическими электронными механизмами блокировки, активируется от внешнего источника разблокирования.
+
+закр
+An extremely resilient door made of assorted steel, carved and pounded into shape.  This one has an extra keyhole, so it's likely locked.  You could probably pick the lock.
+Чрезвычайно прочная дверь, сделана из профилированного сортового металла, была раскроена и ей придали требуемую форму. Дверь оснащена дополнительной замочной скважиной и вероятно закрыта. Возможно вы сможете использовать отмычку.
+
+closed bar door закрытая решётчатая дверь
+A detention door made up of crisscrossed stainless steel bars.  The locking mechanism doesn't appear to be engaged.
+Дверь сдерживания, сделана из перекрещенных прутьев из нержавеющей стали. Замковый механизм находится в зацеплении.
+
+откр
+A detention door made up of crisscrossed stainless steel bars.  It's swung wide open.  Freedom!
+Дверь сдерживания, сделана из перекрещенных прутьев из нержавеющей стали. Замок не заперт, дверь широко открыта. Свобода!
+
+закр
+A detention door made up of crisscrossed stainless steel bars.  The locking mechanism appears to be engaged.  The mechanism could be picked open with enough skill.
+Дверь сдерживания, сделана из перекрещенных прутьев из нержавеющей стали. Замковый механизм находится в зацеплении. Механизм можно открыть отмычкой, имея достаточный навык.
+
+A sliding glass door, the kind that was on social media with people and animals running into.  This one is closed, so don't hurt yourself.
+Раздвижная стеклянная дверь, как та что используется на открытых массовых мероприятиях с людьми и животными, проходящими через неё. Дверь закрыта, не пораньтесь.
+
+A sliding glass door that has been left open for all manner of things to travel through.
+Раздвижная стеклянная дверь, открыта для всех кто хочет пройти через неё.
+
+makeshift portcullis самодельная опускная решётка
+An immense gateway scrapped together with various bits of steel and metal scraps.
+Огромные ворота, собранные в единое целое из различных стальных частей и металлолома.
+
+An advanced recycling unit that can accept inputs of various metals and through a complex system of hydraulics, be reshaped into more useful parts and pieces.
+Усовершенствованная установка для металлопереработки, которая может принять на входе различные металлы и через сложную систему гидравлики, быть изменённой в более полезные компоненты и части.
+
+A giant sheet of glass inserted into a window, typically found on the side of shops to showcase goods.
+Большой лист стекла, вставленный в окно, который обычно используется как витрина магазинов для демонстрации товаров.
+
+Duct tape covers this window, blocking sunlight and visibility.  You could remove the duct tape by cutting it off.
+Клейкая монтажная лента закрывает это окно, блокируя солнечный свет и обзор. Вы можете удалить монтажную ленту, чтобы устранить это.
+
+A window with fancy curtains on the inside that can be drawn closed to block visibility and shut out any light.
+Окно с причудливыми занавесками на внутренней части, которые можно задёрнуть, чтобы заблокировать внешний обзор и не впускать солнечный свет.
+
+A smaller window typically found in residential homes.  You could install a curtain rod and drapes if you had the supplies and skill.
+Небольшое окно, которое можно увидеть в жилых домах. Вы можете установить карниз для шторы и драпировку, если у вас есть необходимые компоненты и умения.
+
+open window without curtains открытое окно без штор
+A smaller window typically found in residential homes.  It's open and can be crawled through.
+Небольшое окно, которое можно увидеть в жилых домах. Это окно открыто и вы можете пролезть через него.
+
+A smaller window typically found in residential homes.  This one has been blocked out with duct tape.  You could remove the duct tape by cutting it off.
+Небольшое окно, которое можно увидеть в жилых домах. Это окно заклеено клейкой монтажной лентой. Вы можете удалить монтажную ленту, чтобы устранить это.
+
+A window with fancy curtains on the inside.  This one has been blocked out with duct tape.  You could remove the duct tape by cutting it off.
+Окно с причудливыми занавесками на внутренней части. Это окно заклеено клейкой монтажной лентой. Вы можете удалить монтажную ленту, чтобы устранить это.
+
+A window with fancy curtains on the inside that can be drawn closed to block visibility and shut out any light.  It's open and you can crawl through.
+Окно с причудливыми занавесками на внутренней части, которые можно задёрнуть, чтобы заблокировать внешний обзор и не впускать солнечный свет. Это окно открыто и вы можете пролезть через него.
+
+A window with fancy curtains that have been drawn shut, blocking sunlight and visibility.  The curtains can only be opened on the inside.  If you examined the curtains more closely, you could peek through the drapes or tear down everything.  Or you could just smash the window open.
+Окно с причудливыми занавесками на внутренней части, которые были задёрнуты, чтобы заблокировать внешний обзор и не впускать солнечный свет. Шторы можно открыть только изнутри. При близком осмотре, вы можете посмотреть через шторы или убрать их. А также вы можете просто разбить окно.
+
+Duct tape covers this window, blocking out any sunlight and visibility.  You could remove the duct tape by cutting it off.
+Клейкая монтажная лента закрывает это окно, блокируя солнечный свет и обзор. Вы можете удалить монтажную ленту чтобы устранить это.
+
+An empty window frame consisting of two by fours and nails.  You could install a sheet of glass, or even board it up for protection.  You could also convert it into a wall if you took the time to construct it.
+Пустая оконная рама, сделанная из досок и гвоздей. Вы можете установить лист стекла или даже забить её для защиты. Вы можете также преобразовать раму в стену, если вы не торопитесь, чтобы построить её.
+
+A wooden window frame that has shattered glass around it.  You'll probably get hurt if you crawled through the sharp and jagged shards.  You could smash out the remaining pieces, or take your time and quietly clean them up.
+Деревянная оконная рама с разбитым стеклом вокруг. Вы получите ранение, если полезете через острые и зазубренные осколки. Вы можете разбить оставшиеся части или не торопясь и спокойно очистить их.
+
+boarded up window заколоченное окно
+A glass window that has been covered with nailed down planks, blocking sunlight and visibility.  It's not much stronger, but it could be further reinforced with strategically placed two by fours.
+Окно со стеклом, заколоченное досками и гвоздями, блокирует солнечный свет и обзор. Это не намного крепче, но может быть укреплено досками как стратегическое помещение.
+
+An empty window frame that has been covered with nailed down planks, blocking sunlight and visibility.  It's not much stronger, but it could be further reinforced with strategically placed two by fours.
+Пустая оконная рама, которая была заколочена досками и гвоздями, блокирует солнечный свет и обзор. Это не намного крепче, но может быть укреплено досками как стратегическое помещение.
+
+reinforced boarded up window укреплённое заколоченное окно
+A heavily fortified glass window with carefully placed planks across the glass to block vision.  Adding a few spikes and metal plating would further increase its durability.
+Укреплённое окно со стеклом с тщательно заколоченными накрест досками, блокирующие обзор. Добавление нескольких шипов и металлических пластин увеличит прочность окна.
+
+A heavily fortified window with carefully placed planks across the open frame to block vision.  Adding a few spikes and metal plating would further increase its durability.
+Укреплённое окно с тщательно заколоченными накрест досками на открытой оконной раме, блокирующих обзор. Добавление нескольких шипов и металлических пластин, увеличит прочность оконной рамы.
+
+armored boarded up window бронированное заколоченное окно
+This once normal glass window now menaces with spikes along the edges, with laboriously placed metal sheeting to further strengthen the wooden reinforcements underneath.
+Окно со стеклом укреплено угрожающими шипами по периметру, со старательно установленными защитными листами металла, для усиления укреплённого деревянного окна снизу.
+
+This once normal window frame now menaces with spikes along the edges, with laboriously placed metal sheeting to further strengthen the wooden reinforcements underneath.
+Оконная рама укреплена угрожающими шипами по периметру, со старательно установленными защитными листами металла, для усиления укреплённой деревянной рамы снизу.
+
+window frame with metal bars оконная рама с металлическими решётками
+A giant sheet of glass inserted into a window with thick security grilles, making it impossible to crawl through.  Typically installed for high-value stores, or at least stores in bad neighborhoods.
+Большой лист стекла, вставленный в окно с толстыми решётками, вы не можете пролезть через него. Как правило, устанавливается в элитных магазинах или магазинах в неблагополучных кварталах.
+ 
+A giant sheet of glass inserted into a window with thick security grilles, making it impossible to crawl through.  Typically installed for high-value stores, or at least stores in bad neighborhoods.  This one has a small sticker in a corner stating, 'Protected by AtmoWeb, leading AI in terminating crime'.
+Большой лист стекла, вставленный в окно с толстыми решётками, вы не можете пролезть через него. Как правило, устанавливается в элитных магазинах или магазинах в неблагополучных кварталах. У этого окна есть маленькая наклейка в углу, которая гласит: "Защищено AtmoWeb, лидером AI в предотвращении преступлений".
+
+high stained glass window высокое витражное окно
+Breathtaking craftsmanship of stained glass featuring an elegant emerald landscape.
+Захватывающее дух мастерство витража, показывает изящный изумрудный пейзаж.
+
+Breathtaking craftsmanship of stained glass featuring an otherworldly radiant ruby flower blooming.
+Захватывающее дух мастерство витража, показывает потустороннее сияющее рубиновое цветочное цветение.
+
+Breathtaking craftsmanship of stained glass featuring an alluring azure oceanic abyss.
+Захватывающее дух мастерство витража, показывает очаровательную лазурную синеву океанской бездны.
+
+solid rock прочный камень
+It's solid rock, could be full of all kinds of interesting things.  Best grab your pickaxe or equivalent digging implement, and strike the earth!
+Это прочный камень, может содержать всевозможные интересные компоненты. Лучше всего захватите кирку или эквивалентное горное оборудование для добычи и, вдарьте землю!
+
+smoothed rock сглаженный камень
+A block of stone that's been smoothed and shaped, commonly granite or marble for funerary chapels and mausoleums.
+Каменный блок, который был сглажен и ему была придана форма, обычно это гранит или мрамор применяется в погребальных часовнях и мавзолеях.
+
+An unnaturally humanoid-shaped hole, it seems oddly familiar.  There's a strange sensation to examine it closer, as if it belongs to you somehow.
+Неестественная дыра в земле напоминает своей формой человеческие очертания, кажется странно знакомой. У вас странное ощущение исследовать её поближе, как будто этот объект принадлежит почему-то вам.
+
+A huge wall of pulpy mass that has been salvaged from nearby buildings, covered in sticky wasp saliva.  Whatever structure was underneath has been reformed and long gone.  You could smash it down effortlessly.
+Огромная стена мясистой массы, которая была сформирована благодаря переработке соседних зданий и покрыта липкой слюной ос. Чем бы ни была эта структура раньше, теперь она преобразована и потеряла свой первоначальный облик. Вы можете её легко разбить.
+
+!+ oak tree дуб
+A massive deciduous tree belonging to the 'Quercus' genus, commonly found throughout New England region.  You could cut it down with the right tools.
+Массивное лиственное дерево, относящееся к семейству буковых 'Quercus', широко распространено во всех регионах Новой Англии. Вы можете срубить его с необходимыми инструментами.
+
+An indiscernible tree that has withered away, whether by weather, fire or otherworldy.  You could cut it down with the right tools.
+Неразличимое дерево, которое засохло, то ли из-за непогды, пожара или другим неизвестным образом. Вы можете срубить его с необходимыми инструментами.
+
+A relatively young sapling of an indeterminate species.  It could take decades before reaching maturity, so there's no use waiting around.
+Относительно молодое дерево неопределенной разновидности. Можно ждать десятилетия пока дерево достигнет своей зрелости, так что бесполезно ждать рядом.
+
+This tree is a member of the 'Malus' genus, producing fruit commonly known as apples.  If you examined the branches more closely, you could probably find a few mature ones in autumn.  You could also cut it down with the right tools.
+Плодовое дерево семейства розоцветных 'Malus', широко известно своими плодами яблоками осенью. При близком осмотре ветвей, вы возможно сможете найти несколько спелых плодов. Вы можете срубить его с необходимыми инструментами.
+
+This tree is a member of the 'Malus' genus, producing fruit commonly known as apples.  There doesn't appear to be any ripe apples now.  You could also cut it down with the right tools.
+Плодовое дерево семейства розоцветных 'Malus', широко известно своими плодами яблоками осенью. Теперь на дереве нет никаких спелых яблок. Вы можете срубить его с необходимыми инструментами.
+
+This is 'Pyrus communis', or the common pear tree, which produces viable pears in the fall.  If you examined the branches more closely, you could probably find a few mature ones.  You could also cut it down with the right tools.
+Плодовое дерево семейства розоцветных 'Pyrus communis', широко известно как грушевое дерево, плодоносит сочные груши осенью. При близком осмотре ветвей, вы возможно сможете найти несколько спелых плодов. Вы можете срубить его с необходимыми инструментами.
+
+This is 'Pyrus communis', or the common pear tree, which produces viable pears in the fall.  Looks like all the ripe pears have been picked.  You could also cut it down with the right tools.
+Плодовое дерево семейства розоцветных 'Pyrus communis', широко известно как грушевое дерево, плодоносит сочные груши осенью. Похоже все спелые груши были собраны. Вы можете срубить его с необходимыми инструментами.
+
+One of the several species of 'Prunus' trees found in New England, it bears cherries in the summer.  If you examined the foliage more closely, you could probably find some viable clusters.  You could also cut it down with the right tools.
+Одна из нескольких разновидностей плодовых деревьев семейства розоцветных 'Prunus', можно найти в штатах Новой Англии, плодоносит сочные ягоды вишни летом. При близком осмотре листвы, вы возможно сможете найти несколько кистей спелых ягод. Вы можете срубить его с необходимыми инструментами.
+
+One of the several species of 'Prunus' trees found in New England, it bears cherries in the summer.  Looks like all the ripe bunches of cherries have been picked.  You could also cut it down with the right tools.
+Одна из нескольких разновидностей плодовых деревьев семейства розоцветных 'Prunus', можно найти в штатах Новой Англии, плодоносит сочные ягоды вишни летом. Похоже все спелые кисти вишен были собраны. Вы можете срубить его с необходимыми инструментами.
+
+
+One of the several species of 'Prunus' trees found in New England, it bears peaches in the summer.  If you examined the branches more closely, you could probably find some mature peaches.  You could also cut it down with the right tools.
+Одна из нескольких разновидностей плодовых деревьев семейства розоцветных 'Prunus', можно найти в штатах Новой Англии, плодоносит сочные персики летом. При близком осмотре ветвей, вы возможно сможете найти несколько спелых плодов. Вы можете срубить его с необходимыми инструментами.
+
+One of the several species of 'Prunus' trees found in New England, it bears peaches in the summer.  Looks like all the ripe peaches have been picked.  You could also cut it down with the right tools.
+Одна из нескольких разновидностей плодовых деревьев семейства розоцветных 'Prunus', можно найти в штатах Новой Англии, плодоносит сочные персики летом. Похоже все спелые персики были собраны. Вы можете срубить его с необходимыми инструментами.
+
+
+A transplanted species of 'Prunus armeniaca', rarely found in New England.  It produces apricots in the summer.  If you examined the spurs more closely, you could probably find some mature apricots.  You could also cut it down with the right tools.	
+Пересаженная разновидность плодовых деревьев семейства розоцветных 'Prunus armeniaca', редко можно найти в штатах Новой Англии. Плодоносит сочные абрикосы летом. При близком осмотре ветвей, вы возможно сможете найти несколько спелых плодов. Вы можете срубить его с необходимыми инструментами.
+
+A transplanted species of 'Prunus armeniaca', rarely found in New England.  It produces apricots in the summer.  Looks like all the ripe apricots have been picked.  You could also cut it down with the right tools.
+Пересаженная разновидность плодовых деревьев семейства розоцветных 'Prunus armeniaca', редко можно найти в штатах Новой Англии. Плодоносит сочные абрикосы летом. Похоже все спелые абрикосы были собраны. Вы можете срубить его с необходимыми инструментами.
+
+
+One of the several species of 'Prunus' trees found in New England, it produces plums in the summer.  If you examined the spurs more closely, you could probably find some ripe plums.  You could also cut it down with the right tools.
+Одна из нескольких разновидностей плодовых деревьев семейства розоцветных 'Prunus', можно найти в штатах Новой Англии, плодоносит сочные сливы летом. При близком осмотре ветвей, вы возможно сможете найти несколько спелых плодов. Вы можете срубить его с необходимыми инструментами.
+
+One of the several species of 'Prunus' trees found in New England, it produces plums in the summer.  Looks like all the ripe plums have been picked.  You could also cut it down with the right tools.
+Одна из нескольких разновидностей плодовых деревьев семейства розоцветных 'Prunus', можно найти в штатах Новой Англии, плодоносит сочные сливы летом. Похоже все спелые сливы были собраны. Вы можете срубить его с необходимыми инструментами.
+
+
+A towering deciduous tree that belongs to the 'Pinus' genus, with the New England species varying from 'P. strobus', 'P. resinosa' and 'P. rigida'.  If you examined the tree more closely, you might find usable sticky whorls and unharvested pinecones.  Also, you could cut it down with the right tools.
+Возвышающееся вечнозелёное хвойное дерево семейства 'Pinus', в штатах Новой Англии есть несколько его разновидностей: 'P. strobus', 'P. resinosa' и 'P. rigida'. При близком осмотре сосны, вы возможно сможете найти несколько полезных веток липкой хвои и сосновые шишки. Вы можете срубить его с необходимыми инструментами.
+
+A towering deciduous tree that belongs to the 'Pinus' genus, with the New England species varying from 'P. strobus', 'P. resinosa' and 'P. rigida'.  Some of the branches have been stripped away and many of the pinecones aren't developed fully yet, but given a season, it could be harvestable again.  You could also cut it down with the right tools.
+Возвышающееся вечнозелёное хвойное дерево семейства 'Pinus', в штатах Новой Англии есть несколько его разновидностей: 'P. strobus', 'P. resinosa' и 'P. rigida'. Несколько ветвей сосны без хвои, сосновые шишки ещё полностью не созрели, но учитывая сезон созревания, можно собрать их снова. Вы можете срубить его с необходимыми инструментами.
+
+
+A tall deciduous tree of the 'Betula' genus, with the characteristic peeling bark.  Species like 'B. alleghaniensis', 'B. papyrifera', and 'B. populifolia' are the most common in the New England region.  You could tear off some strips of bark if you examined the tree more closely.  You could cut it down with the right tools.
+Высокое лиственное дерево семейства 'Betula', с характерной белой корой. Такие семейства берёзы как 'B. alleghaniensis', 'B. papyrifera' и 'B. populifolia' наиболее распространены в регионах Новой Англии. При близком осмотре берёзы, вы возможно сможете оторвать несколько полос бересты. Вы можете срубить его с необходимыми инструментами.
+
+A tall deciduous tree of the 'Betula' genus, with the characteristic peeling bark.  Species like 'B. alleghaniensis', 'B. papyrifera', and 'B. populifolia' are the most common in the New England region.  Looks like there isn't enough rhytidome to peel off yet.  You could cut it down with the right tools.
+Высокое лиственное дерево семейства 'Betula', с характерной белой корой. Такие семейства берёзы как 'B. alleghaniensis', 'B. papyrifera' и 'B. populifolia' наиболее распространены в регионах Новой Англии. Похоже что ещё нет достаточного количества бересты чтобы собрать. Вы можете срубить его с необходимыми инструментами.
+
+
+
+
+
+
+
+
+
+! Solar Panel CBM КБМ: Солнечные панели
+Installed on your back is a set of retractable solar panels.  When in direct sunlight, they will automatically deploy and slowly recharge your power level.
+В вашу спину установлен ряд втягивающихся солнечных панелей. Под прямыми солнечными лучами панели автоматически разворачиваются, ваши аккумуляторы медленно заряжаются.
+
+upgraded reinforced solar panel мощная усиленная солнечная панель
+
+upgraded solar array массив мощных солнечных панелей
+A dozen upgraded solar panels set on a chassis reaching several meters high.  It keeps the fragile panels safely away from any potential threats and improves efficiency due to being able to track the sun.  However, this comes at the cost of being prohibitively heavy and obstructive.
+Комплект из дюжины мощных солнечных панелей, установленный на подвижное шасси, достигает нескольких метров в высоту. Обеспечивает безопасность хрупкого массива солнечных панелей от любых потенциальных угроз и повышает эффективность работы, благодаря возможности отслеживать солнце. Однако, вес конструкции при этом становится непомерно велик и представляет собой препятствие.
+
+upgraded reinforced solar array массив мощных усиленных солнечных панелей
+A dozen upgraded reinforced solar panels set on a chassis reaching several meters high.  It keeps the fragile panels safely away from any potential threats and improves efficiency due to being able to track the sun.  However, this comes at the cost of being prohibitively heavy and obstructive.
+Комплект из дюжины мощных усиленных солнечных панелей, установленный на подвижное шасси, достигает нескольких метров в высоту. Обеспечивает безопасность хрупкого массива солнечных панелей от любых потенциальных угроз и повышает эффективность работы, благодаря возможности отслеживать солнце. Однако, вес конструкции при этом становится непомерно велик и представляет собой препятствие.
+
+You have a few solar panels installed.  While in direct sunlight, your power level will slowly recharge.
+У вас имеется небольшая солнечная панель. Под прямыми солнечными лучами ваши аккумуляторы медленно заряжаются.
+убираемый втягивающиеся
+
+Retractable Claws Втягивающиеся когти
+
+Rodger, if he's a no-show then any other gunslinger will do... but I doubt he'll quit before we even begin.
+Принято, если он не появится, любой другой стрелок это сделает... но я сомневаюсь, что он уйдет, прежде чем мы даже начнём.
+
+
+
+Stop burrowing? Прекратить рыть?
+
+NO!  You will not allow this corruption to prevail!
+НЕТ! Вы не позволите этому разложению преобладать!
+
+You feel completely drained. Вы чувствуете себя истощённым.
+
+! пробел в конце лишний
+Our enemies are near, and violent action is imminent.  We are turgid.
+Наши враги рядом, жестокость неизбежна. Мы разбухаем.
+
+Mycal wrath fills our fibers, and we grow turgid.
+Ярость микус наполняет наши нити. Мы разбухаем.
+распухаем - медицинский, разбухаем - биологический
+
+Turgid Разбухший
+
+That critter's jumping around like a jitterbug!  It needs to mellow out.
+То существо дёргается вокруг как будто в нервном припадке! Это должно пройти.
+
+diamond cluster алмазная масса
+! пробел в конце
+A cluster of artificial crystals that have broken off of a diamond matrix. While the substance usually decays when separated from the catalyst; this cluster seems to be self-sustaining by some unknown mechanism. 
+Груда искусственных кристаллов, которые были расколоты алмазной матрицей. Обычно вещество полностью разрушается, когда отделяется от катализатора; но эта масса, похоже, способна выдержать, благодаря некоему неизвестному механизму. 
+
+The cluster comes apart in your hands.
+Алмазная масса разрушается на части в ваших руках.
+
+diamond matrix алмазная матрица
+A sparkling diamond with a dazzling spiral pattern.  Small pieces of glittering crystal form on the edges as you hold it.
+Сверкающий алмаз великолепной винтообразной формы. Это сверкающее великолепие играет красками и переливается крохотными искорками на гранях, пока вы держите его в своих руках.
+
+Your senses dull as you gaze into the depths of this gemstone's center...
+Ваши чувства тускнеют, пока вы вглядываетесь в глубины этого драгоценного камня...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+blob сгусток
+dormant blob неактивный сгусток
+blob feed корм сгустка
+malleable blob эластичный желеобразный артефакт
+jelly 1.желейная 2.желеобразный камень
+ammo feed system система подачи амуниции
+growing blob frame сгустковая рама растущая
+growing blob frame сгустковая рама растущая
+сгустковая рама
+сгустковые рамы
+сгустковых рам
+growing 1.растущая 2.выращенная
+growing gelatinous mass желейная масса растущая
+multiplying 1.делящаяся 2.многослойная умноженная
+multiplying gelatinous mass желейная масса делящаяся
+multiplying gelatinous mass желейная масса делящаяся
+irradiated облучённый
+bag мешочек
+gray mass серая масса (не склоняется)
+Gelatinous Желатинового
+goo canister контейнер слизи
+The blob becomes active and starts slithering around.
+Сгусток слизи становится активным и начинает передвигаться вокруг.
+fusion термоядерный 
+wasteland пустошь
+fibers filament волокно нить волокна
+shell панцирь
+
+фактор
+реагирование
+приспособления организма к внешним условиям
+воздействие
+микроструктура
+Взаимное расположение частей, составляющих единое целое.
+Строение вещества, обусловленное способами сочетания, связями
+Усиление, активизация деятельности отдельного органа или какой-л. системы в организме с помощью различных средств
+(фармакологических, воздействия электрического тока)
+Химическое или физическое воздействие на растения с целью ускорения их роста и развития.
+экземпляр дубликат образец
+
+gelatinous tank желейный бак
+gray tank серый бак
+oozing tank слизевой бак
+vortex engine вихревой двигатель
+gelatinous mass желейная масса
+multiplying gelatinous mass желейная масса делящаяся
+связывание соединение сращивание крепление
+
+growing blob frame сгустковая рама растущая
+A growing vehicle frame made of bone.  It's coated in a thick layer of ooze, though there's greater amounts on the bindings.  It's not quite tough enough to use.
+Растущая рама для транспортного средства сформировалась из костной ткани. Покрыта толстым слоем слизи, в местах сочленения покрыта ещё большим количеством для объединения между собой. Не требует больших усилий для обращения.
+
+gelatinous mass желейная масса
+An experiment gone horribly right. While the original intent was to combine the structure of a bone frame with the impact absorption of the blob; the blob seems to have completely consumed the bone. Instead, what remains is an amorphous mass of goo with what seems to be numerous thin filaments floating within. With a bit of effort, you can grasp the fibers and stretch the mass into a multitude of shapes. The mass is able to retain the new shape even under force, though the mass yields at your touch. With enough strength, you think you can pull it apart.
+
+gray mass серая масса
+This internal structures of this creature have developed significantly.  While retaining the resilience and malleability of its once simpler form, it has gained the considerable abilities of perception and stimulus response.  When directly threatened, it is able to shift and alter its microfibers, hardening its membrane to an almost steel-hard shell.  You can still pull it apart with enough force.  It's also really gray.
+Внутреннее строение этого создания достигло невероятного развития структуры и приобрело способности к адаптации воздействия внешних условий среды обитания. Сохраняя свою естественную эластичность и податливость простой формы, приобрела поразительные способности к восприятию окружающего пространства и ответную реакцию на различные физико-химические факторы, которые вызывают раздражение. При прямом контакте с раздражителем или объектом, который представляет опасность, серая масса способна перемещать и видоизменять микроволокна, укрепляя мембрану своего тела до затвердевшего состояния, формируемый панцирь может сравниться с твёрдостью стали. Вы всё таки можете разорвать её обладая достаточной силой. Да, действительно, эта серая масса на самом деле состоит из волокон нервной ткани.
+
+oozing mass слизевая масса
+An amorphous mass that has undergone a significant growth.  In addition to the increased amount of goo and sinuous filaments, it seems to have started developing other internal structures.  Like its smaller counterpart, it can be shaped into various structures; albeit with significantly greater tensile strength due to the increased number of supporting filaments.  You believe you can split it apart with enough force.
+Аморфная масса, структура которой подверглась невероятному росту. Вдобавок к увеличенному объёму липкой слизи и подвижным нитям волокна, похоже начала развивать совершенно новые внутренние структуры. Подобно меньшим наблюдаемым образцам, переходит в иное состояние и может изменять свою исходную форму, переходя в различные структуры; с значительно большим пределом прочности на разрыв из-за увеличенного числа поддерживающих нитей волокна. Вы всё таки полагаете, что сможете разорвать её обладая достаточной силой.
+
+
+
+
+
+
+growing blob frame сгустковая рама растущая
+growing keratinous mass ороговевшая масса растущая
+growing beaded mass каплевидная масса буртовая шаровидная пузырчатая
+growing icy mass ледяная масса растущая
+growing cold mass холодная масса растущая
+growing hairy mass ворсистая масса растущая
+multiplying gelatinous mass желейная масса делящаяся
+growing gelatinous mass желейная масса растущая
+growing glowing mass светящаяся масса растущая
+growing gray mass серая масса растущая
+growing spike-studded mass прошипованная масса растущая
+growing gasoline-laced mass пробензиненная масса растущая
+growing acidic mass кислотная масса растущая
+oozing mass слизевая масса
+multiplying oozing mass слизевая масса делящаяся
+growing ooze слизевая масса растущая
+growing mass of tendrils масса с усиками растущая
+growing spiked mass шипованная масса растущая
+growing spiny mass колючая масса растущая
+growing spiky mass заострённая масса растущая
+growing bright mass яркая масса растущая
+growing viscous mass вязкая масса растущая
+growing warm mass тёплая масса растущая
+growing electrified mass заряженная масса растущая
+Oozing track слизевой трак
+Gray track серый трак
+
+cargo rack
+wooden bolt rack
+paper cartridge rack
+
+Gelatinous track желейный трак
+A short, interlocking set of tracks created out of some of your monstrosity blob based parts.  Similar with what you might see used on light construction vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is quite heavy.
+Короткий взаимосвязанный набор траков, извлечённый из основных частей монструозных сгустков. Похожи на те, что вы могли видеть на лёгких конструкциях транспортных средств. Эти, невероятно прочные, по сравнению с обычными колёсами из-за отсутствия риска разрыва; но они довольно тяжёлые.
+
+gelacier желейный ледник
+A biological mystery, this blob's internal structures exist in within a pool of low-density fluid that remains liquid despite being in a super-cooled state; yet possesses all the malleability of its former self.  Fragments of frost continually flake off it.  It seems pliable enough to pull apart...
+Биологическая загадка, внутренние структуры этого сгустка находятся в оболочке с жидкостью низкой плотности, которая остается в жидком состоянии несмотря на переохлаждённое состояние всей структуры; и всё же обладает достаточной податливостью внешней формы. Отдельные ледяные фрагменты постоянно отслаиваются от тела. Кажется достаточно пластичным, чтобы разорвать...
+
+gelacier wheel желейное ледяное колесо
+A biological mystery, this blob's internal structures exist in within a pool of low-density fluid that remains liquid despite being in a super-cooled state; yet possesses all the malleability of its former self.  Fragments of frost continually flake off it.  It has formed itself into a wide boat frame.
+Биологическая загадка, внутренние структуры этого сгустка находятся в оболочке с жидкостью низкой плотности, которая остаётся в жидком состоянии несмотря на переохлаждённое состояние всей структуры; и всё же обладает достаточной податливостью внешней формы. Отдельные ледяные фрагменты постоянно отслаиваются от тела. Окончательно сформировался в широкую раму для лодки.
+
+gelatinous wheel желейное колесо
+Filling a gelatinous mass with water has resulted in something that appears to be a cross between a wheel, an otherworldly abomination, and one of those old squeezy toys.
+Заполнение желейной массы с водой привело в результате к чему-то, что отдалённо напоминает гибрид потусторонне выглядящего и вызывающее отвращение колеса с одной из тех старых резиновых игрушек детства.
+
+gray wheel серое колесо
+Filling a gray mass with water has resulted in something that appears to be a cross between a wheel, an otherworldly abomination, and one of those old squeezy toys.
+Заполнение серой массы с водой привело в результате к чему-то, что отдалённо напоминает гибрид потусторонне выглядящего и вызывающее отвращение колеса с одной из тех старых резиновых игрушек детства.
+
+earthen roller земляной каток
+A large, spherical blob the size of a large truck tire.  The outer layer has compacted itself into a solid shell; offering great resilience.  Having grown to full size, it seems content to simply sit there.
+Большой сферический сгусток размером с большую шину грузовика. Внешний слой уплотнён в твердый панцирь; обеспечивая прекрасную упругость структуры. Достигнув своего окончательного размера, похоже можно просто уместиться там полностью.
+
+oozing wheel слизевое колесо 
+Filling an oozing mass with water has resulted in something that appears to be a cross between a wheel, an otherworldly abomination, and one of those old squeezy toys.
+Заполнение слизевой массы с водой привело в результате к чему-то, что отдалённо напоминает гибрид потусторонне выглядящего и вызывающее отвращение колеса с одной из тех старых резиновых игрушек детства.
+
+Rubber Caterpiller Track резиновый гусеничный трак
+A short, interlocking set of hard rubber tracks reinforced by stiff wire held in place by a set of smaller wheels.  Similar with what you might see used on light construction vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is quite heavy.
+Короткий взаимосвязанный набор траков из жёсткого каучука, усиленный несгибаем проводом, который проходит рядом с колёсиками меньшего размера. Похожи на те, что вы могли видеть на лёгких конструкциях транспортных средств. Эти, невероятно прочные, по сравнению с обычными колёсами из-за отсутствия риска разрыва; но они довольно тяжёлые.
+
+Steel Caterpiller Track стальной гусеничный трак
+A short, interlocking set of shaped steel tracks held in place by a set of smaller wheels.  Similar with what you might see used on large construction vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is very heavy.
+Короткий взаимосвязанный набор стальных траков, который проходит рядом с колёсиками меньшего размера. Похожи на те, что вы могли видеть на тяжёлых конструкциях транспортных средств. Эти, невероятно прочные, по сравнению с обычными колёсами из-за отсутствия риска разрыва; но они довольно тяжёлые.
+
+Reinforced Caterpiller Track бронированный гусеничный трак
+A short, interlocking set of shaped steel tracks held in place by a set of smaller wheels.  Similar with what you might see used on APCs and armored vehicles.  It's significantly stronger than regular tires due to not being at risk of bursting; but is extremely heavy.
+Короткий взаимосвязанный набор стальных траков, который проходит рядом с колёсиками меньшего размера. Похожи на те, что вы могли видеть на БТР и бронированных транспортных средствах. Эти, невероятно прочные, по сравнению с обычными колёсами из-за отсутствия риска разрыва; но они довольно тяжёлые.
+
+Harvest Blob Feed from Corpse Pit: Smash to Harvest
+Собрать корм сгустка из ямы с трупами: Разбить для сбора
+Harvest Blob Feed from Slime: Smash to Harvest
+Собрать корм сгустка из шламоотстойника: Разбить для сбора
+
+biting blob кусачий сгусток кусающий сгусток
+A living blob turned into an autonomous weapon; meant to be stretched across a frame as a form of barrier.  It has evolved the ability to constantly generate calcified protrusions which are then controlled by sinous tensile strands.  These "teeth" can then be used to latch and wound anything unfortunate enough to be nearby.  The outer membrane has also become significantly thicker in order to support its more strenuous movement; though it seems pliable enough to pull apart...
+Этот живой сгусток превратился в подобие автономного чужеродного оружия; вытянулся вдоль рамы, соединившись с ней в форме барьера. Развил способность постоянно порождать отвердевшие наросты, которые затем управляют подвижными растягивающимися нитевидными волокнами. Эти «зубы» могут хватать и ранить что-либо находящееся достаточно близко. Внешняя мембрана также стала невероятно толстой, чтобы совершать эти чрезвычайно сильные движения; кажется достаточно пластичным, чтобы разорвать...
+
+
+
+
+
+A weapon that is as deadly as it is dazzling. The diamond matrix in this weapon's center acts as a catalyst; rapidly changing carbon-heavy materials into a crystalline substance that is nearly equal to diamond in hardness. The substance rapidly decays when separated from the catalyst, and at sizes as large as the projectile used, also rapidly decays when in contact with other matter. Thus the projectile is held and launched by the use of pressurized air from a vortex stone. Upon striking its target, the projectile undergoes explosive decomposition; shattering into a brilliant burst of diamond fragments.
+
+
+gel shooter желейный пистолет
+A living blob turned into an autonomous weapon.  It trawls the ground for material, which it then strips of nutrition.  The remainder is then expelled out at significant velocity towards any nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.  It seems pliable enough to pull apart...
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Передвигается по земле в поисках материалов, которые затем превращает в питательные вещества. Остатки выталкивает с невероятной скоростью в направлении любой угрозы. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять. Кажется достаточно пластичным, чтобы разорвать...
+
+frost lancer ледяное копьё
+A living blob turned into an autonomous weapon.  A biological abberration that exists at sub-zero temperatures.  After filtering nutrients from the water, it freezes the remainder into an incredibly sharp spear of ice; which it then launches at nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Биологическая аномалия, которая может существовать при температурах ниже нуля. После фильтрации и поглощения питательных веществ из воды, замораживает остатки в невероятно острые ледяные сосульки; которые запускает в направлении любой угрозы. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+snapping ooze слизевой кусач
+A living blob turned into an autonomous weapon.  A baffling mutation in an already baffling creature, this blob is encased in a thick coat of fur, which serves as a form of protection.  In addition, it is capable of projecting rows of calcified sharp fragments in a manner mimicing the jaw of a more recognizable creature.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Необъяснимая мутация в необъяснимом создании, этот сгусток заключён в оболочку с толстым внешним слоем меха, который служит ему как одна из форм защиты. Кроме того, способно порождать целые ряды отвердевших острых фрагментов, словно имитируя челюсти другого, легко узнаваемого хищного создания. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+blobsaw сгусток пила
+A living blob turned into an autonomous weapon; meant to be stretched across a frame as a form of barrier.  While its simpler cousins have a limit to the number of keratinous protrusions they can project and control; this blob can utilize hundreds of these sharp fangs to shred anything it detects as a threat into unrecognizable ribbons.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия; вытянулся вдоль рамы, соединившись с ней в форме барьера. В то время как у простых сгустков есть ограниченное количество ороговевших образований и отвердевших наростов, которые они могут отрастить и управлять; этот сгусток использует сотни таких острых клыков, чтобы раскромсать что-либо, что определит как угроза в неузнаваемые ошмётки. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+fuel puffer топливный распылитель
+A living blob turned into an autonomous weapon.  A rather picky eater, it feeds on chemicals found within gasoline.  The digestion process turns the result incredibly viscous which, when threats come near, is launched; ensnaring anything it hits.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Имеет довольно специфические предпочтения в еде, питается высокооктановыми компонентами бензина. В результате процесса усваивания, выделяется невероятно вязкое вещество, которое сгусток запускает по ближайшим угрозам; любая жертва окажется в ловушке. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+acid puffer кислотный распылитель плавящий
+gel puffer желейный распылитель колющий удар
+fire puffer поджигающий распылитель распылитель огнемёт
+fuel puffer топливный распылитель
+
+acid puffer кислотный распылитель
+A living blob turned into an autonomous weapon.  A filter feeder, the digestion process produces highly acidic byproducts; which is then expelled at any nearby enemies.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. В результате процесса усваивания, фильтрует пищу, производя побочные кислотные вещества; которые потом запускает по любым ближайшим врагам. Аморфная масса может быть сформирована и прикреплена при Вашем касании, но само оружие инертно без чего-то, чтобы управлять им.
+
+amorphous heart аморфное сердце
+This amorphous mass seems to have finished developing; its advanced internal structures testifying to that.  It is capable of locomotion through internal hydraulic pressure, capable of moving substantial loads, and, in an astounding display of intelligence, is capable of manipulating anything it's attached to, whether blob-based or otherwise, through extended pseudopods.  You think you might be able to manipulate it, and through it, all its attached parts.  Though to do so you'll have to position yourself to be in contact with it; and it appears unnervingly willing to accomodate you...
+Эта аморфная масса, похоже, окончательно развилась; её усовершенствованные внутренние структуры свидетельствуют об этом. Способна к передвижению благодаря внутреннему гидравлическому давлению, способна двигать большие грузы, и, показывая поразительный интеллект, способна управлять чем-либо основанным на структуре сгустков, к чему присоединится или иным способом, с помощью длинных ложноножек. Вы думаете, что смогли бы управлять этим, и через него, всеми присоединёнными частями. Хотя сделав это, вы должны будете присоединить себя тоже к общей массе; вам это кажется расслабляюще желанным, вы мечтаете слиться в одно целое...
+
+gel spiker желейная пика
+A living blob turned into an autonomous weapon.  Capable of calcifying large numbers of fang-like fragments within itself.  It hurls groups of these fragments along with a small portion of itself.  When it reaches its destination, the detached remains shoot these fragments in all directions, expiring in the process.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Способен формировать большое количество клыкоподобных фрагментов внутри себя. Выбрасывая массу таких фрагментов наряду с небольшой частью самого себя. Когда они достигают цели, оторванные куски тканей сгустка, стреляют этими фрагментами во всех направлениях, отмирая в результате. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+gel spouter желейный фильтр желейный карбюратор ?
+A living blob turned into an autonomous weapon. It can suck in water from a vehicle tank, and forcibly expel it in a wide cone. The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Он может всасывать воду из бака транспортного средства и принудительно вытеснять в широкое коническое сопло. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+gel lancer желейное копьё
+A living blob turned into an autonomous weapon.  Evolving incredible abilities of perception, it is capable of locating and discerning possible threats within a large radius.  When a potential threat is located, it fires a small, calcified projectile with incredible speed and accuracy.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Развил невероятные способности восприятия, способен определять местоположение и распознавать возможные угрозы на большом расстоянии. Когда потенциальная угроза определена, запускает небольшие отвердевшие фрагменты с невероятной скоростью и точностью. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+gel razor желейный коготь
+A living blob turned into an autonomous weapon.  An enhanced metabolism allows it to calcify large. toothy discs that is then launched towards any nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Усовершенствованный метаболизм позволяет ему формировать большие отвердевшие зубчатые диски, которые запускает в любые угрозы поблизости. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+shock bulb шоковый разряд
+A living blob turned into an autonomous weapon.  Shockingly, it somehow is able to project electricity, which it then discharges at any nearby threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Шокирующе, но как бы то ни было, сгусток способен генерировать и выпускать электрический заряд, который разряжается по любым угрозам поблизости. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+gel puffer желейный распылитель
+A living blob turned into an autonomous weapon.  A filter feeder, it strips any water it processes of nutrients and expels the remainder towards any nearby threats.  The process of filter-feeding also makes the remaining liquid viscous, though it also dissipates fairly quickly.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. В результате процесса усваивания, фильтрует пищу, выделяя воду и удаляя остатки в сторону любых угроз поблизости. Также выделяются некоторые следы вязкой жидкости, хотя она растворяется довольно быстро. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+fire puffer огненный распылитель
+A living blob turned into an autonomous weapon.  A rather picky eater, it feeds on chemicals found within gasoline.  The digested material is still highly flammable, and when launched, also activates an ignition gland located on the outer membrane.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Имеет довольно специфические предпочтения в еде, питается высокооктановыми компонентами бензина. Переваренное вещество всё ещё остаётся огнеопасно, и когда сгусток его выпускает, также срабатывает железа зажигания, расположенная на внешней мембране. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+spark blight искровой разряд
+A living blob turned into an autonomous weapon.  It is capable of storing energy from sunlight inside itself in the forme of electricity.  Then, in a truly baffling show of force, projects a highly concentrated stream of electricity towards any possible threats.  The amorphous mass can be shaped and attached at your touch, but the weapon itself is inert without something to control it.
+Этот живой сгусток превратился в подобие автономного чужеродного оружия. Способен накапливать энергию солнечного света внутри себя в виде аккумулированной электроэнергии. Затем в действительно угрожающей ситуации, способен продемонстрировать свою силу, выпустив мощный поток электричества высокого напряжения по любым возможным угрозам. Эта аморфная масса может принимать определённую форму и присоединяться при касании к ней, но само по себе оружие неактивно без чего-то, что могло бы им управлять.
+
+"whys it called a heater shield anyway?  only heats if i light it on fire."
+«почему его так называют тепловой щит, а не иначе? только тепло, если я освещу его в огне.»
+
+
+! terrain
+gravel гравий
+A small mallet that a judge uses to call - er, wait.  Oh, gravel!  Gravel is a collection of small stones often used for roads, as railroad ballast, and in many other applications.
+Маленький деревянный молоток, которым судья прерывает докладчика - ой, постойте. Ааа, гравий! Гравий - это рыхлая осадочная горная порода, состоящая из маленьких округлых камешков, часто применяется в строительстве дорог, как железнодорожная насыпь, ему можно найти много других применений.
+
+
+! terrain
+mass of blob feed масса из корма сгустка
+mound of blob feed насыпь из корма сгустка
+
+! vechicle кузов контейнер боковина
+gel lamp желейная лампа
+directed gel lamp желейн
+! gel retriever - желейный кран
+gel harness желейный ремень безопасности
+gel framework 9 желейная рама
+capsule (10L) оболочка (10 л)
+gel reinforcement желейная броня
+gel roof желейная крыша
+gel seat желейное сиденье
+gel receptacle желейный резервуар
+! gel pouch (under) - желейная сумка (внизу)
+gel walkway 2 желейный проход
+gel panel 6 желейная панель
+gel quarterpanel 8 желейный боковина
+gel hatch желейный люк
+opaque gel hatch желейный непрозрачный люк
+gel battery желейный аккумулятор
+gel battery (under) желейный аккумулятор (внизу)
+gel generator желейный генератор
+! gray retriever - серый кран
+gray harness серый ремень безопасности
+gray frame 9 серая рама 
+cocoon (25L) кокон (25 л)
+gray reinforcement серая броня
+gray roof серая крыша
+gray seat серое сиденье
+gray receptacle серый резервуар
+! gray pouch (under) - серая сумка (внизу)
+gray walkway серый проход
+gray wall 6 серая боковина
+gray hatch серый люк
+opaque gray hatch серый непрозрачный люк
+gray barricade 8 серый барьер
+ooze screen
+ooze retriever - 
+ooze harness
+ooze chassis
+pod (20L) бак (20 л)
+ooze reinforcement
+ooze roof
+ooze seat
+ooze receptacle 
+ooze pouch (under)
+ooze walkway
+ooze barrier
+ooze hatch
+opaque ooze hatch
+amorphous core
+wooden floor panel
+rebar reinforcement
+rubber treads
+steel treads
+tank treads
+solar floodlight
+turreted reinforced solar panel
+Upgraded reinforced solar panel
+turreted solar panel
+upgraded turreted solar panel
+Quantum solar panel
+
+artifact file артефакт файл
+
+
+liquified blob feed, plural: bfeedfuel корм сгустка жидкий
+Liquified blob feed, useful for fueling certain blob based vehicle parts
+Превращённый в жидкую питательную смесь корм сгустка, содержит всё необходимое для обеспечения топливом определённых видов сгустков, которые являются основными частями транспортного средства.
+
+blob feed корм сгустка
+An amalgam of various types of organic material, contains everything the blob needs to be healthy.  You think...
+Эта смесь различных органических веществ, содержит всё необходимое для здоровья сгустка. Вы так думаете...
+
+nuclear reactor core ядро ядерного реактора
+
+! thud бух
+thud thud. бух бух.
+knock knock. тук тук.
+Build Pine Lean-To Строить навес из сосны
+Build Tarp Lean-To Строить брезентовый навес
+pine lean-to навес из сосновых веток
+tarp lean-to брезентовый навес
+
+
+open secret открытый секрет
+open secret door открытая секретная дверь
+unusual book case странный книжный шкаф
+open sliding wall открытая сдвижная дверь
+unusual statue странная статуя
+containment manual override ручное управление изолятором
+security bolt release болты обеспечения безопасности
+bridge control контроль мостом
+
+Atomic Compact атомное авто компакт
+Atomic SUV атомный внедорожник
+Atomic Car атомное авто
+
+rack - патронница коробка короб 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+сгустковая рама растущая
+сгустковые рамы растущие
+сгустковых рам растущих
+
+ороговевшая масса растущая
+ороговевшие массы растущие
+ороговевшых масс растущих
+
+желейная масса
+желейные массы
+желейных масс
+
+желейная масса делящаяся
+желейные массы делящиеся
+желейных масс делящихся
+
+светящаяся масса растущая
+светящиеся массы растущие
+светящихся масс растущих
+
+слизевая масса
+слизевые массы
+слизевых масс
+
+
+
+
+
+
+
+
+
+
+Теперь вы знаете, как создавать всё что угодно - добавить Нео перевод
+
+
+
+blob feed корм сгустка
+An amalgam of various types of organic material, contains everything the blob needs to be healthy.  You think...
+Эта смесь различных органических веществ, содержит всё необходимое для здоровья сгустка. Вы так думаете...
+
+Liquified blob feed, useful for fueling certain blob based vehicle parts
+Превращённый в жидкую питательную смесь корм сгустка, содержит всё необходимое для обеспечения топливом определённых видов сгустков, которые являются основными частями транспортного средства.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+! gelatinous mass желейная масса дописать перевод сверху
+An experiment gone horribly right. While the original intent was to combine the structure of a bone frame with the impact absorption of the blob; the blob seems to have completely consumed the bone. Instead, what remains is an amorphous mass of goo with what seems to be numerous thin filaments floating within. With a bit of effort, you can grasp the fibers and stretch the mass into a multitude of shapes. The mass is able to retain the new shape even under force, though the mass yields at your touch. With enough strength, you think you can pull it apart.
+Эксперимент который завершился ужасной правдой. В то время как первоначальный замысел состоял в комбинировании структуры костяной рамы с способностью сгустка поглощать; похоже сгусток полностью поглотил кость. А то что осталось - это аморфная масса слизи с тем, что, кажется, напоминает многочисленные тонкие нити волокна свободно двигающиеся внутри. С небольшим усилием вы можете схватить эти волокна и придать массе разнообразную форму. Масса в состоянии сохранить новую форму даже под внешней силой, хотя масса податлива при вашем касании. Вы всё таки полагаете, что сможете разорвать её обладая достаточной силой.
+
+слизевая серая желейная масса делящаяся общее описание
+Having been fed, this blob is now rapidly multiplying into other copies of itself; extremely noisy copies! And even worse, it's stuck to your hands until whatever it's doing is done! Catch those blobs before they bring in every zombie for miles!
+Having been fed, this blob is now rapidly multiplying into other copies of itself; extremely noisy copies! And even worse, it's stuck to your hands until whatever it's doing is done! Catch those blobs before they bring in every zombie for miles!
+Будучи откормленным, этот сгусток теперь быстро делится на копии себя самого; чрезвычайно шумные копии! И что ещё хуже, увязнув в ваших руках, пока любой другой, независимо от того что вы делаете, будет шуметь! Поймайте эти сгустки, прежде чем они спровоцируют каждого зомби на мили!
+
++ серая масса - переведено выше
+This internal structures of this creature have developed significantly.  While retaining the resilience and malleability of its once simpler form, it has gained the considerable abilities of perception and stimulus response.  When directly threatened, it is able to shift and alter its microfibers, hardening its membrane to an almost steel-hard shell.  You can still pull it apart with enough force.  It's also really gray.
+Внутреннее строение этого создания достигло невероятного развития структуры и приобрело способности к адаптации воздействия внешних условий среды обитания. Сохраняя свою естественную эластичность и податливость простой формы, приобрела поразительные способности к восприятию окружающего пространства и ответную реакцию на различные физико-химические факторы, которые вызывают раздражение. При прямом контакте с раздражителем или объектом, который представляет опасность, серая масса способна перемещать и видоизменять микроволокна, укрепляя мембрану своего тела до затвердевшего состояния, формируемый панцирь может сравниться с твёрдостью стали. Вы всё таки можете разорвать её обладая достаточной силой. Да, действительно, эта серая масса на самом деле состоит из волокон нервной ткани.
+
+growing electrified mass электризованная масса растущая заряженная масса растущая
+
+wheel vehicle
+A wooden board that keeps the boat afloat.  To change a vehicle into a boat, place as you would wheels on a car.  Then attach oars or a motor to get the boat to move.
+Деревянный борт лодки который сохраняет лодку на плаву. Чтобы преобразовать транспортное средство в лодку, поместите их так, как бы вы устанавливали колеса на автомобиле. Потом прикрепите вёсла или мотор, чтобы заставить лодку двигаться.
+
+bionic descr Power Overload
+Damaged power circuits cause short-circuiting inside your muscles when your batteries are above 75% capacity, causing greatly reduced strength.  This has no effect if you have no internal batteries.
+Повреждённые энергетические цепи приводят к короткому замыканию внутри мышц, когда уровень заряда вашего аккумулятора превышает 75%, в результате серьёзно уменьшается ваша сила. Это не будет оказывать влияние, если у вас нет внутреннего аккумулятора.
+
+
+
+
+Эпилог и вниз куча текста
+
+     Died several years later at the hands of a Hell's Raiders band.  Till the end, he held out hope that his daughter was still alive in the wasteland.
+     Умер несколько лет спустя оказавшись в руках банды Адских налётчиков. До самого конца он надеялся, что его дочь всё ещё жива в пустоши.
+     
+     Was making his way to Michigan to search for family when he broke his leg in the woods.  Died of hypothermia a week later.  A note found with his body read, 'I wish I could have saved her.'
+     Пробивался в Мичиган, чтобы найти свою семью, тогда он сломал свою ногу в лесах. Умер от гипотермии неделю спустя. В записке найденной возле его тела, содержалось, "Мне очень жаль, что не смог её спасти."
+
+     Survived for a number of years and made a name for himself amongst other survivors.  Eventually he began augmenting himself with bionics... when a failed surgery left him permanently blind he committed suicide without leaving a note.
+     Выживал в течение многих лет и приобрёл известность среди других выживших. В конце концов он начал расширять себя бионикой..., а когда неудачная хирургическая операция оставила его навсегда слепым, совершил самоубийство, не оставив никакой посмертной записки.
+
+     Met with some success as a craftsman working in a small survivor outpost.  Eventually he married a young refugee and had two children.  Died during a typhoid outbreak a few years later.  Survived by only his three year old son.
+     Добился немалого успеха как искусный мастер, работал в небольшом аванпосте выживших. В конце концов он женился на молодой беженке, у них было двое детей. Умер во время вспышки тифа несколько лет спустя. Уцелел только его трёхлетний сын.
+
+     Became a skilled mechanic and assisted a number of refugees searching for settlements.  He left one day on a routine trading run and failed to return.  His wrecked truck was located by a scavenger band but he was never seen again.
+     Стал квалифицированным механиком и помог многим беженцам, ищущим новые места для поселения. Однажды он выбрался на обычный торговый маршрут и не вернулся. Его разбитый грузовик был найден бандой добытчиков, но его самого никто никогда больше не видел.
+
+     Became a game hunter and trapper.  Eventually he left on a hunting trip never to be seen again.  Attempts to locate him were called off when one of the searchers disappeared without a trace.
+     Стал охотником за удачей и траппером. Как-то отправился на охоту и больше его никто не видел. Попытки найти его были прекращены, когда один из поисковой группы исчез без следа.
+
+     Went on to enlist in the Old Guard.  Was killed in action a year later fighting the Hell's Raiders in Vermont.  In his will he requested that all entitlements and property be transferred to a young lady he had met while guarding a FEMA camp.  Was survived by the young lady and a newborn son.
+     Завербовался на службу в Старую гвардию. Был убит в бою год спустя при столкновении с бандой Адских налётчиков в Вермонте. В своём завещании он предписывал, чтобы все права и вся собственность были переданы молодой девушке, которую он встретил, охраняя лагерь МЧС. Которая выжила чудом со своим новорожденным сыном.
+
+     Became a laborer for hire in any outpost that needed assistance.  Was hanged for stealing from an employer; weeks later it was revealed the employer never had the resources nor intention to pay him.
+     Стал наёмным рабочим на любой аванпост, которому была нужна помощь. Повешен за кражу имущества нанимателя; несколько недель спустя разоблачаён наниматель, никогда не имевший указанного имущества и намерения заплатить рабочему за работу.
+
+     Never spent much time around settlements after your death.  Was last seen near the Adirondacks in New York.
+     Никогда не проводил много времени у поселений после вашей смерти. Был в последний раз замечен около Адирондака в Нью-Йорке.
+
+     Died of an infected bite a few weeks later.  Before he passed he told those present, 'Now I've lost everything in this world... but you haven't.  Keep searching, the world is big enough that there has to be a place out there that hasn't been overrun.'
+     Умер от заражённых ран, полученных после укуса несколько недель спустя. Перед тем как он ушёл из жизни, он рассказал присутствующим, "Я потерял всё в этом мире..., кроме вас. Продолжайте искать - мир огромен, должно быть там место, которое не было наводнено монстрами."
+
+     Managed to contract some form of fungal infection a few months after your passing.  Unable to find treatment, he asked to be put down while listening to someone read from his favorite novel, Don Quixote.
+     Управляемый разрастающимся заражением, некоторой формой грибковой инфекции, спустя несколько месяцев после того как вы ушли из жизни. Не в состоянии найти излечение, он попросил похоронить его, пока будет слушать кого-нибудь читающего его любимый роман, «Дон Кихот».
+
+     Became a self-taught chemist and medic.  His work eventually led him to a life of alcohol abuse and morphine addiction.  Overdosed one night when left unattended.  The community he helped said, 'He was probably the best thing to happen to us in years... there just isn't any turning back when you lose all hope.'
+     Стал самоучкой химиком и медиком. Его работа в конечном счёте привела его к жизни в полной зависимости от морфия и злоупотребления алкоголем. Однажды ночью у него случилась передозировка, когда остался без присмотра. Местное население, которому он помог, заявило, "Встреча с этим человеком вероятно была лучшей вещью, которая произошла с нами за эти годы... там, откуда не возвращаются, когда вы теряете всякую надежду."
+
+     Went on to become a notable scout and urban explorer.  Was tragically killed when cornered in an abandoned store when scavenging with a group of unskilled survivors.
+     Продолжил свою деятельность выдающимся разведчиком и городским исследователем. Трагически убит, когда был загнан в угол в заброшенном магазине, на вылазке с группой неопытных выживших.
+
+     After your death he became a reclusive but friendly guy.  His continued supply runs helped keep many survivor colonies alive through the years.  Unfortunately, he bled to death over the course of several days after having stepped on a landmine intended to target local raiders.
+     После вашей смерти он стал затворником, хотя и дружелюбным парнем. Его продолжавшиеся набеги за припасами помогли поддержать много колоний выживших в течение многих лет. К сожалению, он получил смертельные ранения и истёк кровью в течение нескольких дней, наступив на мину, предназначавшуюся для местных банд налётчиков.
+
+     Lost his way long before he met you.  The cataclysm offered him the chance to denounce the former vices that had led to his incarceration... an offer that went unanswered.  After you were killed, he returned to hunting those he saw as weak.  The number of people he murdered is unknown but prior to his execution he claimed that, 'butchering the dead was never as fun as the living.'
+     Сбился с пути ещё задолго до того, как он встретил вас. Катаклизм предложил ему шанс отказаться от своих порочных деяний, которые привели его до лишения свободы... предложение, которое осталось без ответа. После того, как вы были убиты, он вернулся к налётам на тех, в ком видел слабость. Число людей, которых он убил неизвестно но, до самой своей казни утверждал, что, "разделывать трупы мёртвых было не так весело как разделывать живых."
+
+     Found new meaning in life after your death.  Although he never informed you, his felonies in the departed world had prevented him from ever having a real place in society.  With the destruction of existing criminal records he took it upon himself to prove his worth to his fellow man.  Died from a heart attack while alone on a trip many years after the cataclysm.
+     Нашёл новый смысл жизни после вашей смерти. Несмотря на то, что он никогда не рассказывал вам о своих уголовных делах в том умершем мире, это препятствовало ему занять когда-либо реальное место в новом обществе. С разрушением существующих систем криминальных досье он взял на себя обязательства, чтобы доказать значимость сделанного выбора ближнему свему. Умер от сердечного приступа в одиночестве, путешествуя по миру rатаклизма много лет спустя.
+
+     Spent his entire life secretly addicted to one substance or another.  After your death he briefly worked as a laborer in a survivor camp before losing his grip on reality due to various side effects associated with his drugs of choice.  He died from complications due to a seizure.  In his last moments he saw Porkey the pig exclaim, 'That's all folks!' before an animated audience.
+     Провёл всю жизнь втайне от всех увлекаясь то одним веществом, то другим. После вашей смерти он недолго работал рабочим в лагере выживших, пока не потерял контроль над реальностью из-за различных побочных эффектов, связанных с его наркотиками. Умер от осложнений после приступа. В последние моменты своей жизни он видел мультипликационного персонажа Порки, который восклицал: "Вот и всё парни!" перед оживлённой публикой.
+
+     Was never known as a particularly brave individual nor an emotionally stable one.  His regret for not helping people during the opening days of the cataclysm led him to attempt suicide multiple times in the years that followed.  Life improved briefly when he married a fellow survivor but was shattered when his spouse was killed by members of a mysterious apocalypse cult.  He was killed when he attempted to sneak into the cult's compound to enact revenge himself.
+	 Никогда не отличался особой храбростью, ни эмоциональной стабильностью. Его муки совести что не помог людям в течение первых дней возникновения катаклизма принудили его сделать попытку самоубийства, многократно в те годы, которые последовали за ним. Жизнь улучшилась немного, когда он женился на близко знакомой выжившей девушке, но брак был разрушен, когда его супруга была убита членами тайного культа апокалипсиса. Был убит, когда пытался прокрасться в строение культа, чтобы отомстить.
+
+     Spent the remainder of his life assisting one adventurer party or another.  Eventually his luck ran out when he became ill after eating something rotten.  Was abandoned by his party in an infested neighborhood, never to be seen again.
+     Провёл остаток своей жизни, помогая то одной группе авантюристов, то другой. В конце концов его удача отвернулась от него, когда он заболел съев чего-то подпорченного. Был брошен своей группой в заражённом районе, больше его никогда не видели.
+
+     Died from sepsis a few weeks after you.  The cut on his leg that ultimately killed him would have been easily treatable in nearly any other situation.  His final wish was that he be allowed to drink himself into his grave.  Upon consideration, the party that he was with opted to shoot him in the head and divide his belongings rather than waste the alcohol.
+     Умер от сепсиса спустя несколько недель после вас. Его сломанные ноги, которые в конечном счёте и убили его, могли быть легко обработаны и излечены в любой другой похожей ситуации. Его последним желанием было, чтобы ему позволили напиться в стельку в его же собственной могиле. После обсуждения группа в которой он состоял предпочла выстрелить ему в голову и поделить его имущество, чем потратить алкоголь впустую.
+
+     Worked hard following your death to organize his own band of survivors.  Went on to marry and have two children that were raised and taught every survival skill they would ever need.  His past eventually caught up to him when he ran afoul with an Old Guard colonel.  Since he fled his post as a National Guard soldier during the cataclysm he was hanged for desertion despite the protests of a huge number of survivors that had benefited from his service over the years.
+     Упорно работал после вашей смерти, чтобы организовать свою собственную банду выживших. Женился и у него было двое детей, которые практиковались и обучались каждому навыку выживальщика, который им когда-либо понадобится. Его прошлое в конечном счёте настигло его, когда он вступил в конфликт с полковником Старой гвардии. С тех пор как он сбежал со своего поста, когда был солдатом Национальной гвардии во время начала катаклизма, он был повешен за дезертирство несмотря на протесты большого количества выживших, которые получали выгоду пользуясь его услугами за все эти годы.
+
+     Went on to the coast and salvaged a small sailboat.  Despite the protests of those that knew him, his decision to sail in search of some uninhabited tropical paradise in the north Atlantic was final.  His disappearance after starting the journey was described by his fellow survivors as 'a waste of a perfectly good boat.'
+     Продолжил движение к побережью и спас маленькую парусную шлюпку. Несмотря на протесты тех, кто хорошо знал его, его решение отплыть в поисках другого безлюдного тропического рая в Северной Атлантике было окончательным. Его исчезновение после начала путешествия было описано поддерживающими его выжившими как, "трата просто отличнейшей лодки."
+
+     Within a few weeks of your death he was robbed by a pair of bandits.  For attempting to resist their demands they broke both of his arms in multiple places.  Alone and wounded it took nearly a month before he found refuge and primitive medical assistance with other survivors.  Having lost his ability to grasp or lift, he spent the last few years of his life begging for food and relying on charity from his fellow survivors.
+     В течение нескольких недель после вашей смерти, он был ограблен парой бандитов. За попытки сопротивляться их требованиям, они сломали ему обе руки в нескольких местах. Одинокий и покалеченный прошёл почти месяц до того, как он нашёл убежище и примитивную медицинскую помощь с другими выжившими. Потеряв способности хватать и поднимать, он провёл последние несколько лет своей жизни, выпрашивая еду и полагаясь на благосклонность помогающих ему выживших.
+
+     Trained under your guidance, he became a renowned abomination hunter.  With what weapons he could salvage he led parties to reclaim town after town from the undead and other horrors that wandered the wasteland.  His success was temporal as monsters migrated into the cleared territories as quickly as he could clear them.  His life ended when antibiotic resistant infection spread between his countless minor wounds.
+     Обученный под вашим руководством, он стал известным охотником на всякую мерзость. С таким оружием он смог собрать силы, он принудил группы выживших очищать город за городом от зомби и других ужасов, которые блуждали по пустоши. Его успех был временным, так как монстры мигрировали в очищенные территории так же быстро, как он зачищал их. Его жизнь завершилась, когда инфекция стойкая к антибиотикам распространилась по его бесчисленным лёгким ранениям.
+
+     Renounced the adventurous lifestyle after your death and chose to establish a self sufficient camp away from the horrors found in the old cities.  His attempts at solitude were in vain as otherworldly visitors began to prey upon the weak and isolated.  The last moments of his life were spent in bewilderment and horror as he was awoken one night to an alien insect the size of a man opening his cabin's door and screaming in a dozen perfectly human voices as it flew straight at him.
+     Отказался от образа жизни авантюриста после вашей смерти и принял решение основать самодостаточный лагерь далеко от ужасов, найденных в старых городах. Его попытки расположиться в уединённом месте были напрасны, поскольку потусторонние визитёры начали нападать на слабое и изолированное место. Последние моменты его жизни были в замешательстве и ужасе, поскольку, однажды ночью он был разбужен насекомомым неземного происхождения, размером с человека, открывающего дверь его жилища и кричащего сразу дюжиной безупречных человеческих голосов, которое летело прямо на него.
+
+     Was detained and handcuffed by a police robot on multiple counts of looting and vandalism that were tracked and recorded by the few remaining security systems.  While being held on the ground awaiting additional police response units he was torn to pieces by the undead that were attracted by the commotion.
+     Был задержан и скован наручниками робот-полицейским по многочисленным пунктам обвинения в грабеже и вандализме, которые были зафиксированы и зарегистрированы несколькими оставшимися в рабочем состоянии системами безопасности. Будучи задержанным удерживался на земле, ожидая дополнительные полицейские роботизированные единицы, он был разорван на куски зомби, которые были привлечены поднятой тревогой и шумом.
+
+SHE SHE SHE
+
+     Committed suicide rather than fall into the hands of the Hell's Raiders.  Till the end, she held out hope that her son was still alive in the wasteland.
+     Совершила самоубийство, это лучше, чем попасть в руки банде Адских налётчиков. До самого конца она надеялась, что её сын всё ещё жив в пустоши.
+
+     Was making her way to Ohio to search for family when she consumed a number of poisonous roots.  Over the course of three or four days she passed.  A note found with her body read, 'I wish I could have saved him.'
+	 Пробивалась в Огайо, чтобы найти свою семью, тогда она употребляла в пищу много ядовитых корней. На протяжении трёх или четырёх дней она продвигалась вперёд. В записке найденной возле её тела, содержалось, "Мне очень жаль, что не смогла его спасти."
+
+     Survived for a number of years and made a name for herself amongst other survivors.  Eventually she began experimenting with mutagen... when a mutation left her permanently disfigured and in pain she committed suicide without leaving a note.
+	 Выживала в течение многих лет и приобрела известность среди других выживших. В конце концов она начала экспериментировать с мутагеном..., когда мутация её полностью обезобразила, в приступе паники она совершила самоубийство, не оставив никакой посмертной записки.
+
+     Met with some success as a craftswoman working in a small survivor outpost.  Eventually she married a refugee and had one child.  Died during childbirth a few years later.  Survived by her husband and two year old daughter.
+	 Добилась немалого успеха как искусный мастер, работала в небольшом аванпосте выживших. В конце концов она вышла замуж за беженца, у них был один ребёнок. Умерла во время родов несколько лет спустя. Уцелели только её муж и двухлетняя дочь.
+
+     Became a skilled mechanic and assisted a number of refugees searching for settlements.  She left one day driving a number of migrants to another settlement when she disappeared.  No trace of her or the vehicle was ever found.
+     Стала квалифицированным механиком и помогала многим беженцам, ищущим новые места для поселения. Однажды она выехала, перевозя группу мигрантов к другому поселению и не вернулась. Никаких следов её или транспортного средства, никто никогда больше её не видел.
+
+     Became a game hunter and trapper.  Eventually she left on a hunting trip never to be seen again.  Attempts to locate her were called off when a shredded jacket was found.
+     Стала охотницей за удачей и траппером. Как-то отправилась на охоту и больше её никто не видел. Попытки найти её были прекращены, когда была найдена искромсанная куртка.
+
+     Went on to enlist in the Old Guard.  Was captured a year later fighting the Hell's Raiders in the disastrous Vermont campaign.  The hasty rescue mission that followed was one of the major defeats that forced the Old Guard to abandon the area.  It is unknown if she survived.
+     Завербовалась на службу в Старую гвардию. Была захвачена год спустя при столкновении с бандой Адских налётчиков в неудачной вермонтской кампании. Поспешная спасательная миссия, которая последовала затем, была одной из главных неудач, которые вынудили Старую гвардию покинуть область. Неизвестно, выжила ли она.
+
+     Became a laborer for hire in any outposts that needed assistance.  Was wrongly shot by her employer during a wage dispute.
+     Стала наёмным рабочим на любой аванпост, которому нужна была помощь. Была ошибочно застрелена нанимателем во время спора о размере оплаты труда.
+
+     Never spent much time around settlements after your death.  Was last seen near the old Canadian border.
+     Никогда не проводила много времени у поселений после вашей смерти. Была в последний раз замечена около бывшей канадской границы.
+
+     Died of an infected bite a few weeks later.  Before she passed she told those present, 'I've outlived everyone that I have ever loved.  If anything death is a few months late'.
+	 Умерла от заражённых ран, полученных после укуса несколько недель спустя. Перед тем, как она ушла из жизни, она сказала присутствующим, "Я пережила всех, кого я когда-либо любила. Если что, смерть на несколько месяцев опоздала."
+
+     Managed to contract some form of infection a few months after your passing.  Unable to find treatment she asked to be put down while listening to someone read from her favorite novel, A Tale of Two Cities.
+	 Управляемая разрастающимся заражением, некоторой формой инфекции, спустя несколько месяцев после того как вы ушли из жизни. Не в состоянии найти излечение, она попросила похоронить её, пока будет слушать кого-нибудь читающего её любимый роман, «Повесть о двух городах».
+
+     Became a self-taught chemist and medic.  Her work eventually led her to a life of alcohol abuse and morphine addicion.  Overdosed one night when left unattended.  The community she helped said, 'I've never known a nicer woman nor one who had fought off depression for so long.'
+     Стала самоучкой химиком и медиком. Её работа в конечном счёте привела её к жизни в полной зависимости от морфия и злоупотребления алкоголем. Однажды ночью у неё случилась передозировка, когда осталась без присмотра. Местное население, которому она помогала, заявило, "Мы никогда не знали более хорошей женщины, никого, кто бы боролся с депрессией так долго."
+
+     Went on to become a notable scout and urban explorer.  Was tragically killed by one of her students when leading a group of unskilled survivors on a night supply raid.
+      Продолжила свою деятельность выдающейся разведчицей и городской исследовательницей. Трагически убита одним из её новичков, когда она возглавляла группу неопытных выживших на ночном рейде в поисках припасов.
+
+     After your death she became a reclusive and eccentric individual.  Her skills were invaluable to the outposts that she chose to assist.  Unfortunately, competition for resources and salvage rights led a group of survivors to coax a mob of undead to surround her when she was on a lone raid.  Without witnesses, no connection between her death and the other survivors could be proven.
+	 После вашей смерти она стала затворницей и эксцентричным человеком. Её навыки были неоценимы для аванпостов, которым она решила помогать. К сожалению, в борьбе за ресурсы и их добычу для группы выживших, которых она возглавляла, столкнулась с толпой зомби, окруживших её, когда она была одна на рейде. Свидетелей произошедшего не было, не была доказана и связь между её смертью и другими выжившими.
+
+     Lost her way long before she met you.  The cataclysm offered her the chance to denounce the former vices that had led to her incarceration... an offer that went unanswered.  After you were killed, she returned to preying upon those she saw as weak.  It is rumored that she robbed dozens of survivors for everything they had before leaving them to die amongst the horrors that roamed the land.  Her eventual fate is unknown.
+     Сбилась с пути ещё задолго до того, как она встретила вас. Катаклизм предложил ей шанс отказаться от своих порочных деяний, которые привели её до лишения свободы... предложение, которое осталось без ответа. После того, как вы были убиты, она вернулась к грабежам тех, в ком видела слабость. Известно по слухам, что она ограбила массу народа, всё что они имели, оставляя их умирать среди ужасов, которые бродили по земле. Исход её судьбы неизвестен.
+     
+     Found new meaning in life after your death.  Although she never informed you, her felonies in the departed world had prevented her from ever having a real place in society.  With the destruction of the criminal record system, she took it upon herself to make amends for her crimes.  Died on a dangerous rescue mission when witnesses saw an helicopter crash-land in a nearby town.
+	 Нашла новый смысл жизни после вашей смерти. Несмотря на то, что она никогда не рассказывала вам о своих уголовных делах в том умершем мире, это препятствовало ей занять когда-либо реальное место в новом обществе. С разрушением существующих систем криминальных досье она взяла на себя обязательства, покрыть причинённый ущерб своих преступлений. Умерла во время опасной спасательной миссии, когда свидетели видели, как разбился вертолёт при посадке в соседнем городе.
+
+     Spent her entire life secretly addicted to one substance or another.  After your death she briefly worked in a survivor camp before finding a place in the lucrative drug trade.  She died, predictably, from an overdose.  Drugs allowed her to relive the memories of friends, family, and loved ones... she died happier than could have ever been expected.
+     Провела всю жизнь втайне от всех увлекаясь то одним веществом, то другим. После вашей смерти она недолго работала в лагере выживших, пока не нашла своё место в прибыльной наркоторговле. Она умерла, очевидно, от передозировки. Наркотики позволили ей вновь переживать воспоминания о друзьях, семье и любимом..., она умерла более счастливой, чем, возможно, была когда-либо.
+
+     Was never known as a particularly brave individual nor an emotionally stable one.  Her inability to emotionally conform to life after the cataclysm led her to attempt suicide multiple times in the years that followed.  Attracted by promises of renewal and the prospect of belonging to a new family, she became involved with a charismatic cult.  She was an innocent casualty when Old Guard soldiers stormed the compound on suspicion of crimes against humanity.
+	 Никогда не отличалась особой храбростью, ни эмоциональной стабильностью. Её неспособность эмоционально соответствовать жизни после первых дней возникновения катаклизма принудили её сделать попытку самоубийства, многократно в те годы, которые последовали за ним. Привлечённая обещаниями о возрождении и надеждой о создании новой семьи, она стала последовательницей харизматического культа. Стала невинной жертвой, когда солдаты Старой гвардии штурмовали комплекс по подозрению в преступлениях против человечества.
+
+     Spent the remainder of her life assisting one adventurer party or another.  Eventually her luck ran out when she became ill after starvation led her to eat whatever she could forage from the woods.  The party she was with deemed her a lost cause and put a bullet in her head instead of letting her turn.  She had suffered from a treatable form of marasmus.
+	 Провела остаток своей жизни, помогая то одной группе авантюристов, то другой. В конце концов её удача отвернулась от неё, когда она заболела после истощения всех ресурсов, это вынудило её питаться тем, что она могла добыть в лесу. Группа в которой она состояла, посчитала её безнадёжной и пустила пулю ей в голову, чтобы она не мучалась. Она пострадала от поддающегося лечению формы тупого маразма.
+
+     Was stabbed in the arm by an ill tempered survivor a few weeks after you passed.  The cut quickly became infected and she died from sepsis a short time later.  Her murderer was the first person to discover her corpse... and all the gear she had been saving.
+     Получила колотую рану руки от выжившего с скверным характером, спустя несколько недель после того, как вы ушли из жизни. Порез вызвал заражение и она умерла от сепсиса немного позже. Её убийца был первым человеком, который обнаружил тело... и все её вещи, которые она сохранила.
+
+     Worked hard following your death to build her own band of survivors.  Thanks to the skills she had acquired, she was able to turn a hefty profit looting abandoned towns.  After a series of heated contract disputes with her followers she found herself locked in her own car as a pair of molotovs were thrown through the windows.  Her last desire was that she could have taken the bastards out with her.
+     Упорно работала после вашей смерти, чтобы организовать свою собственную банду выживших. Благодаря навыкам которые она приобрела, смогла получить огромную прибыль, мародёрствуя в покинутых городах. После серии горячих споров по контракту с членами её банды, она оказалась запертой в собственном автомобиле, а пара коктейлей Молотова была брошена через окно. Её последним желанием было, взять этих ублюдков с собой.
+
+     Sought the coast in the hopes of finding an abandoned ship after your death.  Her journey ended when she discovered an Old Guard controlled dock in an abandoned fishing town.  Promised a new life if she agreed to serve as a contractor, she spent the next few years toiling to keep the camp supplied but never saw her reward.  A stray bullet struck her down when the Hell's Raiders launched a raid in an attempt to gain access to the sea.
+	 Пыталась обыскивать побережье в надежде найти заброшенное судно после вашей смерти. Её путешествие завершилось, когда она обнаружила док контролируемый Старой гвардией в покинутом рыбопромысловом городе. Поверив обещаниям о новой жизни, она согласилась стать подрядчиком, провела следующие несколько лет, трудясь ради обеспечения лагеря снабжением, но никогда не видела своего вознаграждения. Шальная пуля свалила её, когда банда Адских налётчиков устроила рейд в попытке получить доступ к морю.
+
+     Within a few months of your death she was robbed by a group of bandits.  When she shot the first dead in his tracks, one of his companions unleashed a blast from his flamethrower at close range.  Her ashes and a few odd pieces of jewelry were all that could be recovered.
+     В течение нескольких месяцев после вашей смерти, она была ограблена группой бандитов. Когда она убила первого, следующего за ней, другой его компаньон выпустил струю горящей смеси со своего огнемёта поблизости. Её прах и несколько странных драгоценных камней было всем, что можно было похоронить.
+
+     Trained under your guidance, she became a renowned monster hunter.  Leading a band of warriors armed with primitive weapons she tracked down and killed numerous otherworldly horrors that wandered the wilderness.  Her quest to end the threat led her party to a shimmering gate that appeared to spew forth abominations and alien material.  With no means of closing the gate, her party was last seen venturing into the unknown to meet the threat at its source.
+	 Обученная под вашим руководством, она стала известной охотницей на монстров. Возглавив банду бойцов вооружённых примитивным оружием, которое она разыскала и убила многочисленные потусторонние ужасы, которые блуждали по дикой местности. Её поиски по остановке угрозы привели её группу к мерцающему порталу, который, казалось, извергал наружу ещё более мерзких тварей и вещества неземного происхождения. Без возможности закрыть портал, её группа была в последний раз замечена, когда рискнула отправиться в неизвестность, чтобы встретить угрозу в самом источнике.
+
+     Renounced the adventurous lifestyle after your death and chose to start a family with a fellow survivor in an abandoned hunting cabin.  Survival was grim but the family grew through the years until she had three sons and a daughter.  Her end came when the horrors finally located her homestead... she and her husband were able to distract the monster as her children escaped.
+	 Отказалась от образа жизни авантюристки после вашей смерти и приняла решение завести семью с близко знакомым выжившим в заброшенной охотничей хижине. Выживать было трудно, но семья выросла в течение последующих лет, у неё было трое сыновей и дочь. Конец её пути настал, когда ужасы из дикой местности наконец нашли местоположение её родного дома..., она и её муж смогли отвлечь монстров, пока её дети сбежали.
+
+     Was detained and incarcerated by a police robot on multiple counts of looting and vandalism that were tracked and recorded by the few remaining security systems.  Trapped in a cell awaiting police review, she spent weeks crying out for help and slowly consuming what supplies she carried.  Two weeks after being dragged to her cell she died from dehydration.
+	 Была задержана и заключена в тюрьму робот-полицейским по многочисленным статьям обвинения в мародёрстве и вандализме, которые были зафиксированы и зарегистрированы несколькими оставшимися в рабочем состоянии системами безопасности. Была заключена в камеру ожидая полицейский вердикт, провела недели, выкрикивая мольбы о помощи и медленно использовала припасы, которые были с собой. Спустя две недели которые она протянула в камере, умерла от обезвоживания.
+
+
+faction Refugees
+The scattered remnants of civilization, these lucky few managed to barricade themselves inside during the earliest stages of the cataclysm. Although temporarily secure, they are short on supplies and lack the skills to obtain more. It's only a matter of time before they too become the prey of otherwordly creatures, or of all-too-human monsters.
+Разрозненные остатки цивилизации, оказались довольно удачливыми, отгородившись от внешнего мира во время начальных этапов катаклизма. Несмотря на то, что были в относительной безопасности, они испытывали нехватку в поставках и испытывали недостаток в навыках, чтобы добыть больше сырья. Это только вопрос времени, когда они также станут жертвами потусторонних ужасов или монстров в человеческом обличье.
+
+
+
+
+
+
+
+
+
+game
+    Locked in an endless battle, the Old Guard was forced to consolidate their resources in a handful of fortified bases along the coast.  Without the men or material to rebuild, the soldiers that remained lost all hope...
+    Осаждены в бесконечном сражении, Старая гвардия была вынуждена объединить свои ресурсы в горстке укреплённых опорных пунктов вдоль побережья. Без человеческих ресурсов и материальной базы для реконструкции, солдаты, которым осталось только потерять свою надежду...
+
+    The steadfastness of individual survivors after the cataclysm impressed the tattered remains of the once glorious union.  Spurred on by small successes, a number of operations to re-secure facilities met with limited success.  Forced to eventually consolidate to large bases, the Old Guard left these facilities in the hands of the few survivors that remained.  As the years past, little materialized from the hopes of rebuilding civilization...
+	Отдельные выжившие, отличающиеся стойкостью, после катаклизма создали на разодранных остатках цивилизации прославленный союз. Подстёгиваемые небольшими успехами, многочисленными операциями, пересмотрев свою систему безопасности сооружений, столкнулись с ограниченным результатом. Вынуждены в конечном счёте объединиться с большими базами, Старая гвардия оставила эти сооружения в руках нескольких выживших, которые остались на месте. За минувшие годы были воплощены в жизнь лишь малые надежды на восстановление цивилизации...
+
+    Life in the refugee shelter deteriorated as food shortages and disease destroyed any hope of maintaining a civilized enclave.  The merchants and craftsmen dispersed to found new colonies but most became victims of marauding bandits.  Those who survived never found a place to call home...
+    Жизнь в укрытии для беженцев деградировала из-за нехватки продовольствия и болезней, разрушающих любую надежду на поддержание цивилизованного анклава. Торговцы и квалифицированные мастера рассеяны в основанных новых колониях, но большинство стало жертвами мародёрствующих бандитов. А те кто выжил, никогда не находили место, которое могли назвать домом...
+
+    The Free Merchants struggled for years to keep themselves fed but their once profitable trade routes were plundered by bandits and thugs.  In squalor and filth the first generations born after the cataclysm are told stories of the old days when food was abundant and the children were allowed to play in the sun...
+	Свободные торговцы изо всех сил пытались в течение многих лет обеспечить себя всем необходимым, но, как только появлялись прибыльные торговые маршруты, были разграблены бандитами и головорезами. В нищете и грязи жили первые поколения, родившиеся после катаклизма, которые только слышали рассказываемые истории былых времён, когда еда была в достатке и детям разрешали играть на солнце...
+
+    The fledgling outpost was abandoned a few months later.  The external threats combined with low crop yields caused the Free Merchants to withdraw their support.  When the exhausted migrants returned to the refugee center they were turned away to face the world on their own.
+    Недавно созданный аванпост был заброшен несколько месяцев спустя. Внешние угрозы, объединились с низкой урожайностью, заставили Свободных торговцев отказаться от дальнейшей его поддержки. Когда изнурённые мигранты вернулись в центр беженцев, они были выдворены прочь, оставив их сам на сам с враждебным миром.
+
+    The commune continued to grow rapidly through the years despite constant external threat.  While maintaining a reputation as a haven for all law-abiding citizens, the commune's leadership remained loyal to the interests of the Free Merchants.  Hard labor for little reward remained the price to be paid for those who sought the safety of the community.
+    Коммуна продолжала быстро расти в течение нескольких лет, несмотря на постоянную внешнюю угрозу. Поддерживая репутацию убежища для всех соблюдающих закон граждан, лидеры коммуны оставались лояльными к интересам Свободных торговцев. Каторжные работы за небольшое вознаграждение - цена, которую нужно заплатить тем, кто искал для себя безопасное сообщество.
+
+    The lone bands of survivors who wandered the now alien world dwindled in number through the years.  Unable to compete with the growing number of monstrosities that had adapted to live in their world, those who did survive lived in dejected poverty and hopelessness...
+    Обособленные банды выживших, которые скитались теперь уже по чуждому им миру, сократились числом в течение последующих лет. Неспособны были конкурировать с растущим количеством обиталищь монстров, которые адаптировались для жизни в теперь ихнем мире, те, кто действительно выживал, жили в удручённой бедности и безнадёжности...
+
+    The scavengers who flourished in the opening days of the cataclysm found an ever increasing challenge in finding and maintaining equipment from the old world.  Enormous hordes made cities impossible to enter while new eldritch horrors appeared mysteriously near old research labs.  But on the fringes of where civilization once ended, bands of hunter-gatherers began to adopt agrarian lifestyles in fortified enclaves...
+    Добытчики, которые процветали в начальные дни катаклизма, столкнулись с постоянно увеличивающейся проблемой в нахождении и поддержании в рабочем состоянии оборудования из старого мира. Огромные орды сделали города неприступными, в то время как новые жуткие ужасы появились загадочным образом около покинутых научно-исследовательских лабораторий. Но на самом краю, где цивилизация однажды погибла, банды охотников-собирателей начали перенимать аграрный образ жизни, как в укреплённых анклавах...
+
+    The raiders grew more powerful than any other faction as attrition destroyed the Old Guard.  The ruthless men and women who banded together to rob refugees and pillage settlements soon found themselves without enough victims to survive.  The Hell's Raiders were eventually destroyed when infighting erupted into civil war but there were few survivors left to celebrate their destruction.
+    Налётчики стали более сильными, чем какая-либо другая фракция, поскольку Старая гвардия исчерпала свои силы и развалилась. Безжалостные мужчины и женщины, объединились в банды, чтобы грабить беженцев и мародёрствовать в поселениях, скоро оказалось, что без достаточного количества жертв им не выжить. Адские налётчики были в конечном счёте уничтожены, когда борьба за выживание превратилась в гражданскую войну, но осталось мало живых, праздновать их уничтожение.
+
+    Fueled by drugs and rage, the Hell's Raiders fought tooth and nail to overthrow the last strongholds of the Old Guard.  The costly victories brought the warlords abundant territory and slaves but little in the way of stability.  Within weeks, infighting led to civil war as tribes vied for leadership of the faction.  When only one warlord finally secured control, there was nothing left to fight for... just endless cities full of the dead.
+	Заряженные наркотиками и яростью, Адские налётчики сражались изо всех сил, чтобы свергнуть последние оплоты Старой гвардии. Дорогостоящие победы принесли главарям богатую территорию и рабов, но плохой результат на пути к стабильности. В течение последующих недель борьба привела к гражданской войне, поскольку кланы соперничали за руководство в фракции. Когда наконец остался только один главарь банды, обеспечил контроль, но не осталось ничего, за что было сражаться... только бесконечные города, полные мертвецов.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pile of кучка куча
+
+Your Followers Ваши спутники Ваши союзники
+
+Do you wish to have %d %s planted here for $%d?
+Вы хотите получить %d %s посаженный здесь за $%d?
+
+Do you wish to liquidate the crop of %d %s for a profit of $%d?
+Вы хотите продать урожай %d %s получив прибыль в размере $%d?
+
+The %s are liquidated for $%d...
+%s оплачено за $%d...
+
+While scavenging, %s's party suddenly found itself set upon by a large mob of undead...
+Пока искали добычу, группа %s внезапно обнаружила себя окружённой многочисленной толпой нежити...
+
+Through brute force the party smashed through the group of %d undead!
+Посредством грубой силы группа разбила толпу %d нежити!
+
+%s returns from patrol having earned $%d and a fair bit of experience...
+%s возвращается из патруля, зарабатывая $%d и небольшой опыт...
+
+%s was impressed with %s's performance and gave you a small bonus ( $100 )
+%s был впечатлён работоспособностью %s и дал вам небольшую премию ( $100 )
+
+%s feels more confident in your abilities and is willing to let you participate in daring raids.
+%s чувствует больше уверенности в ваших способностях и готов позволить вам участвовать в дерзких рейдах.
+
+%s returns from the raid having earned $%d and a fair bit of experience...
+%s возвращается из рейда, зарабатывая $%d и небольшой опыт...
+
+%s returns from working as a laborer having earned $%d and a bit of experience...
+%s возвращается с работы простого рабочего, зарабатывая $%d и немного опыта...
+
+In the blink of an eye, %s threw a brace up and averted a disaster.
+В мгновение ока, %s метнул скобу и предотвратил катастрофу.
+
+%s didn't make it out in time...
+%s не сделал это вовремя...
+
+but %s was rescued from the debris with only minor injuries!
+но %s был освобождён из обломков отделавшись только легкими травмами!
+
+%s returns from working as a carpenter having earned $%d and a bit of experience...
+%s возвращается с работы по плотничеству, зарабатывая $%d и немного опыта...
+
+While foraging, a beast began to stalk %s...
+Пока добывал продовольствие, зверь начал преследовать %s...
+
+Alerted by a rustle, %s fled to the safety of the outpost!
+Предупреждённый треском, %s спасается бегством к безопасному аванпосту!
+
+As soon as the cougar sprang %s darted to the safety of the outpost!
+Как только пума бросилась, %s рванулся к безопасному аванпосту!
+
+%s was able to scare off the bear after delivering a nasty blow!
+%s смог отпугнуть медведя после того, как нанёс ужасный удар!
+
+%s was able to hold off the first wolf but the others that were sulking in the tree line caught up...
+%s смог удержать первого волка, но другие, которые находились в лесополосе, достали...
+
+We... we don't know what exactly happened but we found %s's gear ripped and bloody...
+Мы... мы не знаем что точно произошло, но мы нашли вещи %s разорванные и окровавленные...
+
+%s returns from working as a forager having earned $%d and a bit of experience...
+%s возвращается с работы по добыче продовольствия, зарабатывая $%d и немного опыта...
+
+Engagement between %d members of %s %s and %d members of %s %s%s!
+Обязательство между %d членами %s %s и %d членами %s %s%s!
+
+%s forces are destroyed!
+%s силы уничтожены!
+
+%s forces retreat from combat!
+%s силы отступили от боя!
+
+%s also marks the road that leads to it...
+%s также отмечает дорогу, которая ведёт к нему...
+
+%s has marked the only %s known to them on your map.
+%s отметил только %s, известный им на вашей карте.
+
+светодиодный фонарик светодиодной вспышкой
+
+The %s flashes a LED and departs.  Human officer on scene.
+%s засвечивает светодиодной вспышкой и отступает. Человек офицер появляется в поле зрения.
+
+The %s acknowledges you as an officer responding, but hangs around to watch.
+%s опознаёт вас как уполномоченного офицера, но бродит вокруг и наблюдает.
+
+Probably some now-obsolete Internal Affairs subroutine...
+Вероятно, некая теперь устаревшая подпрограмма Внутренних дел...
+
+Ops used to do that in case you needed backup...
+! Опс раньше делал это в случае, если вы должны были резервировать...
+
+The %s flashes a LED and departs.  SWAT's working the area.
+%s засвечивает светодиодной вспышкой и отступает. Спецназ работает в данном районе.
+
+The %s acknowledges you as SWAT onsite, but hangs around to watch.
+%s опознаёт вас как бригадира спецназа, но бродит вокруг и наблюдает.
+
+The %s winks a LED and departs.  One machine to another?
+%s мигает светодиодной вспышкой и отступает. Одна машина для другой?
+
+Apparently yours aren't the only systems kept alive post-apocalypse.
+! По-видимому ваши не поддержанный постапокалипсис единственных систем.
+
+The %s flashes a LED and departs.  The Feds have this.
+%s засвечивает светодиодной вспышкой и отступает. ФБР здесь.
+
+but you grab its arm and flip it to the ground!
+! но вы хватаете его за руку и перекидываете резким движением на землю!
+
+The flip does shock you...
+! Бросок бъёт вас током...
+
+
+
+As the final light is destroyed, it erupts in a blinding flare!
+! Поскольку всё предрешено, это прорывается в слепой вспышке ярости!
+
+The %s flows around the objects on the floor and they are quickly dissolved!
+%s растекается вокруг объектов на полу и они быстро растворяются!
+
+
+! mutation
+You've got places to go and critters to beat.
+! У вас есть места, чтобы пойти и существа, чтобы биться.
+
+Let the lesser folks eat their hearts out.
+! Позвольте меньшим людям питаться вне дома сердца.
+
+
+
+! npctalk
+I'm supposed to direct all questions to my leadership, marshal.
+Я как и полагается, направляю все вопросы своему лидеру, маршал.
+
+Sir, I don't know how the hell you got down here but if you have any sense you'll get out while you can.
+Сэр, я не знаю как, чёрт возьми, вы добрались сюда, но если у вас есть хоть какой-то здравый смысл, вы уйдёте отсюда пока можете.
+
+Ma'am, I don't know how the hell you got down here but if you have any sense you'll get out while you can.
+Мэм, я не знаю как, чёрт возьми, вы добрались сюда, но если у вас есть хоть какой-то здравый смысл, вы уйдёте отсюда пока можете.
+
+I was expecting the captain to send a runner.  Here is the list you are looking for.  What we can identify from here are simply the frequencies that have traffic on them.  Many of the transmissions are indecipherable without repairing or replacing the equipment here.  When the facility was being overrun, standard procedure was to destroy encryption hardware to protect federal secrets and maintain the integrity of the comms network.  We are hoping a few plain text messages can get picked up though.
+Я ожидал, что капитан отправит гонца. Вот список, который вы ищете. Всё что мы можем идентифицировать отсюда, просто частоты, на которых передаются сообщения. Многие передачи не поддаются расшифровке, без ремонта или замены оборудования находящегося здесь. Когда оборудование было перегружено, стандартная процедура должна была разрушить аппаратные средства шифрования, чтобы защитить федеральные секреты и поддержать целостность всей сети. Мы надеемся, что несколько сообщений с открытым текстом можно всё же поймать.
+
+Can I help you, marshal?
+Я могу вам помочь, маршал?
+
+I'm one of the migrants that got diverted to this outpost when I arrived at the refugee center.  They said I was big enough to swing an ax so my profession became lumberjack... didn't have any say in it.  If I want to eat then I'll be cutting wood from now till kingdom come.
+Я — один из мигрантов, которые были направлены к этому аванпосту, когда я прибыл в центр беженцев. Они сказали, что я достаточно крепкий, чтобы размахивать топором, так что лесоруб, стала моей профессией... ничего не скажешь по этому поводу. Если я захочу поесть, я буду рубить деревья с этого момента и до пришествия конца света.
+
+The rate is a bit steep but I still have my quotas that I need to fulfill.  The logs will be dropped off in the garage at the entrance to the camp.  I'll need a bit of time before I can deliver another load.
+Норма сверх меры, но у меня всё ещё есть свои нормы выработки, которые я должен выполнить. Брёвна будут сложены в гараже у входа в лагерь. Мне потребуется немного времени, прежде чем я смогу поставить другую партию.
+
+I turn the logs that laborers bring in into lumber to expand the outpost.  Maintaining the saw is a chore but breaks the monotony.
+Я перемещаю брёвна, которые рабочие распускают на пиломатериалы, чтобы расширить аванпост. Обслуживание циркулярной пилы является тяжёлой работой, что ломает монотонность труда.
+
+Bringing in logs is one of the few tasks we can give to the unskilled so I'd be hurting them if I outsourced it.  Ask around though, I'm sure most people could use a hand.
+Доставка брёвен является одной из нескольких задач, которые мы можем дать неопытным, таким образом, я повредил бы их, если бы воспользовался услугами со стороны. Расспросите тут и там, хотя, я уверен, что большинство людей могут пользоваться своими руками.
+
+I was sent here to assist in setting-up the farm.  Most of us have no real skills that transfer from before the cataclysm so things are a bit of trial and error.
+Я был отправлен сюда, чтобы помочь в обустройстве фермы. У большинства из нас нет реальных навыков, которые применяли до катаклизма, с таким положением дел, потребуется метод проб и ошибок.
+
+I'm sorry, I don't have anything to trade.  The work program here splits what we produce between the refugee center, the farm, and ourselves.  If you are a skilled laborer then you can trade your time for a bit of extra income on the side.  Not much I can do to assist you as a farmer though.
+Сожалею, у меня нет ничего, чем торговать. Рабочая программа здесь распределяет то, что мы производим между центром беженцев, фермой и нами. Если вы — квалифицированный рабочий, тогда вы можете торговать своим временем некоторое время за дополнительный доход на стороне. Немногим больше я могу помочь вам как фермер всё же.
+
+I've got no time for you.  If you want to make a trade or need a job look for the foreman or crop overseer.
+У меня нет времени для вас. Если вы хотите поторговать или нуждаетесь в работе, поищите прораба или садовода.
+
+I was just a laborer till they could find me something a bit more permanent but being constantly sick has prevented me from doing much of anything.
+Я был просто рабочим, пока они не нашли для меня что-то более постоянное, но постоянная болезнь препятствовала тому, чтобы я что-нибудь делал большую часть времени.
+
+I don't know what you could do.  I've tried everything.  Just give me time...
+Я не знаю, что вы можете сделать. Я всё испробовал. Просто дайте мне время...
+
+I keep getting sick!  At first I thought it was something I ate but now it seems like I can't keep anything down...
+Я всё болею! Сначала я думал, что это из-за того что я съел, но теперь, кажется, я ничего не могу удержать...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.38 Special speedloader .38 Особый обойма
+This speedloader can hold 6 rounds of .38 Special and quickly reload a compatible revolver.
+Эта быстрая обойма вмещает 6 патронов калибра .38 Особый и позволяет быстро перезаряжать барабан револьвера.
+
+giant locust гигантская саранча
+An overgrown locust.  You don't think it'll eat you but it could cause massive damage to nearby plants.
+Саранча-переросток. Вы не думаете, что она сможет съесть вас, но может нанести серьёзный ущерб ближайшим посевам.
+
+locust nymph личинка саранчи
+A locust the size of a rabbit.  You’d hate to think what a swarm of these could do.
+Личинка саранчи размером с кролика. Вы с отвращением думаете, что может сделать их рой.
+
+bear cub медвежонок
+
+biollante биолланте - с мал буквы
+
+biollante sprig побег биолланте
+A short fat stalk with broad leaves and tiny flower buds.
+Короткий толстый стебель с широкими листьями и крошечными цветочными бутонами.
+
+biollante sprout росток биолланте
+A thick stalk that rises five feet from the ground and has heavy broad leaves at its base.  Purple flower buds adorn the top.
+Массивный стебель, который возвышается на пять футов от земли и имеет тяжёлые широкие листья в его основании. Фиолетовые цветочные бутоны украшают верхушку.
+
+gas mask противогаз
+A full gas mask that covers the face and eyes.  Provides excellent protection from smoke, teargas, and other contaminants.  It must be prepared before use.
+Полнолицевой противогаз, который закрывает лицо и глаза. Обеспечивает превосходную защиту от дыма, слезоточивого газа и других загрязнителей. Это должно быть подготовлено перед использованием.
+
+firefighter PBA mask
+шлем-маска пожарного
+A full-face mask commonly used by firefighters.  The protective breathing apparatus provides excellent protection from smoke, flame, and other dangers.  It must be prepared before use.
+Полнолицевая маска обычно используется пожарными. Защитный дыхательный аппарат обеспечивает превосходную защиту от дыма, пламени и других опасностей. Это должно быть подготовлено перед использованием.
+
+
+! A custom-built, fur-trimmed gas mask that covers the face and eyes regardless of your state of mutation.  Quite warm, it still provides excellent protection from smoke, teargas, and shrapnel.  It must be prepared before use.
+! Изготовленный на заказ, отороченный мехом противогаз, который закрывает лицо и глаза независимо от вашего государства мутации. Довольно теплый, это все еще обеспечивает превосходную защиту от дыма, слезоточивого газа и шрапнели. Это должно быть подготовлено перед использованием.
+Специально спроектированный противогаз с подкладкой из меха, покрывающий лицо и глаза независимо от степени вашей мутации. Довольно тёплый, он по-прежнему обеспечивает превосходную защиту от дыма, слезоточивого газа и осколков. Он должен быть подготовлен перед использованием.
+
+An impermeable whole-body garment worn as protection against hazardous materials.  Though very restrictive and fragile, wearing it will provide complete protection against ambient radiation.  It must be prepared before use.
+Непроницаемый предмет одежды целого корпуса, который носят как защита от опасных материалов. Хотя очень строгий и хрупкий, нося его обеспечит полную защиту против окружающего излучения. Это должно быть подготовлено перед использованием.
+
+An armored, impermeable full-body suit that functions as body armor, as well as protecting from nuclear, biological, and chemical hazards.  It must be prepared before use.
+Бронированный, непроницаемый иск всего тела, который функционирует как бронежилет, а также защищающий от ядерных, биологических, и химических опасностей. Это должно быть подготовлено перед использованием.
+
+small batch of curdling milk бурдюк кислого молока небольшой
+batch of curdling milk бурдюк кислого молока
+large batch of curdling milk бурдюк кислого молока большой
+
+
+reach bow вытянутый лук
+A test item that is both a ranged weapon and a reach weapon
+Тестовый предмет, который является и дистанционным оружием и оружием ближнего боя
+
+recoilless rifle безоткатный гранатомёт
+The recoilless rifle is a breech-loading 84 millimeter man-portable, reusable, multi-role recoilless rifle commonly used by the US military.
+Многоразовый, заряжаемый с казённой части 84-мм ручной безоткатный гранатомёт многоцелевого назначения. Широко использовался американскими военными.
+
+Manufactured in Sweden, the Carl Gustav M3 is a breech-loading 84 millimeter man-portable, reusable, multi-role recoilless rifle commonly used by the US military.
+Карл Густав M3 — производимый в Швеции, многоразовый, заряжаемый с казённой части 84-мм ручной безоткатный гранатомёт многоцелевого назначения. Широко использовался американскими военными.
+
+Model 10 revolver револьвер Model 10
+A six-shot revolver.  It has a swing-out cylinder for ease of reloading.
+6-зарядный револьвер. Имеет поворотно-откидной барабан для лёгкоё перезарядки.
+
+rubber treads резиновые гусеницы
+steel treads стальные гусеницы
+tank treads танковые гусеницы
+solar floodlight солнечный прожектор
+
+turreted reinforced solar panel турельная усиленная солнечная панель
+Upgraded reinforced solar panel мощная усиленная солнечная панель
+turreted solar panel турельная солнечная панель
+upgraded turreted solar panel мощная турельная солнечная панель
+Quantum solar panel квантовая солнечная панель
+manual flamethrower ручной огнемёт
+
+
+%s: map ( %d:%d ) pos ( %d:%d )
+%s: карта (%d:%d) позиция (%d:%d)
+
+Nothing at (%d,%d,%d) to knockback!
+Нечего отбросить в (%d,%d,%d)!
+
+You can't muster up the effort to throw anything...
+У вас не хватает усилиё бросить что-либо...
+
+The %s hovers momentarily as it surveys the area.
+%s зависнув на мгновение, рассматривает область.
+
+Stuff spills from the %s!
+Субстанция разливается из %s!
+
+! help
+Becoming a skilled mechanic, you may want to tune your car up.  The coefficients of aerodynamics, friction and mass efficiency play significant roles it this process.  Named coefficients are measured in the range from 0%% (which means terrible inefficiency) to 100%% (ideal conditions).
+Становясь квалифицированным механиком, вы можете хотеть настроить свой автомобиль. Коэффициенты аэродинамики, трения и массовой эффективности играют значительные роли это этот процесс. Названные коэффициенты измерены в диапазоне от 0%% (что означает ужасную неэффективность) к 100%% (идеальные условия).
+Став опытным механиком, вы сможете улучшать свой автомобиль. Коэффициенты эффективности аэродинамики, трения и массы играют важную роль в этом процессе. Упомянутые коэффициенты измеряются в диапазоне от 0%% (что означает ужасную неэффективность) до 100%% (идеальные условия).
+
+While magazines are often firearm-specific, on some occasions a magazine is compatible with several other firearms. The firearms in the game often reflect real-world prototypes in terms of caliber and compatibility. Below are some examples of interchangeable ammo:
+.308 = 7.62x51mm,
+.223 = 5.56 NATO,
+.270 = .30-06,
+.40 S&W = 10mm.
+В то время как журналы часто специфичны для огнестрельного оружия в некоторых случаях, журнал совместим с несколькими другим огнестрельным оружием. Огнестрельное оружие в игре часто отражает реальные прототипы с точки зрения калибра и совместимости. Ниже некоторые примеры взаимозаменяемых боеприпасов:
+Хотя магазины зачастую подходят только к определённым видам огнестрельного оружия, иногда они также могут подходить и к другим видам. Огнестрельное оружие в игре основано на прототипах из реального мира в плане калибра и совместимости. Ниже представлены примеры такой взаимозаменяемости:
+.308 = 7,62x51 мм,
+.223 = 5,56 NATO,
+.270 = .30-06,
+.40 S&W = 10 мм.
+
+Ah, the uniform of a Revolutionary-era minuteman.
+Ах, униформа человека Революционной эры.
+
+It's nothing but a G-thang, baby.
+Это не что иное, как G-thang, детка.
+
+It's TV's lovable wisecracking Crow! "Bite me!", he says.
+Это — обожаемый острящий Crow на ТВ! «Укусите меня!», — говорит он.
+
+This balogna has a first name, it's R-A-N-C-I-D.
+У этой болонской колбаски есть имя, П-Р-О-Г-О-Р-К-Л-А-Я.
+
+It's creepy and it's kooky, mysterious and spooky. It's also somewhat ooky.
+Это страшно и это чудно, таинственно и жутко. А также немного ОКай.
+
+A willing, ripe tomato bemoans your inability to digest fruit.
+Спелый, зрелый помидор оплакивает вашу неспособность переварить фрукты.
+
+Grind 'em up, spit 'em out, they're twigs.
+Растирай их, проткни их, они же — ветки.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(без глютена) Не содержит глютен.
+(без лактозы) Не содержит лактозы.
+закатанный в банку - консервированная
+\" - "
+
+This is some sort of unearthly pink flesh sac; moist and ridged with veins, it is otherwise without discernable exterior features.  Seemingly immobile and defenseless, it sits in place, swelling and collapsing upon itself as it breathes.
+Это какой-то неземной розовый мешочек плоти; покрытый влагой с выпирающими венами, в остальном без различимых внешних особенностей. Кажется неподвижным и беззащитным, находится на одном месте, разбухает и сжимается, когда дышит.
+
+This is some form of eldritch monstrosity; an uncouth black being with smooth, oily, skin and unpleasant horns that curve inward toward each other.  Tall and thin, the shadows cling unnaturally to its vaguely defined humanoid form as it shuffles along, its hands twitching and spasming so rapidly as to appear a little more than a black blur of claws.  Gazing upon its disturbing form fills you with an unspeakable terror.
+Это какая-то форма жуткого чудовища; гротескное чёрное существо с гладкой маслянистой шерстью и отталкивающими своим видом рогами, которые изогнуты внутрь друг к другу. Высокий и худой, тени сливаются противоестественно за его нечётко определенной гуманоидной формой, при движении вперёд, его руки судорожно дёргаются и сокращаются так быстро, что кажутся немного больше, чем чёрная размытость когтей. Пристальный взгляд на его тревожащий силуэт, наполняет вас непередаваемым ужасом.
+
+A bizarre humanoid creature with a calculating stare.  Its twitching hands move so fast they appear to be nothing but blurs.
+Странное человекоподобное существо с расчётливым взглядом. Его дёргающиеся руки движутся настолько быстро, что вместо них видно только размытый силуэт.
+
+This is some sort of great viperine creature, possessed of a curiously distorted head and massive clawed appendages. It partially supports itself with the aid of black rubbery wings of monstrous dimensions. Its form writhes and changes before your eyes, filling you with unnameable horror.
+Это какое-то огромное червеобразное существо, обладающее необычно искривлённой головой и массивными когтистыми придатками. Он частично поддерживает себя с помощью чёрных резиноподобных крыльев чудовищных размеров. Его форма корчится и изменяется на ваших глазах, наполняя вас невыразимым ужасом.
+
+A man-sized worm-like creature that swoops around on bat-like wings.  Its form dramatically shifts and changes from moment to moment, although its gigantic eyes and teeth are always prominent.
+Червеобразное существо размером с человека, пикирующее на своих перепончатых крыльях. Его форма постоянно сильно перетекает и изменяется, хотя гигантские глаза и зубы заметны всегда.
+
+This is some form of otherworldly hound. Lean and hungry looking, its twisted red flesh is stretched tightly across its misshapen, angular frame. Loping grotesquely along, its unusually long neck stretches forward, its skull-like head near the ground as it sniffs out its prey. Its foulness partially veiled by some arcane force, it seems to almost flicker in and out of your perceptions in a fashion that awakens ancient nameless terrors in the back of your mind
+Это какая-то форма потусторонней охотничьей собаки. Склонённый и голодный взгляд, её перекрученная красная плоть плотно обтягивает деформированный костлявый скелет. Совершает гротескно размашистый бег вприпрыжку рядом с вами, её необычно длинная шея тянется вперед, а голова, похожая на череп, склонена к земле, когда вынюхивает свою жертву. Ваше отвращение частично завуалировано какой-то тайной силой, оно, кажется, почти пульсирует и вызывается из вашего мозга таким образом, который пробуждает древние безымянные ужасы в глубинах вашего разума.
+
+A fat humanoid the size of a dog, with twisted red flesh and a distended neck.  It scampers around, panting and grunting.
+Жирный гуманоид размером с собаку c перекрученной красной плотью и раздутой шеей. Задыхаясь и кряхтя, он слоняется по округе.
+
+This is an alien creature of uncertain origin. Its shapeless pink body bears numerous sets of paired appendages of unknown function, and a pair of ribbed, membranous wings which seem to be quite useless. Its odd, vaguely pyramid-shaped head bristles with numerous wavering antennae, and simply gazing upon the unnatural beast fills you with primordial dread.
+Это чуждое инопланетное существо неопределённого происхождения. Его бесформенное розовое тело несёт множество парных придатков неизвестной функциональности и пару ребристых, перепончатых крыльев, которые кажутся совершенно бесполезными. Его странная, отчасти пирамидальная голова с щетиной несёт множество колеблющихся антенн, и простой взгляд на этого противоестественного монстра, наполняет вас первобытным ужасом.
+
+A flexuous monstrosity seeming as a giant crab covered in writhing antennae, clawed tentacles, and star-shaped growths, with a head like the insides of a fish but for its dire utterance.
+Крабообразные чудовища, покрытые извивающимися антеннами, клешневидными щупальцами и наростами в виде звёзд. Их голова похожа на потроха рыбы в самом худшем смысле этого слова.
+
+shadow
+A strange moving darkness, bringing with it the softest of whispers.
+Странное движение самой темноты, сопровождающееся тихим шёпотом.
+
+This is an animate shadow. Looking like nothing more than an errant patch of normal shadow, it draws your attention by the way it moves subtly and whispers softly in the back of your mind. Strange intrusive thoughts accompany the quiet murmur, awakening your most horrific memories and fears.
+Это анимированная тень. Выглядит как ничего больше, чем блуждающий клочок обычной тени, он привлекает ваше внимание тем, как он движется и тихо шепчет в глубине вашего разума. Странные навязчивые мысли сопровождают тихий шёпот, пробуждая ваши самые ужасные воспоминания и страхи.
+
+This is an animate shadow in the form of a long and sinuous snake. Translucent and dark, it glides silently across the floor, wriggling and flexing as it moves.
+Это анимированная тень в форме длинной и извилистой змеи. Прозрачность и темнота, она бесшумно скользит по полу, извиваясь и изгибаясь, при движении.
+
+This is a huge, slimy worm-like creature. Its pale, flattened head drips an oily mucus as it breaches the ground, searching for prey. Its pinkish mouth opens and closes, revealing long fangs glistening with ropey strands of saliva, which leave smoldering stains wherever they drip. The mere sight of its putrid whitish visage is enough to loose prehistoric terrors within the darkest recesses of your mind.
+Это огромное слизкое червеобразное существо. С его бледной сплюснутой головы капает маслянистая слизь, когда он разбивает землю, ища свою добычу. Его розоватый рот открывается и закрывается, обнажая длинные клыки, блестящие от стекающей слюны, которая оставляет тлеющие пятна везде, где они капают. Простого взгляда на его гнилостный беловатый облик достаточно, чтобы высвободить древние ужасы из самых тёмных глубин вашего разума.
+
+An enormous white flatworm that burrows beneath the earth.  Its mouth is lined with pointed teeth, and it is covered in fine hairs which can be shed and fired like darts.
+Огромный белый червь, ползающий под землёй. Его пасть утыкана рядами клыков, а сам он покрыт прозрачными волосками, которые, если выдернуть, можно метать как дротики.
+
+
+smoking rack коптильня
+стойка для разделки 
+farming shed сельскохозяйственный сарай
+processing shack хижина по обработке
+forge кузня
+charcoal forge угольная кузня
+charcoal kiln углевыжигательная печь
+kiln углевыжигательная печь
+Rock Forge каменный горн
+quenching setup установка закалки
+vice тиски 
+vice versa наоборот
+
+крепкий командный пункт
+
+
+
+
+
+
+
+
+
+
+
+
+мороженое, молочные коктейли и прочие замороженные десерты
+
+автомобиль
+vehicle control система управления
+small metal tank малый металлический бак
+collision столкновения
+crash авария
+door curtain занавесь для двери
+
+
+
+Тяжелая металлическая рама. На нее можно устанавливать другие детали, и ее можно соединять с другими рамами, чтобы увеличить размер транспортного средства. Увеличенная масса делает ее устойчивее к повреждению при столкновениях.
+by belazzz, in 11 hours
+Тяжелая металлическая рама. На нее можно устанавливать другие детали, и ее можно соединять с другими рамами, чтобы увеличить размер транспортного средства. Увеличенная масса делает ее более устойчивой к повреждению при столкновениях. 
+
+
+aisle lights подсветка
+atomic lamp атомная лампа
+atomic nightlight атомный ночник
+
+
+
+
+
+
+
+glow светящийся
+
+Stop trying to fall asleep?
+
+Sorcery cards
+
+, носимая на поясе
+
+A pouch for holding up to four full-sized grenades of various types.
+
+Игра, в которой рисуется изображение, а остальные пытаются угадать, что это такое.
+
+облучённая черника
+облучённые черники
+облучённых черники
+варенье из земляники
+варенья из земляники
+
+ореx кешью
+каштанового дерева
+
+семена черники
+семян черники
+семян черники
+
+handfuls of roasted acorns
+
+фисташковый миндальный арахис лесной орех каштан грецкий орех
+навершие
+lab data
+данных о движении поездов
+Исследовательские архивы из правительственной лаборатории.
+стойка
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

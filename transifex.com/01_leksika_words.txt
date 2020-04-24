@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+<spoil>
+
+
+
+
+
+
+
+
+
+
+
+
+С4 (взведена)
+водорода (конц.)
+банка (квашёнка)
+печь (завершено) (полна) (горит)
+шарф (развязан)
+световая лента (без питания) (неактивно)
+лыжная маска (открыта)
+
+spiral stone винтовой винтообразный камень
+vortex stone вихревой камень
+vortex core вихревое ядро
+offal потроха
+stomach желудок
+handmade brew варево
+brew лекарство
+
+sign  знак
+sight  вид
+scale  масштаб
+scaling  вычисление
+values  ценности
+strict  строгий
+some  некоторые
+same  то же самое
+instead  вместо этого
+Improve  Улучшиться
+frame  структура
+reduce  уменьшить
+revert  вернуться
+obsolete  устаревший
+implementation  внедрение
+disassembly  разборка
+irrelevant  не важный
+attempt  попытка
+
+attempted  предпринятый
+shift  изменение
+issues  проблемы
+tile  плитка
+obsolete  устаревший
+makeshift  замена
+redundantquery  redundantquery
+clutter  беспорядок
+anyway  так или иначе
+excelly  excelly
+able  способный
+also  также
+decide  решить
+solve  решить
+consider  рассмотреть
+establish  установить
+necessary  необходимый
+couple  пара
+improve  улучшиться
+chunk  кусок
+particulary  особенно
+probably  вероятно,
+staff  штат
+even  даже
+virgin  девственница
+those  те
+still  все еще
+funcy  funcy
+no matter  неважно,
+martial  военный
+until  до
+neck  шея
+several  несколько
+tiny  крошечный
+thin  тонкий
+thick  толстый
+usually  обычно
+attempt  попытка
+rising  повышение
+rise  повышение
+ally  союзник
+alloy  сплав
+vessel  судно
+hound  гончая
+bless  благословить
+society  общество
+engage  наняться
+recently  недавно
+seek  искать
+match  матч
+solved  решенный
+inherit  унаследовать
+spectacular sleuthing  захватывающее выслеживание
+observe  наблюдать
+dedication  посвящение
+discretion  усмотрение
+claim  требование
+involve  включить
+affair  дело
+dude  чувак
+aim  нацелиться
+heard  услышанный
+rumors  слухи
+fill  заполниться
+
+</spoil>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

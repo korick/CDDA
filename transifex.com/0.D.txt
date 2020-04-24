@@ -1,0 +1,601 @@
+
+
+
+
+
+
+
+
+<bold> </bold>
+
+« »
+—
+— —
+« .» — « .» —
+20-м 20-ом 20-го века 20-го и 21-го веков из-под 20- век 21- век 40-х 50-х годах
+
+А: «П».
+А: «П!»
+А: «П», — а.
+А: «П!» — а.
+«П!» — а.
+«П», — а.
+«П, — а. — П».
+«П, — а, — п».
+«П! — а. — П?»
+«П, — а и а: — П».
+
+и т.д.
+… - ...
+
+(): выкл вкл неактивно активно свежее горит закрыто раздвинуто сложено развязано разложено разряжено
+
+20-м 20-ом 20-го века 20-го и 21-го веков из-под 20- век 21- век 40-х 50-х годах
+
+! ТО ЧТО ПЕРЕВОДИТЬ
+Winchester Винчестер Magnum Магнум Glock Глок 
+Thompson Томпсон RPK-74 РПК-74 Beretta Беретта STEN СТЕН UZI УЗИ Makarov PM ПМ Saiga-12 Сайга-12 
+Springfield Спрингфилд Remington Ремингтон Browning Браунинг Special Особый Super Супер 
+Boeing Боинг PPSh-41 ППШ-41 ATGM ПТУР Enforcer Энфорсер Colt Кольт 
+
+
+! НЕ ПЕРЕВОДИТЬ
+Mossberg Brownie Mossberg Ruger Kel-Tec KSG Steyr AUG Weatherby Mark V SKS RM228 PDW AN-94 SKS 
+BAR Browning Automatic Rifle Savage SIG Sauer Skorpion Taurus M1 Garand 
+Calico Casull STANAG Desert Eagle «Пустынный орёл» USP Long Ranger 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bokken боккен
+квашенка = квасится = квашеная
+Оксигенатор
+мини бомба - мини-бомба
+самодел. - самодельная
+kitchen unit - автокухня +
+к %2$s у от города + 
+assitance - assistance
+Ветчина SPAM достаточно питательна - «ЭТО SPAM»
+Заглянуть сквозь шторы - точку в конце
+После заколачивания окна - лишний пробел в конце
+Сорвать шторы - точку в конце
+сварочный резервуар - баллон
+
+
+
+
+
+
+
+? creeper hub ползучая лиана - ползучий стебель
+creeper vine - ползучая лоза
+A thorny vine, twisting wildly as it grows with incredible speed. - лоза
+овца - овечка
+Робкое парнокопытное млекопитающее, одно из первых животных, приручённых человеком. Его - Её
+
+L523-CAR carbine - карабин L523-CAR
+L523-DSR rifle - винтовка L523-DSR
+L523-LMG - пулемёт L523-LMG
+L523-MBR rifle - винтовка L523-MBR
+
+grenade launcher buttstock - приклад гранатомёта M320
+Mountable.  - пробел в конце перевода
+Simple.  - пробел в конце перевода
+Mk.IX - Mk. IX
+Mk IV Algorithmic Data Analyzer - Mk. IV
+EnviroCom OS v2.03 - ОС EnviroCom v2.03
+
+
+.20 DREAD Pellet пуля .20 DREAD Pellet
+
+квашёнка = квашенка = заквашено
+Молоко всё ещё свёртывается.
+Молоко всё ещё скисает.
+
+
+
+
+! ЗАЖАТО
+Viper Lock Замок гадюки 
+Viper Patience Терпение гадюки
+budget steel дешёвая сталь
+Gold золото
+Oil масло
+Dragon Style Стиль дракона
+Поллитровая Пол-литровая (?)
+unused .22 casing - гильза .22 нестреляная + описание
+This not-so-little bundle of joy contains Leadworks, LLC's - (,) убрать
+Ваш навык обращения с тяжёлым оружием - Навык
+добавляет сопротивляемость вещам как дым - с лёгкостью
+Your eyes blink rapidly as knowledge floods your brain. загружается
+Unspeakable Незримого - Невыразимого
+cow bell альпийский колокольчик
+
+
+
+
+Portland Портленд портландцемент
+base toolmod основной мод. инструмента
+RM13 combat armor боевая броня RM13 боевых брони RM13 боевых бронь RM13
+rechargeable battery mod 1. модификация: перезаряжаемая батарея 2. перезаряжаемый источник питания 
+модификация: модификации: модификаций:
+display rack стеллаж
+lacerator 1 разрыватель 2 протыкатель
+rechargeable battery mod
+atomic battery mod
+storage battery аккумулятор
+projector излучатель
+fusion термоядерная 
+emitter излучатель
+projector проектирующий луч
+
+
+
+
+
+Laevateinn - удалить перевод
+
+rotary - просканить не ротационный ротационном а вращающееся
+
+medium storage battery аккум
+mininuke launcher пусковая установка для ядерных мини-бомб
+
+вмещающий до 6 картриджей - патронов
+
+калибр клб клбр
+military-grade военного образца армейский
+военного образца
+50-калиберн
+flechette Проникающие патроны снаряды ракеты со стреловидными поражающими элементами 
+
+chaingun autocannon авто пушка с эл двигателем
+AK47 AK74  
+-мм tube 40mm launcher
+Win Mag
+laser emitter лазерный излучатель
+rail gun рельсовая пушка
+acid thrower обрызгивание кислотой кислотный гранатомётчик метатель разбрасыватель
+acid projector кислотный луч излучатель установка
+electro caster бросатель автомат непрерывно 
+
+улучшенная продвинутой Современная
+Можно разобрать на запчасти.
+harmless безопасный
+inert неактивный
+broken skitterbot сломанный охранный робот
+Можно разобрать на запчасти.
+integral встроенный встроенным
+advanced улучшенная
+defense оборонный оборонная
+disarmed обезврежен разряжено (разоружено)
+digestron кастрюля-скороварка пищеварительной автоклав
+shortcircuit fault сбой
+tiny миниатюрный
+salvaged спасённый трофейный полученный добытый получить Извлечено переработке восстановил подержанный спасти применили восстанавливать
+передела
+
+атомный кофе
+нее - ё
+СУМКИ - ОБЪЁМ
+broken flamethrower turret
+flame turret
+ПОМЕНЯТЬ МЕСТАМИ  ТУРЕЛЬ СЛОМАННАЯ ТУРЕЛЬ В НАЧАЛЕ
+broken basic auto armor
+auto armor
+
+
+chicken walker шагобот
+
+Don't be afraid to make the game easier on yourself.  Worlds can be made to spawn with more resources.
+
+
+
+
+heavy duty battery мощная сверхмощная
+батарейки - батарея батареи
+9V battery
+7 Eco-Friendly, Humane Fashion Brands модной одежды модный бренд модных торговых марок человечного отношения
+
+fight against the odd
+
+floating furnace плавающая печь
+A salvaged eyebot repurposed into a floating space heater.  It emits a constant jet of dangerously hot air to heat an enclosed space.  Warning!  Can result in rapid heatstroke!
+salvage
+Спасенный глазный щиток был переоборудован в нагреватель плавающего пространства. Он испускает постоянную струю опасно горячего воздуха для обогрева замкнутого пространства. Предупреждение! Может привести к быстрому тепловому удару!
+спасение
+
+
+
+
+
+makeshift portcullis самодельная опускная решётка
+Установлена сломанная бионика: %s.
+
+burnt out bionic перегоревшая бионика
+
+Wasteland Scavengers Падальщики пустоши
+
+broken military turret сломанная военная турель
+broken advanced turret сломанная улучшенная турель
+broken defense turret сломанная оборонная турель
+
+recovered or reconstructed
+soaring
+
+salvaged
+отремонтированный
+восстановленный
+отремонтировать
+отремонтировать
+
+autonomous surgical scalpels автономные хирургические лезвия
+autonomous surgical razors автономные хирургические лезвия
+
+cargo rack грузовой стеллаж
+EMP Projector ЭМИ излучатель
+
+
+сломанная турель
+сломанные турели
+сломанных турелей
+сломанный дрон
+сломанных дрона
+сломанных дронов
+встроенное оружие
+встроенных оружия
+встроенных оружий
+лёгкая силовая броня
+лёгкие силовые брони
+лёгких силовых броней
+
+riot control осназ ОМОН
+.308 = 7,62x51 мм
+.223 = 5,56 NATO
+.270 = .30-06
+.40 S&W = 10 мм
+(слезоточивая) (травматическая)
+
+
+
+компаньон
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

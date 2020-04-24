@@ -1,0 +1,1414 @@
+INTRODUCE
+SPELLING MISTAKES
+ASCII SYMBOL
+ASCII SYMBOL MOBS
+WEATHER
+WEAPON
+LAB DIVIDING
+Z-LEVELS
+TRAPS
+JUMPING and MOVING
+ECZOSUIT
+CBM
+MUTATIONS
+PETS
+ HORSE
+ADD NEW ITEMS
+TYPES Zz
+FLICKERING PORTAL
+STATISTICS
+NPC
+NPC - MENU
+ADVANCE INVENTORY
+INTERFACE
+QWESTS
+ QWEST refuge safety
+ QWEST transport repair
+ QWEST portable radio set repair
+ QWEST cleaning city from Zz
+ QWEST experimental means against an infection contamination
+ WORLD NETHERUM
+BUGS
+
+
+
+
+INTRODUCE
+<spoil>
+THIS FILE - idea_eng.txt - TRANSFORM - IN idea_eng.txt.xml - AND OPEN IN ADVANCE SYNTAX VIEWER APP, WHEN WORK WITH BLOCKS, LIKE NOTEPAD++ OR ETC
+THIS FILE WAS TRANSLATE FROM RUSSIAN TO ENGLISH MYSELF WITH HELP EXISTING SOFTWARE. I USE NOTEPAD++, SYNTAX XML, TO ROLL UP ALL BLOCKS: ALT+0, AND ROLL DOWN ALL BLOCKS: ALT+SHIFT+0
+FILLING BLOCKS NEW INFORMATION FROM BELOW TO UPWARDS: FROM ABOVE - NEW INFORMATION.
+IN ONE BLOCKS I TRIED COLLECT ERROR AND MISTAKES FROM ONE PARTS OF DEVELOPING AS LIKE: GRAMAR MISTAKES, ADD NEW ITEMS, ETC
+I MADE AN EFFORT TO PLAN FOR DEVELOPMENT AND CHECK TOO MUCH BUGS MISTAKES and CLERICAL ERROR, BLOCK-BY-BLOCK
+TRY TO LOOK AND EVERYTHING WILL BECOME CLEAR
+ENJOY READING!
+
+If you corrected fix some error please note PR - about this error is corrected. That knew about the executed correction, bugs, mistakes for Sample:
+
+survnote "just find some avacados..." - "avocados"
+to
+It is made. survnote "just find some avacados..." - "avocados"
+
+
+
+
+
+Cataclysm DDA roguelike game - it is at first heavy, but after a while - one year it becomes very easy. Than further should be hardcore. Hardcore staff is not present.
+
+overmap 1x1
+tinymap 24x24
+playmap 156x156
+
+Synonym words simply to understand language:
+walk = walkthrough = passage = 
+the Persian = Character = main hero = @ = 
+mob = Zz = frendZz = zombie =
+smash = bite = 
+burst = detonate = explosive = blow up
+adv_inv = AdvI = advance inventory = 
+stock = inventory = 
+occur = appear = 
+loss = damage = 
+refuge of refugees = centr of refuge = refuge centr
+</spoil>
+
+SPELLING MISTAKES
+<spoil>
+\lang\mo\ru\LC_MESSAGES\cataclysm-dda.mo
+
+
+
+
+
+
+
+
+
+
+
+
+..\data\json\monstergroups.json - monster_groups.json
+
+items:
+
+.\data\json\snippets.json
+    "text": ["There is a splotch of blood on it...->
+    "text": ["\" There is a splotch of blood on it.
+
+survnote "just find some avacados..." - "avocados"
+
+summon_yugg "cthonian wealth." - ? not clear word
+
+arachnotron flesh (fresh) spider_brain "seperated from its" - "separated"
+
+sks "and deployable intergrated bayonet..." - "integrated"
+
+RM298 HMG rm298 "Accepts RMXB500 box and RMD250 drum magazines.- "RMGD250"
+
+reloaded_22_fmj "The.22LR round is..." - ".22 LR" - in general the description from other item
+
+pipe_solid "piece of metal, seperated by..." - "separated"
+
+pipe_combination_gun, combination_gun - shoot 1 shot, but 3 and 2 cartridge at once, this is it?
+
+PRM marine armour megaarmor_torso_1 "flexible filiment at the" - "filament"
+
+PRM marine leggings megaarmor_leggings_1 "PRM marines from enviornmental..." - "environmental"
+
+PRM marine boots megaarmor_boots_1 "imporperly fitted." - "improperly"
+
+M1911 DS ml911ds "The ml911 Darkstalker is a very modified ml911..." - M1911 from capital letter
+
+L523 l_lmg_223 - L223 or L523 error in the name this items a lot: platform rifle - abandon without changes or variate all 1_523-RP 1_523-0б¬ 1_523-0б¬
+
+Hammer "With a hammer, nails, and two by fours" - "With a hammer and two by four nails...", "two by fours" /- wtf item or some tool?
+
+cuirass cuirass_lightplate "curiasses remained in..." - "cuirasses" the description
+
+inactive manhack, broken manhack - manhack inactive, manhack broken
+
+"C-4 explosive (armed) - "(on)", "(active)" - 1 unique item in name have - (armed)
+
+grenade launcher buttstock ugl_buttstock - M320 grenade launcher buttstock - add to name item
+
+double bomblet launcher bomblet_launcher_double - "A homemade doubled-barrelled homemade launcher"- "A double-barrelled homemade launcher" - 2 errors
+
+berserker stimpack berserker_drug - stimpack berserker should put only on left hand, left palm it's closer to heart
+
+caccodemon spawner bomblet_archdemon - error "archdemon spawner"
+
+triffid antidote antidote_posion - "poison"
+
+pair of steel arm guards armguard_lightplate - "couters, and vambraces" - "cotters and braces"
+
+. 22 FMJ, handloaded .22 FMJ - an error in the description -  this description of a .22 LR or they are identical
+
+* bat_metal - "metal bat" metal not aluminum - name item aluminum bat
+
+lost soul spawn bot_lostsoul - "spawner"
+
+revenant spawn bot_revenant - "spawner"
+
+tear gas grenade - gasbomb
+armed tear gas canister - gasbomb_act - not conformity name "off" and "on"
+
+"Aluminum keg" keg - uncorrect name item - keg_alum
+
+manhack acidbomb manhack_firebomb_act - manhack firebomb error in the name item
+
+pocket ball pokeball - name maybe - pocketball
+
+skorpion61mag - skorpion_61_mag - or stay mean idea developer
+skorpion82mag - skorpion_82_mag
+
+smart lamp (off) - simple without record "(off)": smart lamp - smart lamp (on)
+
+arachnotron flesh (fresh) spider_brain - is not a brain - flesh name uncorrect
+
+soulbomb
+active soulbomb - soulbomb active - correct record items
+
+soulcube
+recharging soulcube, healing soulcube - soulcube recharging, soulcube healing - correct record items
+
+mobs:
+
+rumored - rumoured - mob zombie tank
+
+dessicated - desiccated - mon_minecraft_charged
+
+proficently - proficiently - \data\mods\PKs_Rebalancing\monsters\misc.json
+
+stipped - stripped - \data\mods\PKs_Rebalancing\monsters\misc.json
+
+aplha - alpha - \data\mods\PKs_Rebalancing\monsters\misc.json
+
+creviced - fractures cut up - \data\mods\PKs_Rebalancing\monsters\insect.json
+
+protursions - protrusions - \data\json\monsters.json
+
+protuding - protruding - \data\json\monsters.json
+
+charged hissing brood - dessicated - desiccated - \data\mods\PKs_Rebalancing\monsters\triffid.json
+
+creeping vine - "Acts in a chaotic manner." - "Appears to acts in a chaotic manner." - \data\mods\PKs_Rebalancing\monsters\triffid.json
+
+moose - "the aplha bull." - alpha - \data\mods\PKs_Rebalancing\monsters\misc.json
+
+giant royal bee - "end up leaving." - A point in the end - \data\mods\PKs_Rebalancing\monsters\insect.json
+
+hissing brood - a dried up - A dried up... - \data\mods\PKs_Rebalancing\monsters\triffid.json
+
+howling waif - howling wolf - check description - \data\json\monsters\zed_children.json
+
+your mother - your Mother - the one from all monsters from capital letter
+
+DREAD MkIX - DREAD Mk. IX
+
+PAQ.txt - PAQ.txt - correct
+
+German text in the English original text - wtf
+German text in the Russian translation text - same
+\lang\mo\ru\LC_MESSAGES\cataclysm-dda.mo
+
+Das Feuer um deine Schwertklinge leuchtet hell!
+
+Dein Flammenschwert hat keinen Brennstoff mehr.
+Dein Schwert zischt und erlischt.
+Deinem Flammenschwert ist der Brennstoff ausgegangen!
+
+Die Flamme deines Schwertes erlischt.
+Die Klinge deines Schwertes brennt!
+
+</spoil>
+
+ASCII SYMBOL
+<spoil>
+
+
+
+</spoil>
+
+ASCII SYMBOL MOBS
+<spoil>
+
+
+
+
+
+f_datura datura is not a bur plant, it's smelly to check in google. Prickly is a thistle
+
+To add the thistle or budjak "*" - character at walkthrough by thistle or budjak collects seeds in different categories items in adv_inventory and put on wear clothes too. To remove seeds - throw out, throw to get rid somehow
+Character walkthrough by datura feels - drowsiness, problems with breath, easy effect, pass quickly
+
+pigeon "р" - "v" greyish - as a birds "v" or "w"
+datura "*" - "f" greenish -   as a plant or so it's conceived planned dev
+cattails "i" - "f" brownish - as a plant or so it's conceived planned dev
+
+</spoil>
+
+WEATHER
+<spoil>
+
+
+
+
+
+
+
+
+In the spring/autumn the rain should go 1-3 days/nights constantly
+In the summer the rain should go seldom
+In the winter the rain should go a snowfall
+
+Hurricane - scatters items around
+Snowfall - all space grey without colours in day and in night: red green dark blue yellow - only from traumas and from Zz. And when walkthrough on snow must to remain trace-tracking on the earth/grass, more light/dark path
+In the winter - water: shoal it's possible to go - frozen - Ice
+Walking on Ice - speed in 2 times more slowly or faster
+In the autumn trees, bushes - yellowish
+It is made. In the winter trees - brown without leafage and plant dead
+
+Time, when all and day and night - night (1 time in a year) - eclipse
+Time, when disconnected all electricity or heavy draining (1 time in a year) - solar flash
+
+Rain from frogs
+Rain from fishs
+Rain from blobs
+Rain from plastic chunks
+Rain from magma (volcano nearby)
+Rain from ash (forest fire nearby)
+
+
+
+</spoil>
+
+LAB DIVIDING
+<spoil>
+
+
+
+
+
+
+
+add on -1 lvl any Labs - a leaf describing specialisation of Labs that it's possible to expect on inferior lvls, what bonuses below 
+
+Cold Lab - exist (like)
+add Hot Lab - break natural lava fracture has opened lava-fields come across, portal has opened - from it heat brings down, lava sparks/splashes and lava-fields
+
+add underground transferring, passage between underground lvls of different Labs. If between them is ~10-12 tiles overmap - on a map underground passage between the separate Labs - protected special mobs
+
+add with -1 lvl Lab beetles-cleaners which are not aggressive and escape at approach of Character and so simply chaotic moving in Lab territory
+
+add minefields around Labs, Mil. bunkers that it's more difficult to approach Character to them 
+
+add underwater Lab under river in deep water, entry through a sluice under water too - investigates river inhabitants, aquarium
+
+add Lab completely with vacuum (charcoal CO, carbonic gas CO2)
+Fire-—ќ2-evacuation people-corpses-Zz+robots. Since -2 lvl isn't present breathing air, only —ќ, CO2
+
+add Laba completely in deep water is flooded (or not deep water some else worse)
+Fire-water-corpses-watersZz. Since -2 lvl isn't present some breathing air, only shoal water, deep water and separate not flooded fields
+
+add hardcoded region, as like as arena with the boss where all floor it's covered by heaps of corpses with their things and items. Character goes on corpses. And on this location fights with the boss. Ruins, bushes, trees is present
+
+Civil buildings should be broken, instead of whole and new
+
+Caves. Labs. Mines. Mil. Bunkers
+There should be separate dange, especially caves. Deep penetrating worked (coding, programming) and differ from a usual/normal mode of game. For descent in depth of caves Character should be prepared at first, and then passage down
+
+Mil. Bunkers - before getting to a region with compartments with the weapon, Character should be passaged down on ~-10 levels downwards
+
+Mine.
+P: "Attention! Enter is closed. Enter is forbidden for strangers. Only for the owns personnel. Archaeological pipettings/researches are conducted."
+: "sheet of paper": "In connection with accidents on object, pipettings - are intercepted, works - are stopped. The investigation is carried on. A recovery work" is conducted
+
+add the security-guard-door of different lvl of access 1-5 in labs to pass it is necessary high lvl electronics or hack more low/further
+add the doors opened only on: to a personnel replica, scan retinas, password or detonate up. Which can be found as: a personnel replica, scan retinas - having killed special mobs, butcher it and to receive special part-organ-item. The password - written on a leaf and can found in down lvls, to find a leaf
+
+
+
+
+add Labs on ~10-20 lvls downwards
+
+Med lab on ~10 lvls downwards - have trackbench/med-bed/genetic-capsule for integration into organism CBM or genome of animals etc
+Craft himself trackbench on which do integration into body CBM + in labs on lower lvl put tiles 24х24 with the medical equipment for integration CBM + NPC integrity, but not the most expensive/abrupt CBMs
+
+add samples, examples in flasks, tubes, containers
+
+add lead container for transportation of radioactive samples
+
+
+
+Technical lab on ~10 lvls downwards - have gens/instrumentation/apparature which it's necessary to find and transportation in Med-lab where you will integrity CBM
+
+
+
+Portal lab on ~10 lvls downwards - where developed portal technologies - have traps-portal, opened active portals, terminals with which it is possible to close portals. Poison-gas everywhere or in general airless environment. Are flooded. Are filled with smoke. Are gases. Are blasted by places "^^^^". Holes in floor on the lower lvls.
+ 
+In lab at a fire there should be a rain - system fire-control.
+
+Mast be warning: "the Laboratory is infested and will be flooded/disinfected. To the personnel to collect in a safe-room and passage upward to evacuation"
+
+
+
+Science-lab on ~10 lvls downwards - have computers, computer centres, information assembly, account
+
+add AI - mad computer system as in the film Resident Evil 1
+
+</spoil>
+
+Z-LEVELS
+<spoil>
+
+
+
+"shadow" at 0 (+1) level if to "look" through Shift+x upwards downwards it's possible to see that/who it particularly creates a shadow
+Or to use mechanics of construction of sight from DF
+
+</spoil>
+
+TRAPS more traps
+<spoil>
+
+landscape - buildings - traps - weather
+
+Under traps is available - barrier for Character, instead for Zz
+
+
+
+Traps natural TN:
+Rain - pool water - pick up fluid it's impossible
+Acid rain, after a rain random occur - pool acid - difficulty to move
+Fire rain - fireplace do not spreading only simply burn and decay
+Break fracture - occur random - Pool lava nearby, steam cloud
+Moor:
+cloud of gas difficulty to breathe
+cloud of gas difficulty to breathe + burning if something to ignite - will light up everywhere
+Bog - speed of removal 400-800
+Vacuum region - charcoal CO, carbonic gas CO2 after a fire in Labs
+Regions with low temp
+Regions with high temp
+Regions with radiation
+
+
+
+Traps mechanical TM:
+Trap as form of dividing: activate - damage - loss the charge - off, end - no damage
+TM on a floor when on it to come or throw item on tile with a trap
+TM fire on the area
+TM water on the area
+TM confuse - Character goes chaotically some time ticks
+TM steam - hot steam 
+TM thorns - from a floor on the area up/down thorns
+TM paralysis - Character does not move
+TM suffocating gas 
+TM disappeared/crumbling floor not to fall down into low level, it's necessary to "look around"
+
+
+
+Pressue-plate PP:
+Hidden on a floor, as the buried land mine fugas. Character does not see when approaches with small lvl of perception. For definition hide traps it is necessary "to Search more accurately"
+Press a pressue plate:
+1 variant: from near lying gates spread: various gas, fire, water. Which on the area spread poisoning worsening characteristics main hero
+2 variant: around a press plate on the area occur:
+Network - slow down
+Fire - damage
+Water - floats, sinks, simply pick up waters
+Gas - suffocating, ignite, reducing review
+Steam - damage
+3 variant: opens hidden passages, rooms
+As in Brogue
+
+TM inserted into walls
+TM dart
+TM arrow
+TM turret firearm
+TM laser alarm system of detection of rogulike strangers
+Not visible laser rays which overlap passages. To notice them - use infra-red glasses or a smoke/gas are necessary, to throw a gas grenade/canister. At triggerring - spawns manhack the alarm system works and noise is made. To disconnect - to approach and neutralise or detonate/break up
+
+"The weak stone", "hidden passage", "hidden door" - Character passes by a wall, in a loggame notice: "you have noticed hidden passage" - break tile or destroy 
+
+Hidden doors, passages/ladders upwards and downwards
+
+Fragile container - fragile with dangerous materials: water, acid, poisoning gas, suffocating gas, flammable material - if smash - spread on the area dangerous material and have damage
+The container-fragile can be moved on terrain, on floor
+
+add monster from world of Triffids - a plant which live on the wall and diffuse on it or not, as in Caves of Qud. The plant do Character damage when he passes - kill or burn. Near it appear cocoons/bubbles when they take a damage - burst and put to the nearest monsters and Character a damage, bilding structure - not.
+Walls of the lab approach for this purpose as-time
+
+</spoil>
+
+JUMP and MOVING on overmap
+<spoil>
+
+JUMP as like as in DF
+1st variant - simply jump through 1 tile, on 2 tile in any direction without limitation
+2nd variant - a jump only during in run
+3rd variant - a jump on a wall with possibility to catch hol for something: wall, tree, fence and further to jump aside from object
+
+MOVING on overmap as like as in DF
+It is necessary as fast travel only on foot or at once is more narrow by the car, only on roads.
+Planning of any actions
+Regions-barrier if on a path: Hordes-Zz, objects-bildings etc, impossible to pass through
+
+</spoil>
+
+ECZOSUIT
+<spoil>
+
+collect eczosuit
+0 base: heavy power armor - a base for installation eczosuit
+1 part: eczoskelet- kill arachnotrone (most dangerous mob) - butchering - getting itself a detail for a suit - a base - eczoskelet
+ћоб already is - broken_mechaspider
+2 part: armor - kill bosses from portals, butchering - getting itself separate details, mechanizm for a suit
+As in Cogmind
+
+If ignite some mob - immun to fire, they moving and burn nearing tiles
+
+</spoil>
+
+CBM
+<spoil>
+
+CBM must install in certain places: on special beds, at NPC, at the lowest Med-labs in special tiles 24х24 with a med-bed
+
+At process of installation CBM must occur the pain +30-+50, after operation pain then falls down
+The more CBMs you installed for a 1 time, it is must be more pain - for a 1 time can be installing though 100 CBM
+amount CBM level 1 to 10 - some CBM which influence on: temperature, damage - gradual increase of resist to temperature and loss damage, for example:
+CBM bio_faraday - 10 pics identical CBM - to installating if you want have maximum resistanse
+That there was a sense to climb on labs and collect-upgrade CBM which are already installing, because items spawns but impossible to use them already - unnecessary duplicates
+
+</spoil>
+
+MUTATIONS
+<spoil>
+
+</spoil>
+
+PETS
+<spoil>
+
+To allow to take in a hand pets: dog, cat, bat
+Let's admit a dog-enemy near to Character - throw a meat chunk - dog moves - eat - Character approaches to dog - take mob in a hand - bears in tile with the positioned cage or in a building-house - after a while time - dog-pet-Tame: Dog-friend
+It is possible to take pet and throw directly in Zz - it will be cool
+Pet runs near to/together with Character. Does not attack itself enemies. If Character attacks the enemy - helps it, distracts on itself
+If pet get big damage - retreats from mob
+Put on pet armor: a dog - kevlar_harness or some else
+
+To allow Character in time aiming from distance weapon
+- "shout" - draw attention Zz
+- "shout" - give order pet to attack
+
+
+
+
+
+HORSE
+<tag>
+
+The horse - a feature such anywhere is not present
+Horse - 1-tile transport. Catch. Tame. Drive
+Travelling speed 40..60 km/h
+The harness, Armor, Rope to adhere to something: bush, tree, wall, fence etc
+The Horse has a container 100-200 cup
+On lack of roads goes faster than on road. Having grounded - 4 horseshoes: equally on road, on lack of roads 
+At moving to a neutral-mob, horse itself turns to the left-to the right
+At moving on the enemy, horse itself rejects on a diagonal or it is interchanged the position with the enemy. Character auto-attacks mele weapon of near enemy-mob fight that in hands - the WEAPON see
+For those who imitates knights
+If simply to sit down and move, horse itself moves chaotic in any linear direction 5-10 tiles then changes direct of moving
+Can drag the broken car to 1 ton
+
+The car drive on road speed of 170 km/h - 8 tiles it a little. It would be necessary 16-20 tiles
+
+</tag>
+
+</spoil>
+
+ADD NEW ITEMS
+<spoil>
+
+
+
+chunk of meat (rotten) can't use in craft eat - drop it
+
+It is made.
+Grenade explosion - is considered an block before purpose and presence mobs
+
+Grenade explosion in house/in street - as a window glass broken off - outside/inside - differently
+- The glass disappear in general or takes off and is correct and not correct - differently
+
+Dog forage - Cat's forage - should approach as a Dog Cat's without difference limitation
+
+P mine danger
+increase a minefield with a land mine on 3-4 tiles in a direct/not line direction - line protection with barrier
+enhance labs, military bunker that it was impossible to approach on them closely - mine on perimetr
+
+Tile P: add many empty hillocks without fugas
+On its perimetre 8 nearest free tiles, add in this tiles both dangerous fugas and empty hillocks - was not an equal square - unequal region with big randon location of an explosive in central tile and on border
+
+Boomer - blown up - in status effects @ - appear new state
+On a game field - pink space tricks - is not present
+Maybe it's correct work of goggles
+
+The towel strange works.
+After "activate wet" - towel not wet
+After "activate slime" - towel not dirty
+
+advertising pice of paper - improve description. Not the clear pure description, add trick in the end: "humour", "sketch"
+I have 1 leaflet about solar panels - this is humour description
+
+Leather belt - correct description - about flag "the right size" trousers
+
+In toilets except water - add slime/slimes point spawns, spawns ~10 pieces during the day 
+
+cocktail of Molotov - "activation" - firing throw - should crash at once
+
+The container for coals - when you firing, menu overlaps review and it is not visible what you want set fire - clean menu
+
+add "welding hand screen shield", for welding
+
+add boomerang - which come back in hand to Character, toy. On the basis of it - craft Fighting boomerang - as the remote weapon, weak damage
+
+laptop = pad on el. Ink. - laptop is better than pad and have more functions should be in compare with other el. aparature
+
+Torch - ignite - throw on the earth-grass, bush tile:
+- There will be weak fire on tile - is not present
+- enemy-mob get damage in this tile - is not present
+
+throw a cigarette (active) in a bush tile - no fire
+throw a cigarette (active) in a bush tile with gasoline, match, paper etc - no fire
+
+add elastic woman - trick
+
+add toilet paper 3..5 kinds. After activation - description "you used it for designation"
+
+add item - absorbent coal - a nausea, it is venenated, is simple so to take over - does not harm. Easy buff
+
+Fertilising for plants:
+- Liquid - solution chem. matters 
+- Hard - saltpeter, ammonia (ammoniac saltpeter), ashes from fire
+
+add elastic band for hair, hairpin, stupid rope for hair. In Character hair grow - block viewing (must block). Effect - "overgrow" through 2-3 months. And these items after clothing remove this effect
+
+add the Lead container for transportation of radioactive samples. Even in the container, there is a raised level of radiation
+ 
+To correct ASCII symbols Zz: z-tank jaggernaut z-halk and still the strongest Zz. That they obviously differed from other Zz and were well viewing
+
+add more flash-card information - software_info etc
+
+add "smouldering coals" in site with fire, fire ring or in other place where fire burnt and has gone out - red colour tile - throw firing material - pass 2 ticks - "weak fire" inflames - low fire
+Depends on weather at:
+Solar during 50-100 ticks it is possible inflame fire again
+Drizzle -20%
+Rain -60%
+Downpour -90%
+
+add possibility to take two items: in right hand and in left hand (-40.-50% of efficacy of the weapon in a minor hand, at discretion)
+
+add Right-handed person/left-handed person - a hand choice at building of Character:
+Right-handed person +1 to power
+Left-handed person +1 to perception or intelligence. This +1 buff point delete from all pull points on-default
+
+add "needle for tattoo" something similar. Character make a tattoo on a body. In the interface on "Shift-+" to show all clothes, in bottom left angle not used - "to show the small plotting in ASCII or the inscription text"
+
+add paling - the pointed rods 3-4 braided by strand, rope etc and building in a shallow pit as the protection from Zz - slow 300 and little wound. More poorly Spike Pit
+
+add "sterile" - Tool/Device for sterilisation - inner injections. Protect from inner infections
+
+add possibility block window a grid-rabitsa as 1 more level of protection - grid-rabitsa-through - visible open territory
+
+add metal-plastic windows - smash window - plastic chunks. add metal-plastic windows only in skybildings
+
+add item "Block of cigarettes", having disassembled - 10 packagings of cigarettes
+
+Zz simply fall down from 0 levels (house) in -1 level (basement), happens seldom
+
+circular saw does not saw: metal. Accessories: metal. doors, metal. grating, metal. rods. Circular saw must sawing
+
+After upgrade any skill under the book - add negative morals (sample traps from 2 to 3: -10, -20 morale), because 10 books for 1 time - study
+
+acidbomb_act
+This mixture at contact to oxygen (after a throw and broken a blister) evolves strong acid - at contact to air evolves strong acid. Shortcut description
+
+PKs: manhack_firebomb manhack_firebomb_act have error in the name, error in the description. After activation - bug - not fly to Enemy - attacks Character
+
+needle_bone needle_curved needle_wood have volume 250ml is too much - 1 or 10ml
+
+Time tick - Disbalance very strong or so it is planned dev:
+use butchering corpse - 85 tick
+use aspirin - 4 tick
+use bilding spiked board - 2 tick
+
+If Character hardly wounded:
+use bandages 1 tick
+1st_aid 19-21 tick
+1st_aid_survivor 153-154 tick - is too much
+If Character at deaths door:
+use bandages 5 tick
+use 1st_aid 86 tick
+use 1st_aid_survivor 674 tick - is too much
+
+broadfire_on broadfire_off - damage identical
+carver_on carver_off - price and weight and ticks per attack different
+circsaw_on circsaw_off - price and weight different
+firekatana_on firekatana_off - damage identical
+firemachete_on firemachete_off - damage identical
+shishkebab_on shishkebab_off - damage identical
+smart_lamp smart_lamp_on - bonus accuracy differs
+trimmer_on trimmer_off - volume and ticks per attack differs
+zueifire_on zueifire_off - damage identical
+
+tree_spi1e A drill for a tree a maple to add a birch: birch sap
+t_tree_maple t_tree_maple_harvested - maple_sap
+t_tree_birch t_tree_birch_harvested - birch_sap
+
+"gold ring" is a wedding ring?, check "id": "ring" - "id": "gold_ring"
+
+add "silver ring" because "silver earring" is exists
+
+add Necklace/Bracelet from bones, tooth, sleeves - trophies from unfortunate killed mobs
+
+S - a statue: add random names, abstract definitions, for example: S the person, S an animal, S Blasted, S Ancient belief, S Dogs, S an ugly sculpture etc
+
+add moving conveyor as in Caves of Qud. Character will stay on tile-conveyor and stay - he moves on automation mode
+conveyor exists but only bilding furniture not active, not work
+
+add Female Character, which through time - pregnant
+
+add DEAD CORPSES more CORPSES -  everywhere: in houses, in the street, in labs
+
+add SLIME-BLOB or MORE BLOB - in all angles, places - infestation reason
+
+add more HOSTILE NPC - because all frendly (have 30% spawn dynamic NPC)
+
+When Character have hallucinations - my can see - debugging monster - erase from spawn-list debugging monster
+
+When Character birthday - he congratulates itself (himself) on birthday - simply in one random day or not random day, and Character have +100 morals all this day
+
+after 1 game year don't spawn Zz clothes from death-Zz-corpse only cloth chunks and rags, maybe anything from clothes - a lot of things - maybe replace all cloth - 1 decayed kind cloth chunk - decayed chunk - with does not useble any more
+
+add bottles not marked, as in all roguelike games. To learn that inside, it is necessary: try, test a litmus paper or somehow in another way to check
+
+Medical drugs crafting with help chemical_set:
+add a immobile/mobile Chemical table in Med-labs (building structure)
+
+Pouches-Flask with regeneration, revival, acceleration - use in recipes infested meat - uncorrectly
+Infested meat contains a virus Zz. Eat such med-drugs - you transform in Zz. It is better add an "essence" instead - "blood essence" etc in recipes
+Craft this Pouches it is necessary on a chemical table
+
+add a grid/nets as in DCSS for a stop or slow mobs ( + the recipe available)
+
+add electro bow - bow shooting electrical arrows - exist generally yet?
+
+add shoker = tazer - exist
+
+To add shoker distance - "f" - wires and electric discharge bite on distance Zz
+
+It is made. In game there were sleeps and nightmares - more nightmares and different sleeps
+
+At Character @ colour - badge: bleeding - red, chill - blue, poisoned - green, radioactive - brown etc, that not see stats screen Shift-2
+
+Merchants, Guards - set it different colour of a badge on their specialisation too
+
+It is made. cursed weapon - clear, flag before use, as in DCSS
+It is made. cursed cloth  - clear, flag before use, as in DCSS
+
+add to use in building after diferent operation:
+refrigerator - safe eat
+cooker plate - cook food
+washing machine - clean things cloth
+TV - hissing, add different announcement "Quarantine! You in infection/lesion/alienation region"
+
+vaccine against a flu - add different vaccines, 8-10 different vaccines against different viruses H1N1 H1N2 H2N1 H2N2 etc
+
+Bleedings more often that there was a sense to use/carry blood powder and wher walking stay red trace all time
+
+add possibility write on:
++ a floor
++ a subject (items)
++ to variate the subject name (items)
+- a wall - Graffiti
+- a body - to make a tattoo: markers, needle
+
+add paint (painting whis help finger) and a paint brush is property of "graffiti" - to paint on all tiles finger or brush
+
+It is made. recipe laptop operated - add laptop in his recipe
+
+It would be time already to a lantern ordinary to reduce angle of the review of 75-85 degrees, to a powerful lantern - 160-170 degrees, to a projector by the car - 360 degrees
+At activate - shines in that side where Character went last time
+On the invisible side objects which emit noise, are highlighted by the yellow ".", instead of "v" - looks more compactly or are not highlighted at all
+
+To use a mobile phone, as GPRS
+1 stage - to execute a quest "install mpd-retranslator"
+2 stage - to use manually phone for position definition on global co-ordinates world, or to weld on a wheel of car phone and show coordinates constantly.
+Why coordinates? - NPC give only district coordinates, not a correct exact direction
+refuges centr - outside of visibility - give approximate direction of locomotion
+
+The Monolith from Dead Space would be entered in game ideally
+
+</spoil>
+
+TYPES Zz
+<spoil>
+
+
+To add possibility to do from mobs-neutrals - mob-frendly 
+Mobs some like: lossing, madman, loony, infected survived etc - which spawn in cities, in houses, in basements; are neutral to the Persian, do not attack first; walk chaotically, as wild animals; to them not to talk; if them to attack - answer on attack
+The Persian can make tis mobs "Friendly", it is like pet-person:
+1 day - give food, mob  - starts to walk simply for the Persian on the big distance, not begining in fight
+2-4 day - give food, is reduced a distance, comes nearer to the Persian
+5-6 day - food, clothes - Walks nearby, stay nearby, helps with crafts
+7 day - food, clothes, the weapon - mob-Frend, Walks nearby helps with craft, attack enemy-mobs
+If mods "Disconnect needs NPC" enable - need give food - this is condition to mobs-neutral  stand mob-frendly 
+This like a qwest complicate recruiting mob to mob-frendly: not at once stay frendly - in some time
+Roll back action - special attak Zz - loosing sense - NPC-Frendly, mob-frendly attack the Persian
+
+ Small wild and not wild animals (in which difficult shoot) - steal meat, canned meat, ready prepared food - in a item dump of stuff player - player saw and understood that happens. At approach of the Persian - run away
+
+The former civil animals: cat, dog, pigs etc and wild animals: bear, lynx, coyot, wolf etc - gnaw corpses, infected meat - flied round corpses. At approach of the Persian - run away.. Large animals infecting and mutating in: dog - zombie-dog, Small animals - is not present
+
+allow crows, pigeons etc - peck the corpses, infected meat - flied around corpses. At approach of the Persian - run away. Small animals - is not present do not infecting and mutating
+
+
+add join mobs-neutral wild life in herds: - "moose alpha" - one alpha mob, behind it move 5- 10 pieces simple mob "moose". The herd of animals. If to attack somebody all agree on the Persian
+Few times spawn 5-6 cats - and this herd look at once cool
+
+Bog
+Bog - low speed movement 400-800
+Areas with explosive gas, if presence any fire - is burst all area with explosive gas
+
+mosquito - Amount is More. An areal exist on Bogs, on the Rivers. Imperceptible ASCII character - that it was not visible where stand. impossible hard to attack. It is returned back to a bog if the Persian go away far. Means against: fire, means from mosquitoes. Persian effect - pain, an itching skin, is scratched, a bleeding. Mosquitoes - is huge creatures
+
+marsh monsters more 
+pull
+pull + drown
+Huge mass of slime - as like about the 5-lvl building or 9-lvl building.
+Collosses monster
+
+add spirit of fire+/heat/water/cold/freeze/wind/ground/and simply - a spirit
+add cyborgs with bionics and enemies with distant attack: fire/freeze/ice/water/acid+/electrician+
+Different types damage: fire, acid - distance attack 1 tile, 3 tiles, on the area 3х3 - 3х4, not correctly form - area 4х6, 6х8 etc
+add enemies that influence on mind, intellect, as type a flaring eye (to which even it was terrible to battle), stats effect: in horror, demoralized, stiffened, immobilized, seized, paralysed, hallucinations, on fire, in acid etc
+
+Cocoons - eggs - bubbles - blowing up unmoving mobs
+
+After death of the Persian as in DCSS, in death place Persian - NPC green color, NPC-Z-Bandit with hp player + armor + distance weapon: grenades, hammers + weapon in hands, Persian revived come back of the zombie 
+
+miniboss: lot hp/much hp: 1-2 min real time on the battle with him
+
+bosses: range distant attack, special attacks, minions, revival/respaun during fight minions/mobs, immun to separate/different types of a damage of the weapon
+
+"You feel danger of death" - when there is start event: appearance mission, event: miniboss, next boss. To pay attention of the Persian to very danger - run away or fight
+
+To add the zombie-necromant possibility to revive dead Zz
+
+2-tiles mob to make it is problematic, what if - 4 tiles 2х2: 4 tiles - as like 4 mobs only conjoint, move nearby not movie far from the friend and to count movie 1 tile insted 4
+
+It is possible also try change the square - deformed in line, triangle etc
+
+large worm - breaks up to 2 parts - low, it is necessary on - 6-8 pieces. That the Persian - not can move from different directions
+
+Slurry caterpillar - the silt trace should brake 150-200
+
+increase force (power) enemies after a some certain amount kills - given type of enemies х1х2х3 - х10 - increase force: + hp, + resistance, + immun to a separate damage
+powerfull - strong - gigantic - horrorer - fearful - ugly - mad - levels of improving of enemies or it is simple - in description of enemies add х1х2х3. х10: zombie х5, zombie х10
+Acid zombies behind which the pool of acid or the track - this track should be stay at groung or remain
+
+Slime more at in all corners - it is the infection reason, slime, blob
+Written description about blob more extensively
+
+add towers immobilize and more - it was impossible to approach/approach close - towers survey at T triffids and F fungi with distant attack (when destroyed ~50-200 enemies of type T and F - upgrade/development - spawn 100 pieces towers or at once to correct tiles 24х24 about T and about F. 1 tile on a overmap T and F it is not enough: 3х3 - too low, 5х5 - normally and in center - spike-head-heart)
+
+Simply Z is a idle zombie
+Z in a small square: we have the upgrade shield of the different type: chitinous, muscular, electrical etc
+At hit in Z from any weapon - simply damage when 0 hp - it is decelerated, does not beat, slowly moves, unsteady, chaotically moves but does not die, it is necessary to kill - aim shot in a head, strong critical attack etc. That did not die at once - little more twitched
+Zz do not die at once - to finish it is necessary - strike exact shock in a head or critical strike
+Zz must have immunity to certain shocks/damages
+
+Zz when only death or "very strongly wounded" - run away for regeneration hp
+Zz when only death or "very strongly wounded" - chaotically walks, receding from the Persian, wanders around
+Zz when only death or "very strongly wounded" - blows up: fire, acid, slime etc on the area 4х5, 5х5 tiles
+
+Incorrectly. After death of the Persian, overmap was not cleared and remained opened, but the Persian generition in random place and - went to search for a death place, to take away loots or type the Persian anew is cloned and remembers the last memories/last adventures
+
+</spoil>
+
+FLICKERING PORTAL 
+<spoil>
+
+
+On a generation place on open district or in buildings: a flickering portal, round a portal must constant or through any interval time spawn enemies 5-10 pieces, through any interval of time on 10-20 pieces. Or not enemies, but only a blob. The Persian should escape faster or throw granades all.
+
+Round a portal steam should break. To appear pools-cracks with a lava, smoke cloud, flow an acid rain
+
+After kill pieces 50-80 mobs: from a portal spawn miniboss
+After kill miniboss: from a portal spawn boss
+After kill boss from it (boss) drop information which it is necessary to deliver to scientists in a refuge center, we will admit: test tube with blood, body parts etc. From it falls: separate components for ECZOSUIT. The Persian modernises your eczosuit
+
+</spoil>
+
+STATISTICS
+<spoil>
+
+
+
+
+
+
+
+In the statistics killed mobs to enter sorting, less pieces kill - above, below in the list. Rare monsters above, rare usual natural animals below or some else
+
+In the beginning of game not to write Names and Description of enemies - at locate by a mouse on Z - is empty
+After kills:
+х01 To start to write - the Name mob
+х10 To start to write - the Description mob
+х50 To start to write - the expanded description: to open history of beings in the statistican ")"
+
+add at viewing in the statistican kill enemies their description:
+- correct in the statistican a font: ASCII a symbol colour with colour tile, the description and a name mob - a standard font - is read easier
+1 variant - has guided for the line-enter-description mob - picture
+2 variant - all in a column and listing on the right the expanded description and its picture if art fashions is connected at once
+
+add art-fashions mod as like type the catalogue mobs with a picture of BW or RGB color type as like playing casino card and / or several drawings large-format. Who will want and can sketch - drop in folder with mod.
+Fashions external, it is downloaded through Launcher of loading handly
+
+expanded description in the statistican: to take ready of articles on wiki about cataclysm
+From what are created mobs-Zz, which the Persian has read any notes in labs about beings a full picture description from Lor of game, weaknesses/strengths side enemy, upgrade
+Game text also reminds type games - read the book where there is a variability of actions
+
+Art fashions: a picture of type of a playing casino card of BW or RGB - import from any cardgame
+
+add collectebls sheets of the newspaper which has read, see Persian for game 255 pics
+add full real time spent in game by one Persian / all Persians
+
+</spoil>
+
+NPC
+<spoil>
+
+
+
+
+NPC-Frend tells small phrases prior to the beginning of fight, during fight:
+"Carefully ahead danger", "I cover", "Give together we will attack", "I recede", 
+
+come to Persian in center refugees - npc give him  a portable radio set for communication on distance
+
+come to Persian in cent refugees, npc somehow check him on an infection, radiation
+
+npc and Persian are interchanged position by default, the speech-menu appears after press "е" 
+
+NPC come in traps - not stand in the traps buildings by the Persian
+
+If the city is cleard out to add there npc-refugees, people, civil. As like people have cleard out area and live there. But Zz all as spawn also and attack - horde
+
+</spoil>
+
+NPC - SPEECH-MENU
+<spoil>
+
+
+
+b: "That I can make for you?" - the task for a qwest
+d: "Give we trade in subjects." - trade
+In the course of conversation with NPC letters of answers change - to assign to each letter the one phrase. That there was a 1 letter of the answer in different menus of conversations. To 1 letter to fix a 1 phrase
+
+g: "I want, that this Thing served you." - "to give NPC to a hand item"
+h: "Hold this subject" - "to Give NPC to inventory item"
+translate more correctly that it was clear that the given phrase speaks
+
+k: "Cancellation"
+f: "Anything especial."
+s: "Have gone."
+To add alternative cancellation not a letter and - add key Esc
+
+</spoil>
+
+ADVANCE INVENTORY adv_inv "/" (AdvI)
+<spoil>
+
+
+
+In AdvI move a category "ARMOR" above a category "CLOTHES". It is convenient to watch at once all clothes, the Persian reservation first of all interests
+
+In AdvI faster usability - without pressing on "e":
+r - a recharge at once
+R - to read at once
+t - to throw at once
+a - to activate at once
+A - the review of all cages around
+e - to open the expanded menu item
+
+If to press 1-3 times a choice of position of a place in AdvI: ne, n, nw. Panels are interchanged the position - it is agry. To fix panels that did not interchanged, did not change by superfluous repeated pressing of buttons
+
+allow possibility to open inventory NPC as the in form of AdvI - has pressed the button in "speech-menu NPC" - has got in AdvI-NPC - conveniently to dress armor on NPC from own inventory or from the own dressed clothes
+
+To alter a line in "speech-menu" with NPC - to transfer item npc in a hand:
+left panel "npc" - that is put on NPC and separate line that in his hand
+right panel @ - inventory of the Persian
+From inventory of the Persian it is transfer that weapon which we will want
+
+To alter a line in "speech-menu" with NPC - to transfer item npc in inventory:
+left panel "npc" - inventory
+right panel @ - inventory
+From inventory of the Persian so much subjects how many are transferable we will want, without limitation and superfluous pressing of keys
+
+replace the trade menu: inefficiently also does not approach in game where all is fastened on weight of subjects. To put AdvI on its place:
+left panel "npc" dealer - are displayed all items in stock, red - those items which does not sell. That in hands also it is put on - it is not displayed
+right panel @ - are displayed all итемы in stock, yellow (?) - those items which has bought, with possibility to return back NPC for the same price of purchase. That in hands also it is put on - it is not displayed
+
+add in the separate line in "w" or in "i" - that at the Persian in hands
+
+remove or replace the standard menu "i" on AdvI:
+left panel "w" - the put on clothes
+right panel "i" - inventory (items in inventory)
+Has got used in AdvI that the inventorywas displayed in the right panel - get accustomed
+
+Possibility to blow up on all screen AdvI, and that all the same is not visible the last word long items 
+1 variant - AdvI on all screen
+2 variant - activation as though by button F10-F12. Has pressed F10 - AdvI all screen, has once again pressed F10 - has returned standard position AdvI
+
+use usual inventory as a simple variant of display items and clothes and appointments of special hotkeys to subjects for fast access
+
+Incorrectly. To change appointment of buttons "i" "/" at once to focus attention on use AdvI, instead of simple inventory
+
+To unify AdvI, in all chances, to use it instead of usual simply inventory "i". Usual stock - for fast survey of stock, clothes, the weapon in hands, type Lite
+
+</spoil>
+
+INTERFACE
+<spoil>
+
+
+
+
+Sound = Noise
+warning-message upper
+add tickmeter in status bar (spawn sport store)
+name building structure - white font
+name building structure in map - white font
+erase unnecessary border in map
+
+warning-message block nearest area around witn Persian and mobs nothing view - out of vision при 
+warning-message move or upper or lower for good viewing around Persian
+
+add tickmeter 2-3х symbol place gauge of courses, at performance of different operations - how many tick spend. Spawn in sport store (magazines)
+
+To add in mod RL_Classes Classic Roguelike Classes in the end/in the beginning of a proffesion prefix RL to understand what proffesion concern to a mod:
+Fighter RL Rogue RL Barbarian RL Skald RL Ranger RL Monk RL Knight RL Sorcerer RL
+
+Definition of complexity hard - not hard at T, F, ants etc
+As to the Persian to define, how much difficult location - on a overmap where pass downwards - by quantity of steps, will define complexity:
+1 pic - it is easy
+4 pic - a problem
+9 pic - it is difficult
+16, 25 pic - a hell
+Steps down increase in amount through time, rewritting steps - when the Persian at a short distance and see them 
+
+When the Persian defines a site mobs on Shift-v a trajectory-direction to mob through the latent district in the dark - is displayed hidden because of darkness and a landscape it is visible. Occurs when Z-shoker Z-bumer are in the dark and "are shone"
+Though the maybe correctly - then the Persian will see blocks something a trajectory of flight of an arrow, let us suppose car, house, 
+
+The centre of refugees - to clean road to missions "Find the centre of refugees "
+
+randomise Persian missions: planned, timing, global, coll-missions, tricks-missions etc. At different scenarios of passage - different missions. Type the scenario purpose - to reach there, to make that...
+
+randomise Persian phrases at different type of actions and at the different scenario of passage
+Since there are scenarios of passage for different roles gameplaying - which is represented - simply different initial set loots. Phrases for different scenarios, diversify a gameplay, phrases must be different for different roles:
+- Goes on wood: "fine weather", "will be today a rain", 
+- Has killed the boss: "the enemy was strong", "I have won", 
+- craft item: "at last", "has made some", 
+
+At the standard scenario in a refuge, the Persian on-beginning:
+- 1st step Sees animals: natural mobs
+- 2nd step Sees a heap of corpses
+- 3rd stepSees madwomen, madmen, etc neutral mobs which do not attack, and run up - escape in an uncertain direction
+- 4 The group npc which speaks to the Persian to be cleaned further, to be reserved by resources, to go to the centre of refugees in their directions, with itself cannot take and leave/escape for the visible review
+- 5 Attack already Zz
+
+more-tiles-trees pyramid a column from 1-4 levels upwards and-1 level downwards (root). When has cut down a tree - the trunk settles down on same tiles ****_
+
+Noise: 0 - On the gauge almost always costs 0.
+get the engine, active a stereo, cooking, building, shout - make noise,gauge may be not work, should react.
+Zz shouts close from the Persian, on the gauge 0
+
+Differentiation of colours in books of recipes that different colour was responsible for the function
+
+Strange behaviour mobs
+Same mobs attack one on one though should be in flight - wolves, coyotes, dogs, ants etc
+"coyote beats coyote"
+"coyote has missed on coyote" - "d" coyote attacks coyote
+
+Strange behaviour of 3-4 wolves
+When the bush (burn) on distance 20-30 tiles from the Persian wolves burnt did not attack - correctly
+The bush has burnt down - one wolf attacks the Persian
+Then one more wolf has pulled about the Persian
+Last wolf near to the Persian, a wolf the wounded man, moves chaotically and does not attack the Persian
+
+For 1 time the Persian can eat meal in volume of 2 litres (cup), drink waters in volume of 2 litres (cup)
+
+Through a funnel water gathers, in the container already there are a few waters. The Acid rain beginning - after certain time all water in the container - acid water
+
+Persian cannot fall asleep:
+ 0 floor: NPC shoots on Zz 
+-1 a floor: the cellar - the Persian goes to bed, cannot fall asleep because of shot noise. And should be correctly or an error
+
+Dahlia, hand bell, poppy, dandelion - to add it is a little movement price - 150
+
+Restore of wounds (loss) in the sleep should not depend on duration of a season, only from time sleep
+
+To allow the Persian to carry 10 rings on each finger on a ring that a place did not occupy in stock much to write: a ring х2, a ring х7
+
+It is made.
+The Persian long takes in a hand the weapon from the earth. At first in stock, and then in a hand. It is necessary that at once took in a hand a subject
+
+Perk "Parkur" - there are no penalties at accessories crossing: furniture, counters, but also also bushes, window apertures, holes, wood
+Maybe fix - bushes, wood, silt, a hole (a small pit precisely not fix). Leave only certain kinds of an environment where speed of movement it is not slowed down
+
+@ - bite - infection - infection all organizm - @ stay Z - zombie
+After bite - infection - infection reaches a head - and the Persian turns to the zombie
+Head bite - head infection
+Torso bite - torso infection - head infection
+Hand bite - hand infection - torso infection - head infection
+Foot bite - foot infection - torso infection - head infection
+
+The foot bite (dark blue) - foot infection (green) - after foot infection through certain time of 1-2 (3-6) days goes torso infection (a torso green) - then in 1-2 (3-6) days head infection (a head green) a brain - after 1-2 (3-6) days the Persian turns to the NPC-zombie hostile npc with equipment and the weapon of the Persian in hands
+
+Dependence to nicotine has appeared after 1 cigarette / chewing tobacco within 2-3 days - it poorly, at least that there was a dependence through: after 1 cigarette within 6-7 days (perk dependencing enable)
+
+When the extremity is broken also the Persian goes to bed to cure the broken extremity, and not in normal conditions:
+- The foot is not treated, receives a loss from a cold - to Add record:
+"Your foot is ill. You feel that your foot is not restored"
+- The foot is treated - to Add record:
+"Your foot is restored"
+If the player does not know as to restore the broken extremity - the help, whether it is treated or not
+
+At the game initial stages when the Persian comes nearer to Zz - the effect "shakes you", "is frightened". After 10-20 kills - to clean, has got used
+
+In console of developer - "to add the monster" - duplitions mob name in above - change at file name to operate orig name - as like items
+
+add possibility to command Shift-x "to Look out for a corner", time-spent: the Persian has looked out for a corner and pressing Num5 and time flows further
+
+add a key - to Make a screenshot in a file, optionality. JPEG - not. BMP PNG-24 - yes
+
+"Bumer and Huge boomer vomits bile" - After Towel use - it becomes dirty and at once becomes pure. The flag works "dirty" - error
+
+item menus have changed - from above 2 not used lines, volume-weight items in stock it is possible to arrange in one line, and not in the end, and in the middle, it was convenient to read
+
+Shift-V: the Fast review of Subjects: PageUp, PageDown - do not work for fast moving between pages items, for scrolling descriptions items upwards/downwards it is possible to use other keys
+
+Shift-V: the Fast review of Subjects: a priority - has bag in UTF-8
+
+In the menu craft - search item in Russian has bag in UTF-8 - simply gives out names without sorting
+
+In the statistican the description mob different colour - to make standard colour
+
+On a global card overmap the description of objects of different colour - to make standard colour
+
+When you examine object through "х" at NPC: wear, in hands is allocated by dark blue colour it is not visible - to change a font to standard colour, for convenience of reading
+
+REFUGEE CENTER
+make mission - "Find/find the Refuge of refugees" - clean trajectory - strongly
+
+adding perk semi-literate - is not able to read the name on bottle, boxes, containers - to learn that in them it is necessary to try, test, as in all roguelike games
+
+add professian the Chilean-Argentinean
+- Is not able to read the name on a global map overmap, at approach to object - the name structure- appears, as like - has studied study the nearest tile. In a consequence to leave opened studied tiles
+
+add professian the Groom - a gold ring (wedding)
+add professian the Prisoner - elect. Handcuffs on hands
+
+It is made.
+In game process, especially in craft, for cancellation press some times Esc if once again you will press - will appear MAIN MENU which besides should be closed - to clean MAIN MENU or to Add in Options possibility it is necessary to choose MAIN MENU or not. Or binding on MAIN MENU spec. A key
+MAIN MENU - to establish on not used key
+
+starting menu after pressing Esc - game was closed without any questions - to Add in the Option possibility to choose acknowledgement or not at an exit
+
+Bot Variant 1
+play game - save game, save game tracking - load game, look at save game tracking
+Bot Variant 2
+God-bot walkthrough from world without any problem
+As in ToME 4
+
+"Press ESC, q, Q or SPACE to accept the destiny..." - the inscription blinks, it is better that it did not blink - the message on the screen was simple, irritates a blinking
+
+On a map "m" to clean a cursor frame @, and that blocks 4 parties ne nw se sw - Shift-O to switch off imposing does not help, is invisible marks and Ord-Zz
+
+After 2-3 mounth games you forget what options of the world exposed - to add properties of the world somewhere in the world description
+\save \[Name world] \mods.json
+\save \[Name world] \worldoptions.json
+
+To add Lor in game on ?0-?3 it would be interesting read inside the game
+
+"Please report bugs on github.com/CleverRaven/Cataclysm-DDA/ or the forums."
+To correct an inscription in the starting menu
+"Please report issues on github.com/CleverRaven/Cataclysm-DDA/ or forum smf.cataclysmdda.com"
+
+Restrictions in length of names of subjects (items) in stock "i" to clean,  is not visible name end, capacity etc - important information (when long names of subjects is displayed)
+
+Whether and it is impossible to clean erase game-log - it was not in general. Game stats stay only. Or that the same phrases did not repeat, and went through a symbol "х": х1х2х3х4. They Go through "х" but is not constant and during 4. 6 courses. After 1года survivals the game broad gull is not so actual, all is recognised also a broad gull has become outdated/anything the new does not write
+
+Placing of the side panel - narrow/wide and to clean erase it completely it is possible
+
+And what the standard values of points at start: those which are intended for - normal start - by defaults
+6 - characteristics
+2 - perks
+2 - skills
+100 - maks points for lines
+, And to correct in the descriptions-opthion - ....
+
+At world creation the description mods does not get - to increase a window it is possible
+
+At creation of the character the description does not get - to increase a window it is possible
+
+add in the description mod PKs Reimagining - it is not clear that does mod - The description more low
+
+add in the description a mod the Set of additions for cars - mounted turret on a vehicle, "can not shoot"
+
+add in the description a mod Tanks and other transport - mounted turret on a vehicle, "can not shoot"
+
+reduce frequency of a blinking of inscriptions on overmap to a map or in Options to give the chance to choose frequency of a blinking of the cursor - blink quickly, irritates
+
+After death appears RIP, and it is impossible to make its transparent that did not block that that occurred/occurs in game space, blocked only that where it is necessary to write last words
+
+After craft something the window craft is closed and at opening - opens the first tab and semi-tab - that Kept/remembered last cursor position in a window craft
+, That opened on that place where was crafted last item (it is admissible, illuminated somewhere in the middle item) or, at least, on the same tab/semi-tab where also last item (is illuminated first/top item high on the list), does not suffice it
+
+You climb under the list craft, you press Esc cancellation or "F" - search and you cancel - the cursor moves upwards - should remained cursor on a place
+
+It is made. To reduce visibility of objects, in options it is possible to reduce the review, having found the field-glass the review increases. With the field-glass/omninoklem/telescope the review increases
+
+It is made. In stock "i" long names итемов are not located, words are cut off - to carry further stock and носимые to a thing
+
+</spoil>
+
+QWESTS
+<spoil>
+
+That it was possible to refuse denial the task/s qwest/s when Persian take
+At once gave 10-20 qwests for 1 time: has read a quest-leaf with tasks and you has received at once:
+20 tasks for collecting take items
+20 tasks for murder kills mods Zz and @@ - NPC hostile, Gangster camps
+QWEST "to Collect 2 engines" -> "to Collect 2 electromotors"
+
+QWEST to Find antibiotics for NPC in a starting refuge
+<tag>
+
+Time for 30 days like is established (Deadline - a deadline of 30 days)
+NPC was dead after 3 days. Somewhere an error
+In the beginning game is unreal to extract/get antibiotic to NPC and he is perishes
+
+</tag>
+QWEST the Branch on supplies, stores of a refuge of refugees
+<tag>
+
+To deliver in a refuge of 60 litres of gasoline, diesel, other types of fuel for the generator, engines, heating etc
+
+</tag>
+QWEST the Branch on safety of a refuge of refugees
+<tag>
+
+The Persian place, mount around a refuge: Holes, Traps, Fence, turrets, bags with sand etc - for protection from Zz around
+
+</tag>
+QWEST the Branch on transport repair
+<tag>
+
+Around a refuge centr there is a broken transport. The NPC-technic asks to help to repair transport and gives separate drawing/s of different tools: there can be welding glasses, the welding device handmade, makeshift etc
+When the Persian approaches to the broken transport-car, the NPC-technic approaches and stay near number 1-3 tiles from the Persian also while the Persian simply walk nearby car or repairs car
+
+After repairing car: 3-4 piece, the NPC-technic gives to the Persian the drawing of the field portable radio handmade set or simply portable radio sets
+field portable radio set - long radius of works
+
+</tag>
+QWEST the Branch on repair portable radio set
+<tag>
+
+Field portable radio set handmade or simply portable radio set
+The NPC-technician speaks with Persian about that has developed a portable radio set and it is necessary to check up radio.
+For this purpose necessary doing:
+1 - to complete QWEST installation  mod-repeaters
+2 - to craft portable radio set from spare parts
+3 - to drive off from a refuge, activate a portable radio set (on). To try to contact from NPC-technician. To check up quality of a signal and working capacity of a portable radio set
+4 - portable radio set transfers and accepts (receive) with noise. The NPC-technician asks to bring a portable radio set on base for tuning and thin operational development. After then the Persian will have a continuous constant communication with a refuge
+ 
+</tag>
+QWEST the Branch clean cities from Zz
+<tag>
+
+Branch on rescue/evacuation from the nearest city of NPC-refugees
+1
+NPC-military/separate/freewars Asks to bring the weapon or craft himself. Where to take weapon does not speak:
+10 pics close combat: knife, axe, crowbar etc
+10 pics distant combat: bow, arrows, factory weapon without cartridges or with cartridges, but with magazines
+50 pics trowing: throwing knife, throwing spear etc
+10 pics first-aid sets, bandages
+2
+5 NPC-military men moving for the Persian - attack/shoot/throw on command. Move to the bus-car and by means of the Persian-driver driving to a city
+Clean out city from Zz. Afrer them join 5-10 NPC-refugees
+3
+Clean out all Zz - not necessary - main purpose to find this 5-10 NPC-refugees and evacuee all lifes
+All move for the Persian to the bus. Sit down to sites, stand up in pass and with help by the Persian driving back to a refuge
+4
+Having arrived to a refuge centr the Persian lead all NPC inside building
+
+</tag>
+QWEST the Branch experimental means-medicine against a virus infection - result of this qwest character completly understand - real means is not present, haven't
+<tag>
+
+NPC-scientist (evacuated from one of scientific lab) speaks about people near to a refuge center with possible signs of infection zombiefication (cuts, stings, lacerations) which have transported or which simply live in the nearest city, is not strongly far away from a refuge centr. Suggests to help with medical healing cure/research of influence of virus on human body
+Gives coordinate-marker on scientific lab, where really stored last data scientists research
+All labs have been connected by among themselves distributed information network servers.
+After evacuation personnel from lab, them freezing, disconnected power from the servers. For receive data - it is necessary to go down in server and download-learn information directly on a place. Results of experiments also are stored in close store in paper variant - this folder with informations also are necessary get
+
+The Persian walk down on -10 level lab: collects items and finds tile 24х24 (tinymap) - closed room. Unlocks, blows up, cuts metal doors - find closed safe - unlocks it - find closed case with password. Tries to open on a place - it is impossible. Rises upward. With help a portable radio set informs that the case is closed, necessary the password. The NPC-scientist or technician suggest to bring on base and understand (disassemble) on a place refugee centr.
+The Persian brings a case on base, gives NPC - having opened it find the information on results of researches of virus. Experimental means - medicine drug from virus - is not complete present
+The Persian learns 1 stage what to do further
+
+0 stage - 
+1 stage - technical lab. Tests on lifeless matter - notorganics: stone, nail, concrete, metal scrap
+Walk down in technical lab on -10 level and as like:  enable/download from server information about spent tests, receive server equipment or HDD with informations. Find store - break door - to receive a paper variant information.
+In a paper variant it is report about a failure of tests on lifeless matter - lifeless matter is not transferred through a portal (flickering portal)
+
+2 stage - technical a lab. Tests on live matter - organic chemistry: apple, banan, lemon, meat of different type. As like as...
+In a paper variant it is report about a failure of tests on live matter - live matter is not transferred through a portal (flickering portal)
+
+3 stage - technical lab. Tests lifeless matter - notorganics: research robot, drones. As like as...
+In a paper variant it is report about a failure of tests on lifeless matter - lifeless matter is not transferred through a portal
+
+4 stage - medical lab. Tests of live organisms - organic chemistry: laboratory mouse, cat, dog. As like as...
+In a paper variant it is report about a failure of tests on live organisms - live matter is not transferred through a portal
+
+5 stage - medical lab. Tests in people - organic chemistry: the person. As like as...
+In a paper variant it is report about a failure of tests in people - subject not walkthrough through a portal
+
+After collected information, NPC-scientists "discuss" the received results of research informations. Suggest lead new tests.
+Suggest send through a portal - cyborg - the person which parts of a body are replaced by cybernetic mechanisms or metal devices
+6 stage - portal lab. At attempt cyborg pass through a portal - has occurred nothing. Experiment nothing give
+
+Suggest try tests on mutants is accepted
+7 stage - portal lab. At attempt mutant pass through a portal - there were distortions (electrical noise) in portal structure. All CBMs install in body, all loots: items, backpack, clothes stay nearest portal, also parts of flesh, pool of blood. Mutant (subject) has passed through a portal. Experiment has gone success
+
+8 stage - portal on surface field (overmap). The Persian walkthrough through a portal on surface field (not from portal labs). Having passed inside - should destroy an alien virus-organism. The Persian destroy his natural environment in which it (virus-colony) exists. After completed task, the Persian as kamikaze - died. Having destroyed virus basis - "pra matter" (something on Latin). On the Earth it is necessary only destroy its fragments only (different hostile fractions). This Task for next Characters
+
+</tag>
+NETHERUM WORLD
+<tag>
+
+
+
+1 variant
+Darkishly. Not darkly - twilight. Cold. The ice Moon-companion rotates around the gas giant planet. Weather: 1 Day 24х5=120 terra hours. In summer: sun day=100h night=20h. In winter sun day=60h night=60h.
+Slime, blob - collective super-colony of viruses which represents spherical easily changing form colony (morphing) deeply under ice in liquids, most likely as water (H2O), near to sources of heat and neogrganic / organic matters (active volcanoes under water). A main objective of existence virus is - survival in any hostile environment and under any adverse conditions: cold - not vacuum, but early approximately -100 degree and to heat +100 degree Celsius
+Portal or portals open nearby volcanoes or directly in a virus colony under water in NETHERUM world
+As virus has passed through a portal:
+- Reason: during unstable work - induced deforming hindrances which have occurred from Earth
+- Gravitational indignations
+- Reason of any failure crash of portal equipment at which its options and operating mode have been changed
+- When something from our side has got there, according from their side has got to us something (blob) - equally on weight
+- human factor: simply collect unearthly objects, subjects: error, oversight, negligence
+- Someone expected such and has made cataclyzm on Earth specially
+
+</tag>
+
+</spoil>
+
+BUGS observe (PKs mod enable)
+<spoil>
+
+The horde is connected, mods are connected almost all which something add in game: items, details, buildings etc:
+  "dda",  "no_npc_food",  "realguns",  "ew_pack",  "makeshift",  "FIC_Weapons",  "More_Survival_Tools",  "Medieval_Stuff",  "nw_pack",  "craftgp",  "PK_REBALANCE",  "noctpk",  "crazy_cataclysm",  "more_locations",  "Experimental-Z-Level",  "boats",  "deoxymod",  "necromancy",  "more_classes_scenarios",
+  "novitamins",  "filthy_morale",  "no_reviving_zombies",  "RL_Classes"
+-  At driving
+-  -1 lvl, a mouse examined subjects (Tile version, grafics disable)
+-  After fight with mobs, moved on the clear area
+-  Escaped from a burning building and from Zz
+-- CRASH GAME AT VARIOUS TIMES AFTER 1-3 HOURS OF GAME (not often)
+
+spawn ants game brakes
+On distance 15-16 tiles from an ant hill on overmap (on -1 lvl ant hill parts are present) - repaired a car 2 days - these ants in an active zone on -1 lvl have bred that all braked. Through the console has looked - these ants have hammered in all bonded area
+Way to use mass spawn ants in the closed areas on -1 lvl
+To allow them at occurrence of critical weight - to dig a course, courses upward - and then all this weight of ants-soldiers will appear on 0 ur-not that will create опред. Problems for @
+
+Respawn Zz and Unpacking horde stirs craft - during inless than 10 minutes
+On clearly areas, a my safety zone - bild, I am defined with main base in the house. The horde is unpacked approaches on noise - I smooth out.
+Has driven 1 car - have appeared Zz - I smooth out (a car with loot after has driven a car)
+Has driven 2 cars - have appeared Zz - I smooth out (a car with loot, another car)
+As though Zz work - increase in quantity and in force, depending on quantity subjects which have appeared in one place
+Here summer day. Smoothed out territory. I start crafting-dig pits. I can not finish craft - appear Zz (~1-4 pics). I smooth out. I continue craft. Again only the beginnings crafting - again appear Zz (1-4 pics) also disturb crafts. I repeat again - smooth out - craft - a hindrance - again smooth out... On a overmap of marks with a horde was not (through the console developer did not look as far horde from me, no marks existing)
+The cycle of the unpacking, new wave of a horde is small - some minutes - ~5-10 min of game time - it is not enough
+
+All books vanish disappear from loots
+Has laid out books in one heap with loot or separately, they lie in different heaps
+Has left/has left further for loot, to open territory etc
+I come - I look books in a heap - books are not present. Books that were in a car like have remained
+
+The acid rain did not go in the summer (PKs mod enable)
+Season: 20 days. The acid rain has never passed. And in general seldom goes happens.
+
+</spoil>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

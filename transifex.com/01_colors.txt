@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+ltgreen light_green
+lt_green light_green
+ltblue light_blue
+ltgray light_gray
+dkgray dark_gray
+yellow
+ltcyan light_cyan
+ltred light_red
+
+i_ltgreen 
+i_dkgray 
+_ltgray _light_gray
+i_ltred 
+lt_green 
+ltgray_yellow
+ltgray_cyan
+ltgray_green
+dkgray_red
+ltblue_green
+
+
+
+
+dark_gray
+light_gray
+light_blue
+black_light_red
+magenta_light_cyan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,232 @@
+
+« .» — « .» —
+(): выкл вкл неактивно активно свежее горит закрыто раздвинуто сложено развязано разложено разряжено
+
+20-м 20-ом 20-го века 20-го и 21-го веков из-под 20- век 21- век 40-х 50-х годах
+
+! ТО ЧТО ПЕРЕВОДИТЬ
+Winchester Винчестер Magnum Магнум Glock Глок 
+Thompson Томпсон RPK-74 РПК-74 Beretta Беретта STEN СТЕН UZI УЗИ Makarov PM ПМ Saiga-12 Сайга-12 
+Springfield Спрингфилд Remington Ремингтон Browning Браунинг Special Особый Super Супер 
+Boeing Боинг PPSh-41 ППШ-41 ATGM ПТУР Enforcer Энфорсер Colt Кольт 
+
+
+! НЕ ПЕРЕВОДИТЬ
+Mossberg Brownie Mossberg Ruger Kel-Tec KSG Steyr AUG Weatherby Mark V SKS RM228 PDW AN-94 SKS 
+BAR Browning Automatic Rifle Savage SIG Sauer Skorpion Taurus M1 Garand 
+Calico Casull STANAG Desert Eagle «Пустынный орёл» USP Long Ranger 
+
+
+
+
+
+
+
+
+
+
+
+<spoil>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+grenade belt linkage сцепка сцепки сцепок звенья
+ammo belt linkage сцепка сцепки сцепок звенья
+
+rotary speargun вращающееся гарпунное ружьё
+ballista bolt осадный болт
+ballista осадного
+break-action ружьё-«переломка», с переломным затвором
+pipe combination gun комбинированный самопал
+combination gun комбинированное ружьё
+rail launcher рельсомёт
+pipe shotgun самопал
+pipe gun, pipe rifle самопал
+pipe SMG самодельный ПП
+BMG browning machinegun
+fusion rifle, fusion blaster rifle термоядерная винтовка
+scout rifle винтовка разведчика
+assault rifle штурмовая винтовка
+battle rifle, service rifle боевая винтовка боевые винтовки боевых винтовок
+flamethrower огнемёт
+bolt driver болтомёт
+nail gun гвоздомёт
+nail rifle гвоздестрел
+slings slingshots праща рогатка
+general-purpose общего единый пулемёт
+repeating многозарядная 
+launcher установка
+лёгкий пулемёт ручной пулемёт
+станковый пулемёт
+тяжёлый пулемёт крупнокалиберный
+смонтированный тяжёлый пулемёт
+tank gun танковая пушка
+несменяемый
+pull тянуть
+push толкать
+salvage добыча
+scavenger добытчик
+
+
+fire lance charge заряд для огненного копья
+scrap laser pistol самодельный
+pulse laser импульсный лазер
+набор для конверсии в электролазер
+RK6S34 глушитель
+глушитель для дробовика
+прицел для лука
+RS1219 прицел
+
+C-4 пневматическая экспансивная пулька
+флешетты дробь жакан зажигательный трассирующий
+layout дизайн
+barrel ствол
+double-barrel двустволка 2 ствола
+flintlock rifle кремнёвое ружьё ружья ружей
+RPG-7 РПГ-7 граната гранатомётный снаряд = гранатомётный выстрел
+nail gun гвоздомёт
+nail rifle гвоздестрел
+canister grenade граната
+cartridge shell patron chuck holder igniting primer jaw jig mount receptacle патрон
+bullet shot slug ball projectile пуля
+casing canister гильза
+shell 1. снаряд 2. патрон 3. гильза
+slug 1. 12-мм жакан пуля дробовика 2. 155-мм картечь 
+pellet дробина
+shot дробь
+blunderbuss slug мушкетная пуля
+blunderbuss мушкетон короткоствольное ружье с раструбом
+projectile снаряд
+JHP ХХ-грановой оболочечной пулей с полостью - экспансивной пулей - грановая правильно +
+пулей с латунной оболочкой
+JHP экспансивной пулей
+с цельнометаллической оболочкой
+пулей с медной оболочкой и стальным сердечником
+buckshot картечь
+primer капсюль
+rifle винтовочных
+submachine gun SMG ПП пистолет-пулемёт
+lever action с рычажным механизмом перезарядки с затвором рычажного типа с рычажным механизмом затвора
+railgun рельсовой пушки
+rotary carbine ротационном карабине
+bore calibre caliber калибр
+suppressor глушитель
+digital scope цифровой прицел 
+light machine gun тяжёлый ручной пулемёт
+heavy machine gun легкий ручной пулемет
+hand guard цевьё
+bolt-action продольно-скользящим затвором
+
+automagazine auto-magazine auto magazine автомагазин
+unjacketed bullets - полуоболочечной пулей - КАК И В ДРУГИХ ПЕРЕВОДАХ
+rat-shot проникающий
+caseless безгильзовые
+tracer трассирующий
+sporting спортивный гражданский охотничий
+shotshell дробовой патрон
+auto-magazine авто-магазин
+extended magazine расширенный магазин
+rotary magazine поворотный магазин
+stick magazine рожковый магазин
+ammo belt патронная лента
+reinforced frame усиленной рамкой
+repeating crossbow многозарядная арбалетная
+bow лук
+arrowhead and fletching наконечник и оперение
+proprietary патентованный
+chamber оснащена
+
+
+рассчитанный для использования с со в
+jacketed оболочечные
+brass-jacketed цельнометаллической оболочкой
+Hand-loaded снаряжённые вручную
+box magazine коробчатый магазин
+robodrum автоматизированный барабан
+extended SMG magazine увеличенный магазин для ПП
+removable съёмный
+detachable сменяемый съёмный
+integral встроенный несменяемый
+replacement stock сменный
+integrated folding stock складным прикладом
+buttstock приклад 
+stick рожковый
+advanced 1. расширенный 2. усовершенствованный 3. современный
+extended SMG magazine увеличенный магазин для ПП
+extended увеличенный
+double спаренный сдвоенный
+aftermarket собираемый на заказ
+helical спиралевидный
+makeshift 1. самодельный 2. кустарный 3. временный
+handmade самодельный
+Handcrafted самодельный
+custom-made самодельный
+bootleg 1. Нелицензионные кустарные 2. контрабандный
+improvised импровизированный 
+handloaded самоснаряжённый
+reloaded переснаряженный
+flechette оперённый
+high-velocity высокоскоростной
+auxiliary подствольном
+box magazine коробчатый
+import импортный
+uncommon Нестандартный
+unusual необычный
+drum Барабанный
+circular шнековый
+selective fire двухпозиционный переводчик огня
+spare запасной
+
+
+
+
+
+
+
+
+
+</spoil>
+
+
+
+Стрелковое оружие:
+фитильный мушкет 16-17 вв.
+русский кавалерийский пистолет образца 1810
+охотничье курковое ружьё нач. 20 в.
+трехлинейная магазинная винтовка системы Мосина образца 1891
+револьвер системы Нагана образца 1895
+станковый пулемет системы Максима образца 1910
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
