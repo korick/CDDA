@@ -1,1 +1,1 @@
-CDDA Russian-Team
+CDDA Russian-Team Translate
